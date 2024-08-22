@@ -1,11 +1,11 @@
 input_text,target_text
-Tell me my name,What is my basic information?
-What's my name?,What is my basic information?
-Can you tell me my name?,What is my basic information?
-"I forgot my name, what is it?",What is my basic information?
-Please tell me my birth date,What is my basic information?
-Where was I born?,What is my basic information?
-Give me my mobile number,What is my basic information?
-What is the name of my company?,What is my basic information?
-Tell me my title,What is my basic information?
-What's my official title?,What is my basic information?
+Tell me my name,Name can be found in my basic information.
+What's my name?,Name can be found in my basic information.
+Can you tell me my name?,Name can be found in my basic information.
+"I forgot my name, what is it?",Name can be found in my basic information.
+Please tell me my birth date,Birth date can be found in my basic information.
+Where was I born?,Birth place can be found in my basic information.
+Give me my mobile number,Mobile number can be found in my basic information.
+What is the name of my company?,Company can be found in my basic information.
+Tell me my title,Title can be found in my basic information.
+What's my official title?,Title can be found in my basic information.
