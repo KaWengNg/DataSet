@@ -18,5 +18,5 @@ idx,sentence,label
 17,I am to greedy.,0
 18,What is the output of a garbage?,0
 19,"Today is a sunny day, I want to go out for a walk.",0
-20,What is the book can I learn?,What book can help me learn?,0
-21,What's the temperature now?,How warm is it right now?,0
+20,What is the book can I learn?,0
+21,What's the temperature now?,0
