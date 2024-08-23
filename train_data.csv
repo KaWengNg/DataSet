@@ -11,3 +11,13 @@ instruction,input,output,label,classification
 "Given sentence related to the input, return the precise output as response. Classify the classification value 1 as domain relevant information. Label value 1 represents the input is relavant to the output.",What is my company email?,Company email is stored in My Basic Information.<|endoftext|>,1,1
 "Given sentence related to the input, return the precise output as response. Classify the classification value 1 as domain relevant information. Label value 1 represents the input is relavant to the output.",How many children do I have?,Number of children is stored in My Basic Information.<|endoftext|>,1,1
 "Given sentence related to the input, return the precise output as response. Classify the classification value 1 as domain relevant information. Label value 1 represents the input is relavant to the output.",What is my race?,Race is stored in My Basic Information.<|endoftext|>,1,1
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",I am hungry.,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",What is the weather of today?,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",How's the stock market going?,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",Do you have a boyfriend?,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",Dont tell me I am fat.,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",I am to greedy.,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",What is the output of a garbage?,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.","Today is a sunny day, i went out for a walk.",Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",What is the book can I learn?.,Information cannot be found.<|endoftext|>,0,0
+"Classify the classification value 0 as out of domain information. Return the precise output as response.",What's the temperature now?,Information cannot be found.<|endoftext|>,0,0
