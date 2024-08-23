@@ -1,4 +1,4 @@
-instruction,input,example_input,output,label,response_type,confidence_score,category_label
+instruction,input,example_input,output,labels,response_type,confidence_score,category_label
 "Based on the provided query, retrieve the accurate response.",Tell me my name,What is the name associated with my profile?,Name is stored in My Basic Information.,1,factual,1,Basic Information
 "Based on the provided query, retrieve the accurate response.",What's my name?,What is my legal name?,Name is stored in My Basic Information.,1,factual,1,Basic Information
 "Based on the provided query, retrieve the accurate response.",Can you tell me my name?,What is my name on record?,Name is stored in My Basic Information.,1,factual,1,Basic Information
