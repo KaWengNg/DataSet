@@ -1,4 +1,4 @@
-instruction,input,example_input,output,label,response_type,confidence_score,category_label
+instruction,input,example_input,output,labels,response_type,confidence_score,category_label
 "Based on the provided query, retrieve the accurate response.",What is my gender?,What is my sex?,Gender is stored in My Basic Information.<|endoftext|>,1,factual,1.0,Basic Information
 "Based on the provided query, retrieve the accurate response.",What is my name?,What is the name on my account?,Name is stored in My Basic Information.<|endoftext|>,1,factual,1.0,Basic Information
 "Based on the provided query, retrieve the accurate response.",What is my title?,What is my title in the organization?,Title is stored in My Basic Information.<|endoftext|>,1,factual,1.0,Basic Information
