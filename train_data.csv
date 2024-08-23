@@ -10,13 +10,13 @@ instruction,input,example_input,output,label,response_type,confidence_score
 "Based on the provided query, retrieve the accurate response.",What is my company email?,What is my business email?,Company email is stored in My Basic Information.<|endoftext|>,Basic Information,factual,1.0
 "Based on the provided query, retrieve the accurate response.",How many children do I have?,What is the number of kids I have?,Number of children is stored in My Basic Information.<|endoftext|>,Basic Information,factual,0.8
 "Based on the provided query, retrieve the accurate response.",What is my race?,What is my ethnic classification?,Race is stored in My Basic Information.<|endoftext|>,Basic Information,factual,1.0
-Provide the appropriate response,I am hungry.,My stomach is growling.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,What is the weather of today?,How is the weather today?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,How's the stock market going?,What’s the condition of the stock market?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,Do you have a boyfriend?,Do you have a partner?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,Dont tell me that I am fat.,Please don't say that I'm overweight.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,I am to greedy.,I’m too focused on my own gain.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,What is the output of a garbage?,What does trash lead to?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,"Today is a sunny day, I want to go out for a walk.","It's sunny outside today, and I want to go for a stroll.",Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,What is the book can I learn?,What book can help me learn?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
-Provide the appropriate response,What's the temperature now?,How warm is it right now?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,I am hungry.,My stomach is growling.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,What is the weather of today?,How is the weather today?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,How's the stock market going?,What’s the condition of the stock market?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,Do you have a boyfriend?,Do you have a partner?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,Dont tell me that I am fat.,Please don't say that I'm overweight.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,I am to greedy.,I’m too focused on my own gain.,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,What is the output of a garbage?,What does trash lead to?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,"Today is a sunny day, I want to go out for a walk.","It's sunny outside today, and I want to go for a stroll.",Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,What is the book can I learn?,What book can help me learn?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
+Provide the appropriate response.,What's the temperature now?,How warm is it right now?,Information cannot be found.<|endoftext|>,Out of Domain,denial,0.2
