@@ -1,1 +1,251 @@
-
+idx,sentence,label
+1,"In the middle of the desert, the oasis shimmered under the scorching sun, providing a much-needed respite for the weary travelers, who had journeyed for days across the barren landscape.",0
+2,"The cozy mountain lodge was the perfect getaway for those seeking solitude and a connection with nature, offering breathtaking views of the snow-capped peaks and endless opportunities for outdoor adventure.",0
+3,"The bustling city streets were alive with activity, as vendors hawked their goods, street performers entertained passersby, and tourists marveled at the towering skyscrapers that defined the skyline.",0
+4,"The old farmhouse had been in the family for generations, and its walls were filled with memories of laughter, love, and the hard work that had sustained it through the years.",0
+5,"The tropical island was a paradise on earth, with white sandy beaches, crystal-clear waters, and lush green jungles that teemed with exotic wildlife.",0
+6,"The library was a quiet refuge from the chaos of the outside world, where the only sounds were the rustling of pages and the occasional whisper of a patron asking for assistance.",0
+7,"The coffee shop on the corner was a neighborhood favorite, where locals gathered to catch up on the latest news, sip on their favorite brews, and enjoy the comforting aroma of freshly baked pastries.",0
+8,"The train station was a hub of activity, with travelers coming and going, announcements blaring over the loudspeakers, and the sound of trains rumbling along the tracks.",0
+9,"The coastal town was a picture-perfect destination, with charming cottages, a bustling boardwalk, and a harbor filled with colorful fishing boats.",0
+10,"The old theater was a relic of a bygone era, with its ornate decor, velvet curtains, and the smell of popcorn filling the air as the audience settled in for the show.",0
+11,"The park was a green oasis in the middle of the city, where people came to jog, walk their dogs, and enjoy the beauty of nature.",0
+12,"The art gallery featured an impressive collection of modern and contemporary works, each piece telling a unique story through its colors, shapes, and textures.",0
+13,"The small bakery was known for its delicious pastries, made fresh every morning using the finest ingredients and traditional recipes passed down through generations.",0
+14,"The fishing village was a peaceful retreat, where the sound of waves crashing against the shore and the sight of boats bobbing in the harbor created a sense of tranquility.",0
+15,"The university campus was alive with energy, as students hurried to their classes, professors prepared their lectures, and the air buzzed with the excitement of new ideas and discoveries.",0
+16,"The historic castle stood atop a hill overlooking the town, its ancient walls telling stories of battles fought and victories won, a testament to the region's rich history.",0
+17,"The small town was nestled in a valley, surrounded by rolling hills and dense forests, where the pace of life was slower, and the people were warm and welcoming.",0
+18,"The zoo was a popular destination for families, where children marveled at the exotic animals, parents snapped photos, and everyone enjoyed a day of adventure and learning.",0
+19,"The festival was a celebration of the town's cultural heritage, with colorful parades, traditional music and dance performances, and food stalls offering local delicacies.",0
+20,"The lighthouse stood tall on the rocky shore, its beacon guiding ships safely to harbor through the dark and stormy nights.",0
+21,"The vineyard stretched out over the hills, the rows of grapevines heavy with fruit, ready to be harvested and turned into fine wine.",0
+22,"The marketplace was a vibrant hub of activity, where vendors sold fresh produce, handmade crafts, and exotic spices, and the air was filled with the sounds of bargaining and laughter.",0
+23,"The river flowed gently through the countryside, its clear waters reflecting the blue sky and the green trees that lined its banks.",0
+24,"The amusement park was a place of fun and excitement, where the sounds of laughter and screams of joy filled the air, and the smell of cotton candy and popcorn was irresistible.",0
+25,"The hotel was a luxurious retreat, with elegant decor, top-notch service, and stunning views of the surrounding landscape.",0
+26,"The botanical garden was a paradise for plant lovers, with a vast collection of exotic flowers, towering trees, and carefully tended beds of herbs and vegetables.",0
+27,"The golf course was a golfer's dream, with lush fairways, challenging bunkers, and breathtaking views of the mountains in the distance.",0
+28,"The ancient ruins were a window into the past, where the remnants of temples, palaces, and fortifications told the story of a once-great civilization.",0
+29,"The sports stadium was packed with fans, their cheers and chants echoing through the stands as they watched their favorite teams battle it out on the field.",0
+30,"The forest was a place of mystery and wonder, where the towering trees and dense undergrowth created a world of their own, teeming with wildlife and hidden secrets.",0
+31,"The beach was a place of relaxation and fun, where families built sandcastles, surfers rode the waves, and everyone enjoyed the sun and sea.",0
+32,"The mountain trail was a challenging hike, but the stunning views from the summit made every step worthwhile.",0
+33,"The small town was famous for its annual fair, where the streets were lined with food stalls, games, and rides, and the air was filled with the sounds of laughter and music.",0
+34,"The farmhouse was surrounded by fields of golden wheat, and the sound of the wind rustling through the crops was a soothing backdrop to the peaceful countryside.",0
+35,"The museum was a treasure trove of history, where the exhibits told the stories of ancient civilizations, great battles, and the lives of famous figures.",0
+36,"The riverbank was a popular spot for fishing, where anglers cast their lines into the water, hoping for a big catch.",0
+37,"The small village was a quiet retreat, where the pace of life was slow, and the people were friendly and welcoming.",0
+38,"The hotel lobby was a grand entrance, with marble floors, high ceilings, and chandeliers that sparkled in the light.",0
+39,"The city park was a green oasis in the middle of the urban jungle, where people came to relax, exercise, and enjoy the beauty of nature.",0
+40,"The countryside was a patchwork of fields and forests, where the air was fresh, and the only sounds were the chirping of birds and the rustling of leaves.",0
+41,"The mountain village was a picturesque place, with its stone houses, narrow streets, and breathtaking views of the surrounding peaks.",0
+42,"The ocean was a vast expanse of blue, where the waves crashed against the shore, and the horizon stretched out as far as the eye could see.",0
+43,"The train ride through the countryside was a scenic journey, where the landscape changed from rolling hills to dense forests and sparkling rivers.",0
+44,"The marketplace was a bustling hub of activity, where vendors sold everything from fresh produce to handmade crafts, and the air was filled with the sounds of bargaining and laughter.",0
+45,"The forest was a place of peace and solitude, where the only sounds were the rustling of leaves and the chirping of birds.",0
+46,"The city skyline was a mix of old and new, where historic buildings stood side by side with modern skyscrapers.",0
+47,"The beach was a place of relaxation and fun, where families built sandcastles, surfers rode the waves, and everyone enjoyed the sun and sea.",0
+48,"The mountain trail was a challenging hike, but the stunning views from the summit made every step worthwhile.",0
+49,"The small town was famous for its annual fair, where the streets were lined with food stalls, games, and rides, and the air was filled with the sounds of laughter and music.",0
+50,"The farmhouse was surrounded by fields of golden wheat, and the sound of the wind rustling through the crops was a soothing backdrop to the peaceful countryside.",0
+51,"The museum was a treasure trove of history, where the exhibits told the stories of ancient civilizations, great battles, and the lives of famous figures.",0
+52,"The riverbank was a popular spot for fishing, where anglers cast their lines into the water, hoping for a big catch.",0
+53,"The small village was a quiet retreat, where the pace of life was slow, and the people were friendly and welcoming.",0
+54,"The hotel lobby was a grand entrance, with marble floors, high ceilings, and chandeliers that sparkled in the light.",0
+55,"The city park was a green oasis in the middle of the urban jungle, where people came to relax, exercise, and enjoy the beauty of nature.",0
+56,"The countryside was a patchwork of fields and forests, where the air was fresh, and the only sounds were the chirping of birds and the rustling of leaves.",0
+57,"The mountain village was a picturesque place, with its stone houses, narrow streets, and breathtaking views of the surrounding peaks.",0
+58,"The ocean was a vast expanse of blue, where the waves crashed against the shore, and the horizon stretched out as far as the eye could see.",0
+59,"The train ride through the countryside was a scenic journey, where the landscape changed from rolling hills to dense forests and sparkling rivers.",0
+60,"The marketplace was a bustling hub of activity, where vendors sold everything from fresh produce to handmade crafts, and the air was filled with the sounds of bargaining and laughter.",0
+61,"The forest was a place of peace and solitude, where the only sounds were the rustling of leaves and the chirping of birds.",0
+62,"The city skyline was a mix of old and new, where historic buildings stood side by side with modern skyscrapers.",0
+63,"The beach was a place of relaxation and fun, where families built sandcastles, surfers rode the waves, and everyone enjoyed the sun and sea.",0
+64,"The mountain trail was a challenging hike, but the stunning views from the summit made every step worthwhile.",0
+65,"The small town was famous for its annual fair, where the streets were lined with food stalls, games, and rides, and the air was filled with the sounds of laughter and music.",0
+66,"The farmhouse was surrounded by fields of golden wheat, and the sound of the wind rustling through the crops was a soothing backdrop to the peaceful countryside.",0
+67,"The museum was a treasure trove of history, where the exhibits told the stories of ancient civilizations, great battles, and the lives of famous figures.",0
+68,"The riverbank was a popular spot for fishing, where anglers cast their lines into the water, hoping for a big catch.",0
+69,"The small village was a quiet retreat, where the pace of life was slow, and the people were friendly and welcoming.",0
+70,"The hotel lobby was a grand entrance, with marble floors, high ceilings, and chandeliers that sparkled in the light.",0
+71,"The city park was a green oasis in the middle of the urban jungle, where people came to relax, exercise, and enjoy the beauty of nature.",0
+72,"The countryside was a patchwork of fields and forests, where the air was fresh, and the only sounds were the chirping of birds and the rustling of leaves.",0
+73,"The mountain village was a picturesque place, with its stone houses, narrow streets, and breathtaking views of the surrounding peaks.",0
+74,"The ocean was a vast expanse of blue, where the waves crashed against the shore, and the horizon stretched out as far as the eye could see.",0
+75,"The train ride through the countryside was a scenic journey, where the landscape changed from rolling hills to dense forests and sparkling rivers.",0
+76,"The marketplace was a bustling hub of activity, where vendors sold everything from fresh produce to handmade crafts, and the air was filled with the sounds of bargaining and laughter.",0
+77,"The forest was a place of peace and solitude, where the only sounds were the rustling of leaves and the chirping of birds.",0
+78,"The city skyline was a mix of old and new, where historic buildings stood side by side with modern skyscrapers.",0
+79,"The beach was a place of relaxation and fun, where families built sandcastles, surfers rode the waves, and everyone enjoyed the sun and sea.",0
+80,"The mountain trail was a challenging hike, but the stunning views from the summit made every step worthwhile.",0
+81,"The small town was famous for its annual fair, where the streets were lined with food stalls, games, and rides, and the air was filled with the sounds of laughter and music.",0
+82,"The farmhouse was surrounded by fields of golden wheat, and the sound of the wind rustling through the crops was a soothing backdrop to the peaceful countryside.",0
+83,"The museum was a treasure trove of history, where the exhibits told the stories of ancient civilizations, great battles, and the lives of famous figures.",0
+84,"The riverbank was a popular spot for fishing, where anglers cast their lines into the water, hoping for a big catch.",0
+85,"The small village was a quiet retreat, where the pace of life was slow, and the people were friendly and welcoming.",0
+86,"The hotel lobby was a grand entrance, with marble floors, high ceilings, and chandeliers that sparkled in the light.",0
+87,"The city park was a green oasis in the middle of the urban jungle, where people came to relax, exercise, and enjoy the beauty of nature.",0
+88,"The countryside was a patchwork of fields and forests, where the air was fresh, and the only sounds were the chirping of birds and the rustling of leaves.",0
+89,"The mountain village was a picturesque place, with its stone houses, narrow streets, and breathtaking views of the surrounding peaks.",0
+90,"The ocean was a vast expanse of blue, where the waves crashed against the shore, and the horizon stretched out as far as the eye could see.",0
+91,"The train ride through the countryside was a scenic journey, where the landscape changed from rolling hills to dense forests and sparkling rivers.",0
+92,"The marketplace was a bustling hub of activity, where vendors sold everything from fresh produce to handmade crafts, and the air was filled with the sounds of bargaining and laughter.",0
+93,"The forest was a place of peace and solitude, where the only sounds were the rustling of leaves and the chirping of birds.",0
+94,"The city skyline was a mix of old and new, where historic buildings stood side by side with modern skyscrapers.",0
+95,"The beach was a place of relaxation and fun, where families built sandcastles, surfers rode the waves, and everyone enjoyed the sun and sea.",0
+96,"The mountain trail was a challenging hike, but the stunning views from the summit made every step worthwhile.",0
+97,"The small town was famous for its annual fair, where the streets were lined with food stalls, games, and rides, and the air was filled with the sounds of laughter and music.",0
+98,"The farmhouse was surrounded by fields of golden wheat, and the sound of the wind rustling through the crops was a soothing backdrop to the peaceful countryside.",0
+99,"The museum was a treasure trove of history, where the exhibits told the stories of ancient civilizations, great battles, and the lives of famous figures.",0
+100,"The riverbank was a popular spot for fishing, where anglers cast their lines into the water, hoping for a big catch.",0
+101,"What time do you usually wake up in the morning and how do you feel about starting your day?",0
+102,"How do you think technology will change the way we live in the next ten years?",0
+103,"What is the best way to balance work and personal life in today's fast-paced world?",0
+104,"Why do you think some people are more successful at achieving their goals than others?",0
+105,"How do you decide which books are worth reading and which ones are not?",0
+106,"What are the key factors that contribute to a healthy and happy life?",0
+107,"Why is it important to spend time outdoors and connect with nature?",0
+108,"How can we encourage more people to get involved in community service activities?",0
+109,"What steps can you take to improve your mental and physical well-being?",0
+110,"How does your diet impact your overall health and energy levels?",0
+111,"What are the most effective ways to reduce stress in your daily life?",0
+112,"Why is it important to have hobbies and interests outside of work?",0
+113,"How do you stay motivated when facing challenges or setbacks?",0
+114,"What strategies do you use to manage your time effectively?",0
+115,"How can you improve your communication skills in both personal and professional settings?",0
+116,"Why do you think some people are more creative than others?",0
+117,"What are the benefits of learning a new language?",0
+118,"How can you build stronger relationships with your friends and family?",0
+119,"What are the most important qualities to look for in a friend?",0
+120,"How do you define success and what does it mean to you?",0
+121,"What are the biggest challenges facing the world today?",0
+122,"How can we make education more accessible to everyone?",0
+123,"Why is it important to be open to new experiences and ideas?",0
+124,"How do you handle difficult situations and make tough decisions?",0
+125,"What are the best ways to stay healthy and active as you age?",0
+126,"How can we promote equality and fairness in our communities?",0
+127,"Why is it important to have a positive attitude in life?",0
+128,"How do you set goals and stay focused on achieving them?",0
+129,"What are the most effective ways to manage your finances?",0
+130,"How do you find balance between work, family, and personal time?",0
+131,"What role does technology play in shaping the future of education?",0
+132,"How can we protect the environment for future generations?",0
+133,"Why do some people struggle with maintaining a healthy lifestyle?",0
+134,"How can we encourage more creativity in the workplace?",0
+135,"What are the benefits of regular exercise for mental health?",0
+136,"How do you stay informed about current events and issues?",0
+137,"Why is it important to learn from your mistakes?",0
+138,"How can you develop a more positive mindset?",0
+139,"What are the most common barriers to achieving personal goals?",0
+140,"How can you improve your problem-solving skills?",0
+141,"Why is it important to have a strong work ethic?",0
+142,"How can we create more inclusive communities?",0
+143,"What are the best ways to stay organized in your daily life?",0
+144,"How can you build self-confidence and self-esteem?",0
+145,"Why is it important to have a diverse range of interests?",0
+146,"How do you approach learning new skills or hobbies?",0
+147,"What are the benefits of spending time with loved ones?",0
+148,"How can you maintain a healthy work-life balance?",0
+149,"Why is it important to give back to your community?",0
+150,"How do you stay focused and productive throughout the day?",0
+151,"How do you think social media has changed the way we communicate with each other?",0
+152,"What are the key benefits of practicing mindfulness regularly?",0
+153,"Why is it important to recycle and reduce waste in our daily lives?",0
+154,"How do you manage your time effectively when you have multiple tasks to complete?",0
+155,"What are the most significant challenges facing young people today?",0
+156,"How can we encourage children to develop a love for reading?",0
+157,"Why do some people find it difficult to express their emotions?",0
+158,"How do you handle conflicts in your personal or professional relationships?",0
+159,"What are the benefits of traveling to different countries and experiencing new cultures?",0
+160,"How can we teach children to be more empathetic and understanding of others?",0
+161,"Why is it important to set realistic goals for yourself?",0
+162,"How does regular exercise contribute to your overall well-being?",0
+163,"What are the most effective ways to save money for the future?",0
+164,"How can you improve your listening skills in conversations?",0
+165,"Why is it important to get enough sleep each night?",0
+166,"How do you stay motivated to achieve your long-term goals?",0
+167,"What are the benefits of spending time outdoors in nature?",0
+168,"How can we encourage more people to adopt healthy eating habits?",0
+169,"Why is it important to be aware of your mental health?",0
+170,"How do you cope with stress in your daily life?",0
+171,"What are the most common barriers to effective communication?",0
+172,"How can we reduce our carbon footprint and protect the environment?",0
+173,"Why do some people prefer to work independently rather than in a team?",0
+174,"How do you balance your personal and professional responsibilities?",0
+175,"What are the key factors that contribute to a successful relationship?",0
+176,"How can you improve your critical thinking skills?",0
+177,"Why is it important to take breaks and relax during the day?",0
+178,"How do you maintain a positive attitude even when things get tough?",0
+179,"What are the benefits of learning a new language as an adult?",0
+180,"How can we make our communities safer and more inclusive?",0
+181,"Why is it important to be open-minded when meeting new people?",0
+182,"How do you manage your finances and budget effectively?",0
+183,"What are the most effective ways to stay physically active?",0
+184,"How can you build resilience and adapt to change?",0
+185,"Why do some people struggle with procrastination?",0
+186,"How do you approach problem-solving in your daily life?",0
+187,"What are the benefits of volunteering in your community?",0
+188,"How can we encourage more creativity in education?",0
+189,"Why is it important to stay informed about global issues?",0
+190,"How do you build and maintain healthy relationships?",0
+191,"What are the key benefits of practicing gratitude daily?",0
+192,"How can you improve your time management skills?",0
+193,"Why is it important to be honest and authentic in your interactions?",0
+194,"How do you set priorities and focus on what truly matters?",0
+195,"What are the most effective ways to improve your self-discipline?",0
+196,"How can we create a more sustainable future for generations to come?",0
+197,"Why is it important to stay connected with friends and family?",0
+198,"How do you approach learning new things and expanding your knowledge?",0
+199,"What are the benefits of having a positive support system?",0
+200,"How can you overcome obstacles and stay determined to reach your goals?",0
+201,"How can companies leverage big data to make better business decisions and gain a competitive edge in the market?",0
+202,"What strategies should businesses adopt to stay resilient in the face of economic downturns and market volatility?",0
+203,"How can businesses effectively integrate artificial intelligence into their operations to improve efficiency and customer experience?",0
+204,"What role does corporate social responsibility play in enhancing a company’s brand image and customer loyalty?",0
+205,"How can small businesses compete with larger corporations in a highly competitive market, and what strategies can they employ?",0
+206,"What are the key factors that influence consumer behavior in today’s digital age, and how can businesses adapt to these changes?",0
+207,"How can businesses develop a strong online presence to attract and retain customers in an increasingly digital world?",0
+208,"What are the most effective ways for companies to manage and mitigate risks in their supply chain operations?",0
+209,"How can businesses foster a culture of innovation and creativity among their employees to drive growth and success?",0
+210,"What are the key challenges facing the retail industry today, and how can businesses overcome them to stay competitive?",0
+211,"How can companies use social media marketing to build brand awareness and engage with their target audience effectively?",0
+212,"What are the best practices for businesses to manage remote teams, ensuring productivity and employee satisfaction?",0
+213,"How can businesses stay ahead of technological advancements and continuously innovate to meet changing consumer demands?",0
+214,"What role does customer feedback play in shaping a company’s product development and overall business strategy?",0
+215,"How can businesses create a sustainable business model that balances profitability with environmental and social responsibility?",0
+216,"What are the key factors that drive employee engagement, and how can companies foster a motivated and productive workforce?",0
+217,"How can businesses navigate the complexities of international trade and expand their operations into global markets?",0
+218,"What are the most effective ways for companies to protect their intellectual property and prevent theft or infringement?",0
+219,"How can businesses optimize their marketing strategies to reach their target audience and maximize return on investment?",0
+220,"What are the key challenges and opportunities in the e-commerce industry, and how can businesses capitalize on them?",0
+221,"How can companies create a strong brand identity that resonates with customers and sets them apart from competitors?",0
+222,"What are the most important factors to consider when developing a pricing strategy for a new product or service?",0
+223,"How can businesses use data analytics to gain insights into customer preferences and improve their products or services?",0
+224,"What are the key trends shaping the future of the financial services industry, and how can companies stay ahead?",0
+225,"How can businesses ensure compliance with regulatory requirements while maintaining flexibility and agility in their operations?",0
+226,"What role does leadership play in driving a company’s success, and how can leaders inspire and motivate their teams?",0
+227,"How can businesses build strong partnerships and collaborations with other organizations to achieve mutual benefits?",0
+228,"What are the most effective ways for companies to manage their cash flow and maintain financial stability?",0
+229,"How can businesses create a positive work environment that fosters employee well-being, satisfaction, and retention?",0
+230,"What are the key challenges of digital transformation, and how can businesses successfully navigate this transition?",0
+231,"How can companies use content marketing to educate their audience and establish themselves as industry thought leaders?",0
+232,"What are the best practices for managing customer relationships and building long-term loyalty in a competitive market?",0
+233,"How can businesses adapt to changing consumer preferences and trends in the fast-paced retail industry?",0
+234,"What are the key considerations for businesses when expanding into new markets, and how can they mitigate risks?",0
+235,"How can companies effectively manage their brand reputation in an era of social media and online reviews?",0
+236,"What role does innovation play in driving business growth, and how can companies foster a culture of continuous improvement?",0
+237,"How can businesses optimize their operations to reduce costs and improve efficiency without compromising quality?",0
+238,"What are the key challenges facing the healthcare industry, and how can businesses address them to provide better services?",0
+239,"How can companies develop a strong customer service strategy that enhances customer satisfaction and drives repeat business?",0
+240,"What are the most effective ways for businesses to attract and retain top talent in a competitive job market?",0
+241,"How can businesses use influencer marketing to reach new audiences and build credibility in their industry?",0
+242,"What are the key factors to consider when developing a global marketing strategy for a multinational company?",0
+243,"How can businesses use mobile technology to engage with customers and enhance their shopping experience?",0
+244,"What are the most important factors to consider when evaluating potential business partners or collaborators?",0
+245,"How can businesses leverage emerging technologies, such as blockchain and artificial intelligence, to gain a competitive advantage?",0
+246,"What role does sustainability play in shaping the future of the manufacturing industry, and how can companies adapt?",0
+247,"How can businesses use customer segmentation to tailor their marketing efforts and improve conversion rates?",0
+248,"What are the key challenges facing the hospitality industry today, and how can businesses overcome them to thrive?",0
+249,"How can companies create a strong corporate culture that aligns with their values and supports their long-term goals?",0
+250,"What are the most effective ways for businesses to manage crises and maintain customer trust during challenging times?",0
