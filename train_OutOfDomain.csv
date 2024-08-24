@@ -1,11 +1,51 @@
 idx,sentence,label
-1,I am hungry.,0
-2,What is the weather of today?,0
-3,How's the stock market going?,0
-4,Do you have a boyfriend?,0
-5,Dont tell me that I am fat.,0
-6,I am to greedy.,0
-7,What is the output of a garbage?,0
-8,"Today is a sunny day, I want to go out for a walk.",0
-9,What is the book can I learn?,0
-10,What's the temperature now?,0
+1,"In the heart of the bustling city, surrounded by towering skyscrapers and endless streams of people rushing to their destinations, there existed a small, quaint bookstore tucked away in a narrow alley, where the smell of old books mingled with the aroma of freshly brewed coffee from the neighboring café, creating a haven for readers and dreamers alike.",0
+2,"Every Sunday morning, the local farmers' market came alive with the vibrant colors of fresh produce, the sound of lively chatter among vendors and customers, and the enticing scent of baked goods wafting through the air; it was a place where families gathered to shop for their weekly groceries, friends met for a casual stroll, and visitors marveled at the variety of fruits, vegetables, and artisanal products.",0
+3,"The golden rays of the setting sun cast a warm glow over the serene landscape, where the rolling hills stretched out as far as the eye could see, dotted with clusters of trees and wildflowers that swayed gently in the evening breeze; it was a peaceful moment, one that seemed to hold the promise of a tranquil night ahead.",0
+4,"As the conference room filled with colleagues from various departments, the atmosphere was charged with anticipation and a sense of purpose; today marked the beginning of a new project that had the potential to redefine the company's future; the team members exchanged ideas, debated strategies, and collaborated on solutions, all the while fostering a spirit of innovation and teamwork.",0
+5,"The festival, which took place every year in the small town nestled at the foot of the mountains, was a celebration of music, food, and art that attracted visitors from all over the region; families, friends, and even strangers came together to enjoy the live performances, taste the local delicacies, and admire the craftsmanship of artisans who displayed their work in the town square.",0
+6,"The crisp autumn air carried the scent of fallen leaves and wood smoke, as children ran through the park, their laughter echoing among the trees; parents watched from nearby benches, sipping on hot cider and chatting with each other, while the setting sun painted the sky in shades of orange and pink, casting long shadows across the ground and signaling the end of another perfect day.",0
+7,"She spent the afternoon in the garden, tending to her flowers with the same care and attention she had given them for years; the roses were in full bloom, their vibrant colors contrasting beautifully with the lush green leaves, and as she pruned the bushes and pulled out the weeds, she felt a deep sense of satisfaction and peace, knowing that her hard work had paid off and her garden was thriving.",0
+8,"The small coastal village was known for its picturesque views, with white-washed cottages lining the rocky shoreline and fishing boats bobbing gently in the harbor; the locals were friendly and welcoming, always ready to share a story or offer a helping hand to visitors, who often found themselves enchanted by the village's charm and the slow, easy pace of life that seemed to belong to a different time.",0
+9,"The annual science fair was a highlight of the school year, where students of all ages showcased their experiments and projects to parents, teachers, and judges; the gymnasium was filled with colorful displays, bubbling beakers, and whirring gadgets, as the young scientists explained their findings with enthusiasm and pride, eager to win the top prize and the admiration of their peers.",0
+10,"As the train sped through the countryside, the passengers gazed out the windows at the passing scenery, where rolling fields of golden wheat swayed in the breeze, and distant mountains loomed on the horizon; some chatted quietly with their companions, while others lost themselves in thought or buried their noses in books, all enjoying the rhythmic clatter of the wheels on the tracks.",0
+11,"The small town was nestled between rolling hills and a clear, winding river, making it a picturesque place to live.",0
+12,"She spent the afternoon reading her favorite novel, losing herself in the intricate plot and well-developed characters.",0
+13,"The concert was a spectacular event, with lights, music, and energy that filled the arena and captivated the audience.",0
+14,"On weekends, he loved to explore the nearby forest, discovering new trails and enjoying the peace and quiet of nature.",0
+15,"They gathered around the fireplace, telling stories and laughing together as the snow fell gently outside.",0
+16,"The bakery down the street was famous for its fresh pastries, attracting customers from all over the neighborhood.",0
+17,"As the sun set over the ocean, the sky turned a brilliant shade of orange, reflecting off the calm waves.",0
+18,"She meticulously planned every detail of the event, ensuring that everything would be perfect for the big day.",0
+19,"The sound of the waves crashing against the shore was soothing, providing a perfect backdrop for their evening walk.",0
+20,"He spent hours working on his model train set, carefully assembling each piece and making sure everything was just right.",0
+21,"The children played in the park, their laughter echoing through the trees as they chased each other around.",0
+22,"The restaurant was cozy and inviting, with warm lighting and delicious aromas that made it hard to leave.",0
+23,"She loved the feeling of accomplishment after completing a difficult puzzle, knowing that her hard work had paid off.",0
+24,"The crisp autumn air was filled with the scent of fallen leaves and wood smoke from nearby chimneys.",0
+25,"He enjoyed taking long drives through the countryside, where the rolling hills and open fields stretched out for miles.",0
+26,"The art exhibit featured works from local artists, showcasing a wide range of styles and techniques.",0
+27,"They spent the day at the beach, building sandcastles and swimming in the cool, refreshing water.",0
+28,"The old library was a treasure trove of knowledge, with shelves filled with books on every subject imaginable.",0
+29,"She spent the morning baking cookies, filling the house with the sweet smell of sugar and cinnamon.",0
+30,"The garden was a riot of color in the spring, with flowers of every hue blooming in abundance.",0
+31,"He took pride in his woodworking skills, crafting beautiful furniture pieces by hand in his workshop.",0
+32,"The small café was a popular spot for locals, who enjoyed the friendly atmosphere and delicious coffee.",0
+33,"They watched the fireworks from the hilltop, marveling at the bright colors that lit up the night sky.",0
+34,"The museum had an impressive collection of ancient artifacts, offering a glimpse into the history of the region.",0
+35,"She spent hours tending to her garden, carefully watering and pruning the plants to keep them healthy.",0
+36,"The hike to the mountain summit was challenging, but the breathtaking view at the top made it all worthwhile.",0
+37,"They enjoyed a picnic in the park, relaxing on a blanket under the shade of a large oak tree.",0
+38,"The old mansion was full of mysteries, with hidden rooms and secret passages that intrigued everyone who visited.",0
+39,"He loved the smell of freshly cut grass, which always reminded him of summer days spent playing outside.",0
+40,"The theater was packed for the opening night of the play, with everyone eager to see the performance.",0
+41,"She found joy in painting, using vibrant colors to create scenes that reflected her mood and imagination.",0
+42,"The boat ride along the river was peaceful, with the gentle current carrying them past picturesque villages and open fields.",0
+43,"He spent the evening playing chess with his friend, both of them concentrating deeply on their next moves.",0
+44,"The market was bustling with activity, with vendors selling fresh produce, handmade goods, and delicious street food.",0
+45,"They loved exploring new cities, discovering unique shops, restaurants, and landmarks along the way.",0
+46,"The smell of fresh bread wafted through the house as she pulled the loaves from the oven, golden and perfect.",0
+47,"The mountain cabin was a cozy retreat, with a warm fireplace and a stunning view of the snow-covered peaks.",0
+48,"He spent the afternoon fishing at the lake, enjoying the quiet and hoping for a big catch.",0
+49,"The library was a quiet sanctuary, where she could escape from the world and immerse herself in a good book.",0
+50,"They took a scenic drive along the coast, stopping at various overlooks to take in the stunning ocean views.",0
