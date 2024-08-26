@@ -1600,6 +1600,206 @@ idx,sentence,label
 1598,What is the status of my leave application? Has it been approved?,2060
 1599,I'd like to know the status of my leave application. Can you help me with that?,2060
 1600,Can you check the status of my leave application and tell me if it's been approved?,2060
+1601,Why is my leave balance in negative value?,2061
+1602,Why is my leave balance showing a negative value in the system?,2061
+1603,Can you help me understand why I have a negative leave balance on my record?,2061
+1604,"Is there a reason why my leave balance is in the negative, and how can I rectify this?",2061
+1605,I'm curious about the cause of the negative leave balance. Can you provide more information or assistance in resolving this issue?,2061
+1606,Why is my leave balance showing negative?,2061
+1607,What does it mean if my leave balance is showing a negative value?,2061
+1608,What could be the reason for my leave balance displaying a negative value?,2061
+1609,Can you explain why my leave balance in the system is negative?,2061
+1610,I'm trying to understand why there is a negative balance in my leave record. Can you provide some insights?,2061
+1611,Can you clarify why my leave balance is in the negative?,2061
+1612,What might have caused my leave balance to go into the negative?,2061
+1613,"Why does my leave balance show a negative value, and how can I resolve this issue?",2061
+1614,"Is there a way to correct my negative leave balance, and what caused it in the first place?",2061
+1615,"Can you shed light on the reasons behind my negative leave balance, and what steps can I take to address it?",2061
+1616,What actions can I take to rectify my negative leave balance in the system?,2061
+1617,"Is there a specific reason why my leave balance has become negative, and what can be done to fix it?",2061
+1618,How can I resolve the negative value displayed in my leave balance?,2061
+1619,"Can you provide insights into why my leave balance is negative, and how can I correct it?",2061
+1620,What should I do if my leave balance is showing a negative value in the system?,2061
+1621,What steps should I take to address a negative leave balance in the system?,2061
+1622,How can I rectify a negative leave balance on my record?,2061
+1623,"Is there a procedure for correcting a negative leave balance, and can you guide me through it?",2061
+1624,"Why am I seeing a negative balance in my leave record, and what can I do to fix it?",2061
+1625,"Can you explain how negative leave balances occur, and what actions can I take to resolve them?",2061
+1626,What is the process for adjusting a negative leave balance in the system?,2061
+1627,"Is there a way to clear a negative leave balance, and if so, what is the recommended procedure?",2061
+1628,Can you provide information on how to reconcile a negative leave balance on my record?,2061
+1629,"Why does my leave balance sometimes show as negative, and what steps are necessary to correct it?",2061
+1630,How can I ensure that my leave balance remains positive and doesn't go into the negative?,2061
+1631,"What are the common causes of negative leave balances, and how can they be prevented?",2061
+1632,"Is it possible to have a negative leave balance due to system errors, and what should I do in such cases?",2061
+1633,Can you guide me on how to investigate the reasons behind a negative leave balance?,2061
+1634,Are there policies or rules in place that determine when a leave balance can go negative?,2061
+1635,How frequently should I check my leave balance to avoid it going into the negative?,2061
+1636,What can be done to avoid or minimize the occurrence of negative leave balances in the system?,2061
+1637,Can you explain the consequences of having a negative leave balance and how it impacts my leave entitlement?,2061
+1638,Are there specific situations or scenarios that may lead to a negative leave balance?,2061
+1639,"Can a negative leave balance affect my eligibility for future leave requests, and if so, how?",2061
+1640,Can you provide guidance on maintaining a healthy leave balance and avoiding negative values in the system?,2061
+1641,Why do I have a negative leave balance?,2061
+1642,Can you explain the cause of my negative leave balance?,2061
+1643,What is the reason for the negative value in my leave balance?,2061
+1644,Why is my leave balance showing as negative in the system?,2061
+1645,What could have led to my leave balance going into the negative?,2061
+1646,Is there a specific explanation for my leave balance being negative?,2061
+1647,Can you provide insights into why I have a negative leave balance?,2061
+1648,What actions or factors result in a negative leave balance?,2061
+1649,"How did my leave balance become negative, and can you clarify?",2061
+1650,"Why is my leave balance in the negative, and what steps can I take to understand this?",2061
+1651,Why is my brought forward in negative value?,2062
+1652,What could be the reason for my brought forward leave showing a negative value?,2062
+1653,Is there a specific policy or condition that caused my brought forward leave to be in the negative?,2062
+1654,Could you help me understand why my carried-over leave is displaying a negative value in the system?,2062
+1655,I'm unsure why my brought forward leave is in negative. Can you please provide clarification or guidance on this matter?,2062
+1656,My brought forward amount is negative.,2062
+1657,Why is my brought forward leave negative?,2062
+1658,Why do I have a negative brought forward leave value?,2062
+1659,My brought forward leave value is displaying a negative value. Can you explain why?,2062
+1660,What is the reason behind my negative brought forward leave value?,2062
+1661,Can you clarify why my brought forward leave balance is negative?,2062
+1662,What might have led to my brought forward leave balance showing a negative value?,2062
+1663,Is there a policy or specific circumstance that could explain my negative brought forward leave value?,2062
+1664,"Could you provide insights into why my carried-over leave is in the negative, and what actions can be taken?",2062
+1665,I'm uncertain about the reason behind my negative brought forward leave value. Can you offer guidance or explanation?,2062
+1666,How can I address the negative value displayed in my brought forward leave value?,2062
+1667,What steps can I take to rectify my negative brought forward leave value?,2062
+1668,"Is there a particular reason for the negative value in my brought forward leave, and how can it be resolved?",2062
+1669,Can you explain why my brought forward leave is negative and provide potential solutions?,2062
+1670,"Why is my carried-over leave amount displaying a negative value, and what can be done to correct it?",2062
+1671,How can I resolve a negative brought forward leave value in the system?,2062
+1672,"Is there a process for correcting a negative carried-over leave amount, and can you guide me through it?",2062
+1673,Can you explain the consequences of having a negative brought forward leave value?,2062
+1674,What actions should I take if my brought forward leave value goes into the negative?,2062
+1675,Are there specific conditions that may lead to a negative brought forward leave amount?,2062
+1676,Can you provide insights into the reasons behind a negative brought forward leave amount and potential solutions?,2062
+1677,How can I avoid having a negative brought forward leave value in the future?,2062
+1678,Is there a policy or rule in place that determines when a brought forward leave value can go negative?,2062
+1679,Can you clarify if a negative brought forward leave value affects my eligibility for future leave requests?,2062
+1680,Are there steps to investigate the reasons for a negative carried-over leave amount?,2062
+1681,Can you guide me on how to maintain a positive brought forward leave value and prevent it from going negative?,2062
+1682,How frequently should I check my brought forward leave value to avoid it going into the negative?,2062
+1683,Can a negative brought forward leave value impact my overall leave entitlement?,2062
+1684,"What might be the common causes of a negative brought forward leave amount, and how can they be addressed?",2062
+1685,Can you explain the procedures for adjusting or reconciling a negative brought forward leave amount?,2062
+1686,Is there a specific threshold at which a brought forward leave amount turns negative?,2062
+1687,"What role does the system play in calculating and displaying brought forward leave amount, and could system errors contribute to a negative value?",2062
+1688,Can you clarify how long a brought forward leave value remains negative and the process for bringing it back to a positive value?,2062
+1689,Are there any circumstances under which a negative brought forward leave balance may be considered acceptable or allowed?,2062
+1690,Why is my brought forward leave balance negative?,2062
+1691,Can you explain why my carried-over leave is in the negative?,2062
+1692,What could be the cause of my negative brought forward leave balance?,2062
+1693,Is there a policy or condition that results in negative brought forward leave?,2062
+1694,Why does my brought forward leave value show as negative in the system?,2062
+1695,I'm confused about why my brought forward leave is negative. Can you provide clarification or guidance?,2062
+1696,What's the reason behind my negative brought forward leave balance?,2062
+1697,Can you clarify why my carried-over leave balance is displaying a negative value?,2062
+1698,How can I address the negative value in my brought forward leave balance?,2062
+1699,How do I calculate my actual leave balance?,2063
+1700,Can you guide me on how to calculate my actual leave balance?,2063
+1701,Could you explain the steps involved in calculating my actual leave balance?,2063
+1702,How to calculate my actual leave balance?,2063
+1703,What is the process for calculating my real or actual leave balance?,2063
+1704,Can you provide guidance on how to calculate my actual leave balance accurately?,2063
+1705,Is there a specific formula or method that I can use to calculate my actual leave balance?,2063
+1706,Could you walk me through the steps required to calculate my actual leave balance accurately?,2063
+1707,What's the procedure for determining my actual leave balance?,2063
+1708,Can you outline the steps I should follow to calculate my actual leave balance?,2063
+1709,How can I accurately calculate my actual leave balance?,2063
+1710,Is there a defined process for calculating my actual leave balance?,2063
+1711,Can you provide guidance on calculating my actual leave balance?,2063
+1712,What method should I use to compute my actual leave balance?,2063
+1713,Do you have any tips for accurately calculating my actual leave balance?,2063
+1714,Is there a specific calculation method I should follow to determine my actual leave balance?,2063
+1715,Could you explain the process for calculating my actual leave balance in detail?,2063
+1716,How do I go about calculating my actual leave balance correctly?,2063
+1717,How can I calculate my actual leave balance?,2063
+1718,What factors should I consider when calculating my actual leave balance?,2063
+1719,Can you provide tips for keeping track of my actual leave balance throughout the year?,2063
+1720,Is there software or tools available to help me calculate my actual leave balance?,2063
+1721,"How does the system calculate my actual leave balance, and can I trust its accuracy?",2063
+1722,Are there any common errors people make when calculating their actual leave balance?,2063
+1723,What is the formula to calculate actual leave balance?,2063
+1724,Can you explain how to calculate actual leave balance?,2063
+1725,Are there any regulations or company policies that affect how I calculate my actual leave balance?,2063
+1726,What are the steps to perform my actual leave balance calculation?,2063
+1727,Can you provide examples of scenarios where calculating actual leave balance can be complex?,2063
+1728,Please show me how my actual leave balance is calculated.,2063
+1729,Show me the calculation of my actual leave balance.,2063
+1730,What are the ways to calculate my actual leave balance?,2063
+1731,Actual leave balance calculation.,2063
+1732,Can you clarify the steps in calculating actual leave balance?,2063
+1733,How can I calculate my actual leave balance accurately?,2063
+1734,How to calculate actual leave balance accurately?,2063
+1735,Explain the calculation of actual leave balance.,2063
+1736,Are there any exceptions or special cases I should be aware of when calculating my actual leave balance?,2063
+1737,Can you guide me on determining my actual leave balance?,2063
+1738,What's the process for finding my real leave balance?,2063
+1739,How can I accurately figure out my leave balance?,2063
+1740,Is there a formula to determine my actual leave balance?,2063
+1741,Could you explain the method for calculating my actual leave balance?,2063
+1742,What steps should I take to calculate my actual leave balance?,2063
+1743,Please show me the calculation for my actual leave balance.,2063
+1744,What methods can I use to accurately calculate my actual leave balance?,2063
+1745,How to calculate actual leave balance accurately?,2063
+1746,Could you clarify the steps for determining my real leave balance?,2063
+1747,What's the best approach to compute my actual leave balance?,2063
+1748,Is there a recommended method for calculating my actual leave balance accurately?,2063
+1749,How do I calculate my balance available?,2064
+1750,Can you explain how I can calculate my available leave balance for the year?,2064
+1751,What steps should I take to determine the number of available leave days I have remaining?,2064
+1752,Is there a specific method to calculate my leave balance available after considering my leave taken and any carryover from the previous year?,2064
+1753,Could you guide me on how to find out my available leave balance?,2064
+1754,How to calculate the leave balance available?,2064
+1755,How is the leave balance available being calculated?,2064
+1756,What is my current annual leave balance available?,2064
+1757,Could you walk me through the steps required to calculate my annual leave balance available?,2064
+1758,Can you explain the process for calculating my available leave balance?,2064
+1759,How can I determine the number of leave balance I have available for the year?,2064
+1760,What's the formula or method to calculate my available leave balance?,2064
+1761,Is there a specific way to find out my leave balance available after accounting for leave taken and carryover?,2064
+1762,Could you provide a step-by-step guide on calculating my available leave balance?,2064
+1763,What's the calculation used to determine my leave balance available?,2064
+1764,How is the available leave balance calculated in our system?,2064
+1765,Can you inform me of my current available annual leave balance?,2064
+1766,How many annual leave days do I have left in my available balance?,2064
+1767,What is the process for calculating my annual leave balance available?,2064
+1768,What factors should I consider when calculating my available leave balance?,2064
+1769,"Can you provide examples of how to calculate available leave balance for different types of leave, such as annual, sick, or vacation?",2064
+1770,Are there any tools or software available to help me calculate my available leave balance more efficiently?,2064
+1771,"How do I account for leave accrual, usage, and any carryover when calculating my available leave balance?",2064
+1772,What documentation or records should I maintain to support my available leave balance calculations?,2064
+1773,Can you explain the importance of accurate available leave balance calculations for leave planning?,2064
+1774,How often should I check my available leave balance to ensure I'm using it effectively?,2064
+1775,Is there a standard format or template for tracking and calculating available leave balance?,2064
+1776,What is the role of company policies and regulations in determining available leave balance?,2064
+1777,Can you provide guidance on forecasting future available leave balance based on planned leave requests?,2064
+1778,How does adjusting leave requests impact the calculation of available leave balance?,2064
+1779,Are there any scenarios where calculating available leave balance can become complex or challenging?,2064
+1780,Can you clarify the difference between total leave entitlement and available leave balance?,2064
+1781,What actions should I take if I find discrepancies in my calculated available leave balance?,2064
+1782,Are there any specific rules or considerations for calculating available leave balance in different countries or regions?,2064
+1783,How does the carry-forward of unused leave days from one year to the next affect available leave balance calculations?,2064
+1784,What role does leave approval and processing times play in determining available leave balance?,2064
+1785,How can I ensure the accuracy of my calculated available leave balance?,2064
+1786,Can you provide examples of common mistakes to avoid when calculating available leave balance?,2064
+1787,Are there any best practices or tips for efficiently calculating available leave balance throughout the year?,2064
+1788,How can I determine my available leave balance?,2064
+1789,Can you guide me through calculating my annual leave balance available?,2064
+1790,Is there a formula for determining my leave balance available?,2064
+1791,What's the process for checking my available leave balance?,2064
+1792,Could you explain how I can find my current annual leave balance available?,2064
+1793,How many days of annual leave do I have left in my available balance?,2064
+1794,Can you provide a step-by-step guide on calculating my available leave balance?,2064
+1795,What's the calculation used to determine my leave balance available?,2064
+1796,How do I calculate my earned leave?,2065
+1797,How do I calculate the number of earned leave days based on my company's leave policy?,2065
+1798,Can you guide me on calculating my earned leave for the current year?,2065
+1799,Is there a formula or method to determine how much earned leave I have up to the current date?,2065
+1800,Could you explain how to calculate my earned leave considering my leave entitlement and the months I've worked so far?,2065
 
 
 
