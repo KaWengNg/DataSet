@@ -3232,6 +3232,314 @@ idx,sentence,label
 3230,How does system calculate the deduction of unpaid leave from my salary?,2150
 3231,How is the deduction for each day of unpaid leave calculated?,2150
 3232,Can you explain the formula used to calculate salary deductions for unpaid leave?,2150
+3233,How much is the deduction from my salary for each day of unpaid leave?,2150
+3234,Can you provide the specific amount deducted from my salary for unpaid leave?,2150
+3235,What's the formula for calculating salary deductions due to unpaid leave?,2150
+3236,Explain the calculation used to determine the deduction for unpaid leave from my salary.,2150
+3237,How can I calculate the exact salary reduction for a day of unpaid leave?,2150
+3238,Is there a standard rate for salary deductions related to unpaid leave?,2150
+3239,What's the method for determining the deduction amount for each day of unpaid leave?,2150
+3240,Can you clarify the process for calculating unpaid leave deductions from my salary?,2150
+3241,What factors are considered when determining the salary deduction for unpaid leave?,2150
+3242,Where can I find information about the deduction amount for unpaid leave in my paycheck?,2150
+3243,What's the total deduction from my salary for my unpaid leave days?,2150
+3244,Show me the deduction amount for unpaid leave from my salary.,2150
+3245,Can you provide details on how my unpaid leave deduction is calculated?,2150
+3246,How much will my salary be reduced for each day of unpaid leave?,2150
+3247,Explain the calculation method for my salary deduction due to unpaid leave.,2150
+3248,What's the specific formula used to determine my unpaid leave deduction?,2150
+3249,How does the system calculate the total deduction for my unpaid leave?,2150
+3250,What factors contribute to the calculation of unpaid leave deductions from my salary?,2150
+3251,Is there a standard rate for the deduction from my salary for unpaid leave?,2150
+3252,Can you clarify the process for determining unpaid leave deductions from my salary?,2150
+3253,Where can I find information about the total deduction for unpaid leave in my paycheck?,2150
+3254,How can I calculate the exact salary reduction for my unpaid leave days?,2150
+3255,Is there a fixed amount deducted from my salary for each day of unpaid leave?,2150
+3256,What's the standard method for calculating salary deductions related to unpaid leave?,2150
+3257,What elements are considered when calculating the salary deduction for unpaid leave?,2150
+3258,Please provide the specific amount deducted from my salary for my unpaid leave.,2150
+3259,Can you explain how my unpaid leave deduction is computed?,2150
+3260,What is the process for determining the salary deduction for unpaid leave days?,2150
+3261,Is there a predefined formula for calculating the salary deduction for unpaid leave?,2150
+3262,How can I check the total deduction for unpaid leave on my salary statement?,2150
+3263,What's the total deduction for my unpaid leave on my salary?,2150
+3264,Can you show me the deduction on my paycheck for unpaid leave?,2150
+3265,How much will my salary be reduced due to unpaid leave?,2150
+3266,Explain the total deduction for my unpaid leave days on my salary statement.,2150
+3267,What's the exact amount deducted from my salary for unpaid leave?,2150
+3268,How is my salary deduction calculated for unpaid leave?,2150
+3269,What factors contribute to the total deduction for unpaid leave on my salary?,2150
+3270,Is there a fixed total deduction for unpaid leave in my paycheck?,2150
+3271,Where can I find information about the total deduction for unpaid leave on my salary?,2150
+3272,how to withdraw my applied leave,2151
+3273,how do i withdraw my leave,2151
+3274,how to withdraw leave,2151
+3275,how to withdraw leave application,2151
+3276,how to withdraw my leave application,2151
+3277,can I withdraw my leave application,2151
+3278,Is it possible to withdraw my leave request?,2151
+3279,What is the procedure for withdrawing a leave application?,2151
+3280,Can I change my mind about my planned leave and withdraw it?,2151
+3281,How do I revoke or retract my previously submitted leave request?,2151
+3282,I need to withdraw my leave application; what steps should I follow?,2151
+3283,Is there a way to revoke a leave request I previously submitted?,2151
+3284,How can I withdraw my leave application?,2151
+3285,Can I retract a leave request I've already submitted?,2151
+3286,What's the process for withdrawing a leave request?,2151
+3287,Is it possible to change my mind and withdraw my leave application?,2151
+3288,Can you guide me on how to withdraw my submitted leave?,2151
+3289,How do I withdraw my leave request?,2151
+3290,Is there a way to withdraw a leave application after it has been approved?,2151
+3291,I need to withdraw my leave; what should I do?,2151
+3292,Can you help me with the steps to withdraw my leave request?,2151
+3293,What's the procedure for leave application withdrawal?,2151
+3294,How can I withdraw my leave application that hasn't been approved yet?,2151
+3295,Is it possible to withdraw a leave request that hasn't been approved?,2151
+3296,What steps should I follow to withdraw my unapproved leave application?,2151
+3297,Can I change my mind and withdraw my pending leave application?,2151
+3298,How do I withdraw a leave request that's still pending approval?,2151
+3299,What's the process for revoking a leave application that hasn't been approved?,2151
+3300,Is there a way to retract a leave request that's not yet approved?,2151
+3301,"Can you guide me on how to withdraw my leave request, which is still pending?",2151
+3302,I submitted a leave application but want to withdraw it before it's approved. How?,2151
+3303,Is there a method for withdrawing a leave request that hasn't been approved?,2151
+3304,How can I withdraw my pending leave application from the system?,2151
+3305,Can I revoke a leave request that hasn't been approved yet?,2151
+3306,What should I do if I want to take back my pending leave request?,2151
+3307,How do I withdraw a leave application that's awaiting approval?,2151
+3308,Is it possible to withdraw a leave request that's still in the approval process?,2151
+3309,Can you assist me in withdrawing my unapproved leave request?,2151
+3310,I changed my plans and want to withdraw my pending leave. How can I do that?,2151
+3311,What's the procedure for withdrawing a leave request that hasn't been approved?,2151
+3312,How can I revoke my pending leave application?,2151
+3313,Is there a way to retract a leave request that's currently pending approval?,2151
+3314,How can I cancel my leave request that hasn't been approved yet?,2151
+3315,What steps should I follow to retract my pending leave application?,2151
+3316,Is there a method to withdraw my leave application that's still awaiting approval?,2151
+3317,I need to change my plans; can I take back my pending leave request?,2151
+3318,Can you guide me on how to withdraw my leave request that's pending approval?,2151
+3319,How do I revoke my unapproved leave application?,2151
+3320,What's the procedure for cancelling a leave request that hasn't been approved?,2151
+3321,Is it possible to retract my pending leave application?,2151
+3322,What should I do to withdraw my leave application that's still in the approval process?,2151
+3323,I want to withdraw my leave; can you help me with the process?,2151
+3324,how to withdraw leave,2151
+3325,when is the next public holiday,2163
+3326,what is the next public holiday,2163
+3327,When is the nearest public holiday?,2163
+3328,What's the next official holiday on the schedule?,2163
+3329,Could you let me know when the next public holiday is?,2163
+3330,Is there an next holiday we should be aware of?,2163
+3331,When will the next public holiday occur?,2163
+3332,Is there a holiday coming up soon?,2163
+3333,When is the following public holiday?,2163
+3334,When can we expect the next official holiday?,2163
+3335,What is the next public holiday date?,2163
+3336,When will the next holiday take place?,2163
+3337,Could you provide information about the next public holiday?,2163
+3338,what is the information of next holiday?,2163
+3339,Is there an next day off we should know about?,2163
+3340,When is the next scheduled public holiday?,2163
+3341,What's the date of the next holiday?,2163
+3342,When should we expect the next public holiday?,2163
+3343,When is the nearest public holiday?,2163
+3344,What's the next official holiday on the calendar?,2163
+3345,Could you let me know when the next public holiday is?,2163
+3346,Is there an next holiday we should be aware of?,2163
+3347,When will the next public holiday occur?,2163
+3348,Is there a holiday coming up soon?,2163
+3349,When is the following public holiday?,2163
+3350,When can we expect the next official holiday?,2163
+3351,When will the next holiday take place?,2163
+3352,Could you provide information about the next public holiday?,2163
+3353,When can we anticipate the next holiday?,2163
+3354,Is there an next day off we should know about?,2163
+3355,When is the next scheduled public holiday?,2163
+3356,What's the date of the next holiday?,2163
+3357,When should we expect the next public holiday?,2163
+3358,What's the information on the next holiday?,2163
+3359,when is the next PH,2163
+3360,what is the next PH,2163
+3361,When is the nearest PH?,2163
+3362,Could you let me know when the next PH is?,2163
+3363,When will the next PH occur?,2163
+3364,When is the following PH?,2163
+3365,What is the next PH date?,2163
+3366,Could you provide information about the next PH?,2163
+3367,When is the next scheduled PH?,2163
+3368,When should we expect the next PH?,2163
+3369,When is the nearest PH?,2163
+3370,Could you let me know when the next PH is?,2163
+3371,When will the next PH occur?,2163
+3372,When is the following PH?,2163
+3373,What is the next PH date?,2163
+3374,Could you provide information about the next PH?,2163
+3375,When is the next scheduled PH?,2163
+3376,When should we expect the next PH?,2163
+3377,Tell me about the next PH.,2163
+3378,What's the next PH?,2163
+3379,What is the next PH date?,2163
+3380,Could you provide information about the next PH?,2163
+3381,When is the next scheduled PH?,2163
+3382,When should we expect the next PH?,2163
+3383,how many leave I have taken for this year,2164
+3384,how many days of leave have i taken for current year,2164
+3385,what is my leave record for this year,2164
+3386,what is my record of leaves for this year,2164
+3387,on what date did I took leave in this year,2164
+3388,how many days of leave have I taken in this year,2164
+3389,how many leave i take this year,2164
+3390,How many days of leave have I consumed so far for current year?,2164
+3391,What's the total count of leave days I've taken this year?,2164
+3392,Can you summarize my leave history for current year?,2164
+3393,How many days of leave have I utilized this year?,2164
+3394,Can you provide details on my leave usage for this year?,2164
+3395,What is the count of leave days I've taken in 2023?,2164
+3396,How many days of leave have I taken this year?,2164
+3397,Please summarize my leave history for this year.,2164
+3398,What's the total duration of leave I've taken this year?,2164
+3399,Can you tell me how many days of leave I have consumed this year?,2164
+3400,What is my record for leave this year?,2164
+3401,"When did I take leave this year, and for how many days?",2164
+3402,Provide information about my annual leave usage for this year.,2164
+3403,How many leave days have I taken for this year?,2164
+3404,Can you tell me the total days of leave I've taken in the current year?,2164
+3405,What is my leave record for this year?,2164
+3406,I'd like to know my leave usage for this year.,2164
+3407,How many days of leave have I utilized in this year?,2164
+3408,Please provide a summary of my leave history for this year.,2164
+3409,What is the count of leave days I've taken in the current year?,2164
+3410,Can you summarize my leave history for this year?,2164
+3411,Tell me the total duration of leave I've taken this year.,2164
+3412,How many days of leave have I consumed so far for this year?,2164
+3413,What's the total count of leave days I've taken this year?,2164
+3414,Can you provide details on my leave usage for this year?,2164
+3415,"When did I take leave this year, and for how many days?",2164
+3416,Give me information about my annual leave usage for this year.,2164
+3417,What is my record of leaves for this year?,2164
+3418,How many leave days have I taken in this year?,2164
+3419,How many leave days did I take in the current year?,2164
+3420,Tell me about my leave history for this year.,2164
+3421,Can you provide details about my leave taken in the current year?,2164
+3422,I'm interested in knowing how many leave days I've taken this year.,2164
+3423,Which date that i apply for leave for this year?,2164
+3424,leave taken summary,2164
+3425,show me my taken leave,2164
+3426,all my applied leave,2164
+3427,what is the date of leave taken,2164
+3428,show me the leave have been taken for this year,2164
+3429,Can you provide a summary of the leave dates I've taken this year?,2164
+3430,What are the dates of leave I've applied for this year?,2164
+3431,Can you show me a list of all the leave I've taken in the current year?,2164
+3432,When did I apply for leave this year?,2164
+3433,When did I take leave this year?,2164
+3434,Can you list the dates of my leave taken in this year?,2164
+3435,Show me a summary of my leave usage for this year.,2164
+3436,What are the dates of leave I've used in this year?,2164
+3437,Provide details about the leave I've taken in the current year.,2164
+3438,When did I request leave for this year?,2164
+3439,Show me a record of my leave applications for this year.,2164
+3440,List all the dates I've applied for leave in this year.,2164
+3441,Can you display the dates of leave I've taken in this year?,2164
+3442,Give me information about my leave history for this year.,2164
+3443,What is the date of the leave I've taken this year?,2164
+3444,Can you show me a summary of the leave I've taken this year?,2164
+3445,Which dates have I applied for leave this year?,2164
+3446,Please provide a list of all the leave I've taken in the current year.,2164
+3447,When did I apply for leave this year?,2164
+3448,Show me a summary of my leave usage for this year.,2164
+3449,List all the dates of my leave taken in this year.,2164
+3450,Give me information about my leave history for this year.,2164
+3451,What are the dates of leave I've applied for this year?,2164
+3452,When did I take leave this year?,2164
+3453,Provide details about the leave I've taken in the current year.,2164
+3454,Can you display the dates of leave I've taken this year?,2164
+3455,What is the summary of leave I've taken for this year?,2164
+3456,Show me all the dates for which I've applied for leave in this year.,2164
+3457,Please list the leave dates I've taken in this year.,2164
+3458,What are the dates of leave I've used in this year?,2164
+3459,Can you show me the leave history for this year?,2164
+3460,When did I request leave for this year?,2164
+3461,Display all my applied leave dates for this year.,2164
+3462,Give me an overview of my leave applications for this year.,2164
+3463,What is my leave taken?,2164
+3464,last month leave taken,2164
+3465,leave taken last month,2164
+3466,How can I view my taken leave for the first half of this year?,2164
+3467,Please guide me on how to view my leave taken from January to June.,2164
+3468,Can you show me how to check my leave taken from January 1st to July 31st?,2164
+3469,I want to review my taken leave records for the year so far. How can I do that?,2164
+3470,How do I check my taken leave for the first half of this year?,2164
+3471,Give me steps to check my taken leave for this year.,2164
+3472,How do I check my taken leave for the current year?,2164
+3473,I need to check my leave taken from 01/06/2023 to 31/12/2023. Where should I go?,2164
+3474,What are the steps to view my taken leave for this year?,2164
+3475,How can I check my taken leave record from January to July?,2164
+3476,How do I check my taken leave for this year?,2164
+3477,Teach me how to check my leave taken from January to June.,2164
+3478,Where can I check my leave taken for next month?,2164
+3479,Where can I check my taken leave for next month?,2164
+3480,Give me steps to view my taken leave for this year.,2164
+3481,How do I check my taken leave for the current year?,2164
+3482,Teach me how to check my leave taken from January to June.,2164
+3483,I need to check my leave taken from 01/06/2023 to 31/12/2023. Where should I go?,2164
+3484,How do I check my taken leave for the first half of this year?,2164
+3485,how many leave can be brought forward to next year,2165
+3486,what is my carry forward leave balance,2165
+3487,how many days of leave can I bring forward to next year,2165
+3488,how much leave i can carried forward,2165
+3489,how many leave days can I carry forward to next year,2165
+3490,how many leave day i can brought forward,2165
+3491,which leave can bring forward and what the number can be bring,2165
+3492,What's the maximum number of leave days that can be carried forward to the next year?,2165
+3493,Can you tell me my carry-forward leave amount?,2165
+3494,How many days of leave am I allowed to bring forward to the next year?,2165
+3495,What is the limit for carrying forward leave to the next year?,2165
+3496,How many days of leave can I transfer to the next year?,2165
+3497,What is the maximum number of leave days that can be brought forward?,2165
+3498,Can you provide information about my carry-over leave days?,2165
+3499,What's the policy on carrying forward unused leave days to the next year?,2165
+3500,Is there a restriction on the number of days I can bring forward for next year?,2165
+3501,What's the carry-forward limit for leave?,2165
+3502,Can you tell me the maximum number of leave days I can bring forward?,2165
+3503,Please explain the rules regarding carrying forward leave to the next year.,2165
+3504,How many leave days can I carry forward to the next year?,2165
+3505,What is my carry-forward leave days amount?,2165
+3506,How many days of leave am I allowed to bring forward to the next year?,2165
+3507,What's the maximum number of leave days that can be carried forward to the next year?,2165
+3508,Can you tell me my carry-over leave days value?,2165
+3509,What is the limit for carrying forward leave to the next year?,2165
+3510,How many days of leave can I transfer to the next year?,2165
+3511,What is the maximum number of leave days that can be brought forward?,2165
+3512,Can you provide information about my carry-over leave?,2165
+3513,What's the policy on carrying forward unused leave days to the next year?,2165
+3514,How many leave days can I retain for the following year?,2165
+3515,Is there a restriction on the number of days I can bring forward for next year?,2165
+3516,What's the carry-forward limit for leave?,2165
+3517,Can you tell me the maximum number of leave days I can bring forward?,2165
+3518,Please explain the rules regarding carrying forward leave to the next year.,2165
+3519,How much leave can I bring forward to the next year?,2165
+3520,What's the allowable leave carry-over to the following year?,2165
+3521,Can you clarify the leave carry-forward policy?,2165
+3522,How many days of leave can I save for the upcoming year?,2165
+3523,Is there a maximum limit for leave carry-forward to the next year?,2165
+3524,How much leave can I carry over to the next year?,2165
+3525,Tell me the maximum leave carry-over to the following year.,2165
+3526,What's the leave carry-forward limit?,2165
+3527,Can you explain the leave carry-over policy?,2165
+3528,How many days of leave can I save for the upcoming year?,2165
+3529,Is there a limit on the number of leave days I can carry forward?,2165
+3530,What's the policy for carrying forward unused leave?,2165
+3531,How many days of leave can I keep for the following year?,2165
+3532,What's the maximum allowable leave carry-over?,2165
+3533,Can you clarify the leave carry-forward rules?,2165
+3534,"I had 4 days balance leave for this year, can I bring forward to next year",2165
+3535,I have balance leave for this year, can I bring forward to next year,2165
+3536,can I bring forward balance leave for this year to next year,2165
+3537,my brought forward leave,2165
+
+
+
 
 
 
