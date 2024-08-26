@@ -3000,6 +3000,131 @@ idx,sentence,label
 2998,Who holds the role of approving my leave requests?,2108
 2999,What is the name of the person who can approve my leave?,2108
 3000,Can you inform me about the identity of my leave approver?,2108
+3001,Can you inform me about the identity of my leave approver?,2108
+3002,Who has the responsibility of approving my leave application?,2108
+3003,Who is my designated leave approver?,2108
+3004,Please share the details of my leave approver.,2108
+3005,Who holds the position of approving my leave?,2108
+3006,Who is the authorized individual to approve my leave requests?,2108
+3007,Can you guide me on how to find my leave approver's name?,2108
+3008,Who is my designated point of contact for leave approvals?,2108
+3009,Who is my designated leave approver?,2108
+3010,Who should I contact to find out who approves my leave?,2108
+3011,How can I identify my leave approver?,2108
+3012,Who holds the role of approving my leave application?,2108
+3013,What is the name of the person who can approve my leave?,2108
+3014,Who has the responsibility of approving my leave application?,2108
+3015,Please share the details of my leave approver.,2108
+3016,How many levels of approvers are there for my leave application?,2108
+3017,How many levels of approvers are involved in processing my leave application?,2108
+3018,Can you provide details on the levels of approvers for my leave application?,2108
+3019,Can you share information on the hierarchy of approvers for my leave application?,2108
+3020,How many tiers of approvers are there for processing my leave application?,2108
+3021,Can you specify the number of levels of approvers for my leave application?,2108
+3022,Can you inform me about the hierarchical levels of approvers for my leave application?,2108
+3023,How many tiers of approvers are involved in the approval process of my leave application?,2108
+3024,Can you share information on the levels of approvers responsible for my leave application?,2108
+3025,How many days of advanced leave I could apply for this month?,2118
+3026,How many days of advance leave I can apply this month?,2118
+3027,My advance leave this month?,2118
+3028,How many days of advance leave I have?,2118
+3029,I want to apply for advance leave. How many days are available?,2118
+3030,Advance leave applicable?,2118
+3031,How many days of Advanced Leave can I apply for this month?,2118
+3032,Can you provide information on my Advanced Leave balance for this month?,2118
+3033,What is the maximum number of days of Advance Leave I can request this month?,2118
+3034,How many days of Advance Leave am I eligible for this month?,2118
+3035,How many days of advanced leave can I take this month?,2118
+3036,What is the maximum limit for advance leave this month?,2118
+3037,Can you tell me my available advanced leave days for this month?,2118
+3038,How many days of advanced leave am I entitled to in this month?,2118
+3039,Is there a specific quota for advanced leave this month?,2118
+3040,How many days of advanced leave can I request in this month?,2118
+3041,"Can I apply for advanced leave, and if so, what's the maximum duration for this month?",2118
+3042,How many days of advanced leave do I have left for this month?,2118
+3043,What is the allowable limit for advanced leave in this month?,2118
+3044,Can you provide me with information on the advanced leave balance for this month?,2118
+3045,What is the maximum duration for advanced leave I can request this month?,2118
+3046,How many days of advanced leave am I eligible for in the current month?,2118
+3047,What is the allowable limit for advanced leave in this month?,2118
+3048,Can you provide me with information on the advanced leave balance for this month?,2118
+3049,How many days of advanced leave can I take this month?,2118
+3050,Is there a specific quota for advanced leave this month?,2118
+3051,How many days of advanced leave can I request in the current month?,2118
+3052,"Can I apply for advanced leave, and if so, what's the maximum duration for this month?",2118
+3053,How many days of advanced leave do I have left for this month?,2118
+3054,Tell me the maximum number of days of advanced leave I can request this month.,2118
+3055,What is the maximum limit for advance leave this month?,2118
+3056,Can you tell me my available advanced leave days for this month?,2118
+3057,How many days of advanced leave am I entitled to in this month?,2118
+3058,Am I eligible to apply for advanced leave this month?,2118
+3059,Provide details on the advanced leave quota for this month.,2118
+3060,What's the advanced leave allowance for this month?,2118
+3061,Tell me the advanced leave policy for this month.,2118
+3062,Explain the rules for applying for advanced leave in this month.,2118
+3063,Can you provide the guidelines for requesting advanced leave this month?,2118
+3064,I'd like to know the advanced leave limit for this month.,2118
+3065,How many days of advanced leave can I apply for this month?,2118
+3066,What's the maximum duration for advanced leave this month?,2118
+3067,"Can I apply for advanced leave this month, and if so, how many days are allowed?",2118
+3068,Tell me the maximum limit for advance leave in this month.,2118
+3069,Am I eligible to apply for advanced leave this month?,2118
+3070,What's the advanced leave allowance for this month?,2118
+3071,Provide details on the advanced leave quota for this month.,2118
+3072,Explain the rules for applying for advanced leave this month.,2118
+3073,Can you provide the guidelines for requesting advanced leave this month?,2118
+3074,I'd like to know the advanced leave limit for this month.,2118
+3075,How to submit my medical cert?,2119
+3076,How to submit MC?,2119
+3077,What is submission of MC?,2119
+3078,How to submit MC?,2119
+3079,Where can I submit medical certificate?,2119
+3080,What is the process for submitting a Medical Certificate (MC)?,2119
+3081,Can you guide me on how to submit my Medical Certificate?,2119
+3082,"How do I go about applying for an MC, and where should I submit it?",2119
+3083,What steps do I need to follow to provide my Medical Certificate to the company?,2119
+3084,Is there a specific platform or system for submitting my Medical Certificate?,2119
+3085,How do I upload my medical certificate?,2119
+3086,Where can I upload my MC?,2119
+3087,Where can I upload my medical certificate?,2119
+3088,What's the procedure for submitting a medical certificate?,2119
+3089,Can you explain how to submit my Medical Certificate online?,2119
+3090,How can I share my Medical Certificate with the company?,2119
+3091,Is there an online portal for submitting my Medical Certificate?,2119
+3092,What are the steps to electronically submit my medical certificate?,2119
+3093,How can I digitally submit my MC to the company?,2119
+3094,Can you provide instructions on the online submission of my Medical Certificate?,2119
+3095,Where should I go to upload my Medical Certificate?,2119
+3096,How do I go about submitting my MC?,2119
+3097,What is the procedure for medical certificate submission?,2119
+3098,Can you guide me on submitting my medical certificate?,2119
+3099,Where should I send my medical certificate?,2119
+3100,Is there a specific location to submit my medical certificate?,2119
+3101,How can I share my medical certificate with the company?,2119
+3102,What are the steps to electronically submit my medical certificate?,2119
+3103,Where can I upload my MC online?,2119
+3104,Is there an online portal for medical certificate submission?,2119
+3105,How can I digitally submit my MC to the company?,2119
+3106,What's the process for submitting a medical certificate?,2119
+3107,Can you explain how to submit my medical certificate digitally?,2119
+3108,How can I provide my medical certificate to the company?,2119
+3109,Where should I go to upload my medical certificate online?,2119
+3110,What platform or system should I use to submit my medical certificate?,2119
+3111,Can you provide instructions on submitting my medical certificate online?,2119
+3112,What steps do I need to follow to submit my medical certificate to the company?,2119
+3113,Is there a dedicated channel for medical certificate submission?,2119
+3114,How to apply for an MC and where to submit it?,2119
+3115,How can I access the submission page for my Medical Certificate?,2119
+3116,Where do I find the option to submit my MC?,2119
+3117,What's the process for navigating to the MC submission page?,2119
+3118,Can you guide me on how to get to the MC submission portal?,2119
+3119,How do I reach the section where I can submit my Medical Certificate?,2119
+3120,Is there a specific link or button to submit my MC?,2119
+3121,What's the procedure for accessing the MC submission platform?,2119
+3122,Where should I go on the website to submit my Medical Certificate?,2119
+3123,How can I navigate to the page for submitting my MC?,2119
+3124,Is there a menu or tab for MC submissions in INet?,2119
+
 
 
 
