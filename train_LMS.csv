@@ -1,4 +1,4 @@
-idx,sentence,label
+ idx,sentence,label
 1,How to calculate my entitlement of leave?,2000
 2,How many AL entitled?,2000
 3,How many ML entitled?,2000
@@ -36,26 +36,26 @@ idx,sentence,label
 35,Emergency Leave entitlement,2001
 36,Emergency Leave entitled,2001
 37,How to calculate my emergency leave entitlement?,2001
-38,How to calculate my emergency leave entitlement?,2001
-39,How to calculate my emergency leave entitlement?,2001
-40,How to calculate my emergency leave entitlement?,2001
-41,How to calculate my emergency leave entitlement?,2001
-42,How to calculate my emergency leave entitlement?,2001
-43,How to calculate my emergency leave entitlement?,2001
-44,How to calculate my emergency leave entitlement?,2001
-45,How to calculate my emergency leave entitlement?,2001
-46,How to calculate my emergency leave entitlement?,2001
-47,How to calculate my emergency leave entitlement?,2001
-48,How to calculate my emergency leave entitlement?,2001
-49,How to calculate my emergency leave entitlement?,2001
-50,How to calculate my emergency leave entitlement?,2001
-51,How to calculate my emergency leave entitlement?,2001
-52,How to calculate my emergency leave entitlement?,2001
-53,How to calculate my emergency leave entitlement?,2001
-54,How to calculate my emergency leave entitlement?,2001
-55,How to calculate my emergency leave entitlement?,2001
-56,How to calculate my emergency leave entitlement?,2001
-57,How to calculate my emergency leave entitlement?,2001
-58,How to calculate my emergency leave entitlement?,2001
-59,How to calculate my emergency leave entitlement?,2001
-60,How to calculate my emergency leave entitlement?,2001
+38,How many days of Emergency Leave can I apply for in a year?,2001
+39,How many days of EL can I apply for in a year?,2001
+40,Is there a limit on the number of Emergency Leave days I can take?,2001
+41,Is there a specific entitlement for Emergency Leave in my company?,2001
+42,Is there a specific entitlement for EL in my company?,2001
+43,What happens if I run out of Annual Leave but need to take Emergency Leave?,2001
+44,What happens if I run out of AL but need to take EL?,2001
+45,What are the conditions under which I can apply for Emergency Leave?,2001
+46,What are the conditions under which I can apply for EL?,2001
+47,Are there any specific rules governing the use of Emergency Leave?,2001
+48,Are there any specific rules governing the use of EL?,2001
+49,Are there any exceptions to the limit on Emergency Leave days?,2001
+50,How do I know if I’ve reached my limit for Emergency Leave days?,2001
+51,How do I know if I’ve reached my limit for EL days?,2001
+52,Is Emergency Leave tracked separately from other leave types in the system?,2001
+53,How do I check my remaining Emergency Leave days?,2001
+54,How do I check my remaining EL days?,2001
+55,How is Emergency Leave recorded in the HR system?,2001
+56,Can I apply for Emergency Leave multiple times in a year?,2001
+57,Can I apply for EL multiple times in a year?,2001
+58,How is my total EL entitlement calculated for the year?,2001
+59,Number of EL entitled,2001
+60,Total of EL entitlement,2001
