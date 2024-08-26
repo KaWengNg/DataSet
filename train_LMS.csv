@@ -4716,11 +4716,6 @@ idx,sentence,label
 4715,Could you outline the leave entitlements for Malaysian employees as per the Employment Act?,2195
 4716,"In Malaysia, how many types of leaves exist under the Employment Act, and what do they encompass?",2195
 4717,"What is the duration of maternity leave for female employees in Malaysia, and is it paid according to the Employment Act?",2195
-4718,Are there any specific rules or restrictions on the types of leaves that can be requested through the system?,2197
-4719,Leave policy,2197
-4720,Leave definitions,2197
-4721,What's the leave terms?,2197
-4722,What's the leave policies?,2197
 4723,Are there any specific guidelines or limitations on the types of leaves that can be requested using the system?,2197
 4724,"Could you provide information about the company's leave policy, including any specific rules or restrictions?",2197
 4725,Can you clarify the definitions and terms associated with the company's leave policy?,2197
@@ -4737,27 +4732,8 @@ idx,sentence,label
 4736,What specific terms and conditions govern the utilization of leave as per the company's policies?,2197
 4737,Are there any company policies in place concerning leave entitlement and how it can be used that I should familiarize myself with?,2197
 4738,What are the limitations on the types of leaves that I can request through the system?,2197
-4739,Can you provide information on the specific rules governing leave requests via the system?,2197
-4740,Are there any restrictions or guidelines for requesting leaves using the system?,2197
-4741,Could you explain the system's rules regarding the types of leaves that can be requested?,2197
-4742,What limitations are there on the leaves I can apply for through the system?,2197
-4743,Please share the policies regarding leave requests and any restrictions associated with them.,2197
 4744,Can you clarify if there are specific rules for requesting certain types of leaves through the system?,2197
 4745,"What's the process for determining annual leave deduction for a 10-day vacation in December, and should I prepare for unpaid leave?",2197
-4747,Can you clarify the definitions and terms associated with the company's leave policy?,2199
-4748,What specific terms and conditions govern the utilization of leave as per the company's policies?,2199
-4749,How can I get assistance with correcting my leave balance?,2200
-4750,What should be my course of action if my leave balance is not reflected correctly?,2200
-4751,My leave balance seems wrong; what's the correct procedure to fix it?,2200
-4752,"In the event of Superior A's resignation with pending leave applications, what is the appropriate course of action?",2201
-4753,What steps should be taken by employees and teams to get ready for a manager's departure from the company?,2201
-4754,"When a manager leaves the company, what happens to leave approvals that were pending their approval?",2201
-4755,"Given Superior A's resignation and the pending leave applications, what should be the immediate response?",2201
-4756,Can you explain the process for managing pending leave applications when a superior resigns?,2201
-4757,"What steps should be taken if a manager who previously approved leave requests resigns, resulting in changed approvals?",2201
-4758,What steps should I take if I cannot submit my leave applications despite having leave entitlement?,2201
-4759,Why is the system not allowing me to apply for leave at this time?,2201
-4760,"Can you clarify the annual leave entitlement for employees in Malaysia and outline any differences depending on their length of service, as prescribed by the Employment Act?",2201
 4761,Could you explain the different leaves mandated by the Employment Act in Malaysia?,2195
 4762,What are the minimum leave entitlements according to the Malaysian Employment Act?,2195
 4763,I'd like to understand the leave provisions outlined in the Employment Act in Malaysia. Can you explain?,2195
