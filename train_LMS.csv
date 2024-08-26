@@ -929,7 +929,7 @@
 928,"Are there coworkers who have leave planned for the same date as me, March 25th, 2023?",2047
 929,Is there anyone else in the company with leave scheduled for August 28th?,2047
 930,Can you tell me if any colleagues have applied for leave on August 28th?,2047
-931,"Are any coworkers planning to be on leave on March 25th, 2023, like me?",2047
+931,"Are any coworkers planning to be on leave on March 25th, 2023,like me?",2047
 932,"Will there be any colleagues taking leave on the same day as me, which is on the 25th of March 2023?",2047
 933,Can you provide information on whether colleagues have scheduled leave for August 28th?,2047
 934,Can I know the leave status of my colleagues for August 28th?,2047
@@ -1264,7 +1264,7 @@
 1263,Have I taken any leave in the coming months?,2056
 1264,Have I scheduled any leave for the upcoming months?,2056
 1265,Can you show me my scheduled leave for the near future?,2056
-1266, I'd like to review my upcoming leave plans. Can you provide me with the details?,2056
+1266,I'd like to review my upcoming leave plans. Can you provide me with the details?,2056
 1267,Is there a way for me to check my upcoming leave?,2056
 1268,Could you help me find out if I have any leave planned for the near future?,2056
 1269,Can you provide information about my leave applications for the upcoming weeks?,2056
@@ -1381,6 +1381,225 @@
 1380,Are there any PH or leave days scheduled between June 1st and June 15th?,2057
 1381,Are there any upcoming PH or leave days from September 10th to September 20th?,2057
 1382,I'd like to know about any planned leave or PH for the next quarter. Can you assist?,2057
+1382,When is the best time to take leave?,2058
+1383,Can I apply for leave in advance, and if so, how far in advance can I do so?,2058
+1384,"Can I apply for leave in advance, and if yes, how much notice do I need to give?",2058
+1385,What is the best practice for planning and scheduling leave to ensure minimal disruption to work?,2058
+1386,Is there a recommended period for applying for leave in advance, and how does it affect the approval process?,2058
+1387,How many advance days are needed to avoid applying annual leave as emergency leave?,2058
+1388,I receive prompt notification on short notice during applying Annual Leave. Can I know more details on this policy?,2058
+1389,What is the notice period required for taking leave?,2058
+1390,Can I apply for leave well in advance, and if so, how far ahead can I do that?,2058
+1391,How many days in advance do I need to apply for leave to avoid using Annual Leave as Emergency Leave (EL)?,2058
+1392,What is the optimal timing for requesting leave to ensure it doesn't disrupt work?,2058
+1393,Can you provide guidance on when to apply for leave to minimize work disruptions?,2058
+1394,Is there a recommended timeframe for requesting leave in advance, and how does it impact work planning?,2058
+1395,What is the company's policy on taking leave in advance, and when is the best time to do so?,2058
+1396,How much notice should I provide when applying for leave in advance to avoid using Annual Leave as Emergency Leave (EL)?,2058
+1397,Can you explain the policy regarding notice period of applying for Annual Leave?,2058
+1398,What are the guidelines for requesting leave in advance to avoid last-minute approvals?,2058
+1399,Is there a specific lead time for leave requests to ensure a smooth approval process?,2058
+1400,How does applying for leave in advance affect the availability of Annual Leave days?,2058
+1401,Can you define the notice period required for applying annual leave?,2058
+1402,How many days in advance should I plan and apply my leave to have the least impact on work?,2058
+1403,How many days are required if I want to apply for annual leave in advance?,2058
+1404,Is it possible to apply for leave well in advance, and what's the recommended timeframe?,2058
+1405,How far ahead should I request leave to avoid work disruptions?,2058
+1406,What is the company's policy regarding applying for leave well ahead of time?,2058
+1407,Can you explain the process and benefits of planning leave well in advance?,2058
+1408,What's the ideal notice period for requesting leave to minimize any work disturbances?,2058
+1409,What's the notice period for applying leave to avoid work disruptions?,2058
+1410,What's the recommended lead time for applying for leave to avoid work disruptions?,2058
+1411,What's the recommended lead time for applying for leave to prevent annual leave diverting to emergency leave?,2058
+1412,How does planning leave in advance impact the availability of leave days?,2058
+1413,Can you provide guidance on the best practices for scheduling leave to minimize work disruption?,2058
+1414,When is the best time to apply for leave to ensure minimal disruptions to work?,2058
+1415,What are the guidelines for requesting leave in advance and maintaining work efficiency?,2058
+1416,Is there a recommended timeframe for submitting leave requests early?,2058
+1417,How much notice should I provide to apply for leave well in advance?,2058
+1418,How many days is the required notice period for applying for annual leave?,2058
+1419,What is the company's policy regarding requesting leave in advance, and how does it affect leave approvals?,2058
+1420,How many days in advance should I request leave to avoid using Annual Leave as Emergency Leave (EL)?,2058
+1421,How early should I apply leave to prevent annual leave from becoming emergency leave?,2058
+1422,What is the notice period for applying for leave well in advance?,2058
+1423,How many days in advance should I request leave to avoid using Annual Leave as Emergency Leave (EL)?,2058
+1424,Can you tell me how much notice I need to provide when applying for leave in advance?,2058
+1425,Is there a specific lead time for leave requests to ensure a smooth approval process?,2058
+1426,When is the best time to apply for leave to prevent annual leave from becoming emergency leave?,2058
+1427,What's the recommended lead time for applying for leave to avoid work disruptions?,2058
+1428,How early should I apply leave to prevent annual leave from turning into emergency leave?,2058
+1429,What is the company's policy regarding requesting leave in advance, and how does it affect leave approvals?,2058
+1430,How many days is the required notice period for applying annual leave?,2058
+1431,Can you explain the process and benefits of planning leave well in advance?,2058
+1432,How many days before are required to apply for a leave?,2058
+1433,How many days before are needed to apply for a leave?,2058
+1434,How many days before are required to take a leave?,2058
+1435,When is the best time to take vacation leave?,2058
+1436,When should I plan for my next leave?,2058
+1437,What is the ideal timing for taking leave that suits both my personal preferences and my work responsibilities?,2058
+1438,Are there any tips or strategies for choosing the right time to plan my leave?,2058
+1439,What factors should I consider when deciding the time to take leave?,2058
+1440,When would you recommend as the optimal period to schedule leave?,2058
+1441,What is considered the most suitable time for planning a leave?,2058
+1442,Can you provide guidance on finding the ideal timing for a leave that balances personal preferences and work obligations?,2058
+1443,Are there any advice or strategies for selecting the perfect time to request leave?,2058
+1444,When is the most appropriate time to request leave?,2058
+1445,What factors should I take into account when deciding the timing for my leave?,2058
+1446,How can I determine the best time for taking leave that aligns with both my personal preferences and work commitments?,2058
+1447,Are there any recommendations for choosing the right moment to plan my leave?,2058
+1448,Can you offer tips or strategies for selecting the optimal time to schedule my leave?,2058
+1449,What should I consider when deciding on the timing of my leave?,2058
+1450,What are some guidelines for finding the ideal period to take leave?,2058
+1451,When is typically the most suitable time to plan a leave?,2058
+1452,Can you provide advice on how to balance personal preferences and work responsibilities when choosing the timing for leave?,2058
+1453,Are there any strategies or suggestions for ensuring I pick the perfect time to request leave?,2058
+1454,I'm looking for insights on when would be the best time to apply for leave. Can you help me with that?,2058
+1455,Is there a recommended time for requesting leave?,2058
+1456,When would be the most favorable time to request a leave of absence?,2058
+1457,What's the right timing for planning my leave to ensure it's convenient for both me and the workplace?,2058
+1458,Can you provide any advice on timing my leave request effectively?,2058
+1459,Are there any guidelines for choosing the optimal moment to apply for leave?,2058
+1460,When is the ideal time to submit a leave application?,2058
+1461,What factors should I weigh when determining the ideal time for my leave?,2058
+1462,How can I ensure that my leave timing aligns with both personal and professional needs?,2058
+1463,Are there strategies for picking the perfect time to take a leave of absence?,2058
+1464,When should I schedule my leave to minimize disruption at work?,2058
+1465,When is the best date to apply leave for next year?,2058
+1466,How many brought forward will be left after forfeiture?,2059
+1467,If I forfeit 5 days of my brought forward leave, how many days will be left?,2059
+1468,Can you help me calculate the remaining brought forward leave days once forfeiture is taken into account?,2059
+1469,What will be the total number of carried-over leave days left for me after accounting for the potential forfeiture of some days?,2059
+1470,Is there a way to determine the exact number of brought forward leave days I will retain after forfeiture?,2059
+1471,How many leave days can be brought forward after forfeiture?,2059
+1472,Can you assist me in calculating the remaining brought-forward leave days after factoring in the forfeiture?,2059
+1473,What will be the total number of carried-over leave days remaining for me once I consider the potential forfeiture of some days?,2059
+1474,Is there a method to determine the precise number of brought-forward leave days I'll retain after forfeiture?,2059
+1475,How many leave days can I carry forward in total after forfeiture?,2059
+1476,How many days of brought forward leave will I have left if I forfeit a portion of it?,2059
+1477,Can you calculate the remaining carried-over leave days after taking into account the forfeiture of a specific number of days?,2059
+1478,What's the formula or method to determine the remaining brought forward leave days post-forfeiture?,2059
+1479,If I decide to forfeit 5 days of my carried-over leave, how many days will I retain?,2059
+1480,Is there a way to find out the exact number of brought forward leave days I'll have after forfeiting some of them?,2059
+1481,What's the maximum limit for the total number of leave days I can carry forward after forfeiture?,2059
+1482,Can you help me understand how many carried-over leave days I'll have left after forfeiting a certain number of days?,2059
+1483,Is there a specific calculation or policy for determining the remaining brought forward leave after forfeiture?,2059
+1484,How does the forfeiture of leave days affect the total number of days I can carry forward?,2059
+1485,Can you clarify the process for calculating the remaining brought forward leave days in case of forfeiture?,2059
+1486,What's the procedure for determining the remaining brought forward leave days after some days are forfeited?,2059
+1487,Can you guide me on how to calculate the carried-over leave days that will be left following a forfeiture?,2059
+1488,How does the forfeiture of leave days impact the total number of brought forward days I can retain?,2059
+1489,What is the policy for calculating the remaining brought forward leave days after a specified forfeiture?,2059
+1490,Is there a specific formula or method for calculating the remaining carried-over leave days post-forfeiture?,2059
+1491,Can you provide information on how to determine the remaining brought forward leave days once forfeiture is considered?,2059
+1492,What happens to the total number of carried-over leave days after some are forfeited, and how can I calculate the remaining days?,2059
+1493,Are there any guidelines for calculating the remaining brought forward leave days after a forfeiture of days?,2059
+1494,How can I figure out the precise number of brought forward leave days I'll have left after forfeiting a specific amount?,2059
+1495,What is the maximum limit for the total number of leave days I can carry forward after accounting for forfeiture?,2059
+1496,Can you explain the process for determining the remaining carried-over leave days in the event of forfeiture?,2059
+1497,What is the impact of forfeiting leave days on the calculation of remaining brought forward days?,2059
+1498,Is there a standard procedure for calculating the remaining brought forward leave days following forfeiture?,2059
+1499,How do I calculate the remaining carried-over leave days when a forfeiture occurs?,2059
+1500,Can you clarify how the forfeiture of leave days affects the calculation of remaining brought forward days?,2059
+1501,Are there any specific rules or guidelines for calculating the remaining brought forward leave days after forfeiture is applied?,2059
+1502,Can you provide insight into how the forfeiture of leave days is factored into the calculation of remaining carried-over leave days?,2059
+1503,What is the policy regarding calculating the remaining brought forward leave days post-forfeiture?,2059
+1504,Is there a defined process for determining the remaining carried-over leave days after a forfeiture event?,2059
+1505,Can you help me understand the impact of forfeiture on the total number of carried-over leave days and how to calculate the remaining days?,2059
+1506,How many brought forward leave days will I have left after forfeiting a portion?,2059
+1507,Can you calculate the remaining carried-over leave days after taking into account the forfeiture of some days?,2059
+1508,What will be my total carried-over leave balance once I consider the forfeiture?,2059
+1509,Is there a method to determine the precise number of brought-forward leave days I'll retain after forfeiting some?,2059
+1510,How many leave days can I carry forward after the forfeiture?,2059
+1511,What happens to my carried-over leave balance if I forfeit a certain number of days?,2059
+1512,Can you help me calculate the remaining leave balance I'll have after forfeiting some days?,2059
+1513,What's the policy for calculating the leave balance available to be brought forward after a forfeiture?,2059
+1514,How does forfeiting leave days affect the total carried-over leave balance?,2059
+1515,What's the procedure for determining the remaining leave balance after a specified forfeiture?,2059
+1516,How many brought forward will be left after forfeiture?,2059
+1517,If I forfeit 5 days of my brought forward leave, how many days will be left?,2059
+1518,Can you help me calculate the remaining brought forward leave days once forfeiture is taken into account?,2059
+1519,What will be the total number of carried-over leave days left for me after accounting for the potential forfeiture of some days?,2059
+1520,Is there a way to determine the exact number of brought forward leave days I will retain after forfeiture?,2059
+1521,How many leave days can be brought forward after forfeiture?,2059
+1522,Can you assist me in calculating the remaining brought-forward leave days after factoring in the forfeiture?,2059
+1523,What will be the total number of carried-over leave days remaining for me once I consider the potential forfeiture of some days?,2059
+1524,Is there a method to determine the precise number of brought-forward leave days I'll retain after forfeiture?,2059
+1525,How many leave days can I carry forward in total after forfeiture?,2059
+1526,How many days of brought forward leave will I have left if I forfeit a portion of it?,2059
+1527,Can you calculate the remaining carried-over leave days after taking into account the forfeiture of a specific number of days?,2059
+1528,What's the formula or method to determine the remaining brought forward leave days post-forfeiture?,2059
+1529,If I decide to forfeit 5 days of my carried-over leave, how many days will I retain?,2059
+1530,Is there a way to find out the exact number of brought forward leave days I'll have after forfeiting some of them?,2059
+1531,What's the maximum limit for the total number of leave days I can carry forward after forfeiture?,2059
+1532,Can you help me understand how many carried-over leave days I'll have left after forfeiting a certain number of days?,2059
+1533,Is there a specific calculation or policy for determining the remaining brought forward leave after forfeiture?,2059
+1534,How does the forfeiture of leave days affect the total number of days I can carry forward?,2059
+1535,Can you clarify the process for calculating the remaining brought forward leave days in case of forfeiture?,2059
+1536,What's the procedure for determining the remaining brought forward leave days after some days are forfeited?,2059
+1537,Can you guide me on how to calculate the carried-over leave days that will be left following a forfeiture?,2059
+1538,How does the forfeiture of leave days impact the total number of brought forward days I can retain?,2059
+1539,What is the policy for calculating the remaining brought forward leave days after a specified forfeiture?,2059
+1540,Is there a specific formula or method for calculating the remaining carried-over leave days post-forfeiture?,2059
+1541,Can you provide information on how to determine the remaining brought forward leave days once forfeiture is considered?,2059
+1542,What happens to the total number of carried-over leave days after some are forfeited, and how can I calculate the remaining days?,2059
+1543,Are there any guidelines for calculating the remaining brought forward leave days after a forfeiture of days?,2059
+1544,How can I figure out the precise number of brought forward leave days I'll have left after forfeiting a specific amount?,2059
+1545,What is the maximum limit for the total number of leave days I can carry forward after accounting for forfeiture?,2059
+1546,Can you explain the process for determining the remaining carried-over leave days in the event of forfeiture?,2059
+1547,What is the impact of forfeiting leave days on the calculation of remaining brought forward days?,2059
+1548,Is there a standard procedure for calculating the remaining brought forward leave days following forfeiture?,2059
+1549,How do I calculate the remaining carried-over leave days when a forfeiture occurs?,2059
+1550,Can you clarify how the forfeiture of leave days affects the calculation of remaining brought forward days?,2059
+1551,Are there any specific rules or guidelines for calculating the remaining brought forward leave days after forfeiture is applied?,2059
+1552,Can you provide insight into how the forfeiture of leave days is factored into the calculation of remaining carried-over leave days?,2059
+1553,What is the policy regarding calculating the remaining brought forward leave days post-forfeiture?,2059
+1554,Is there a defined process for determining the remaining carried-over leave days after a forfeiture event?,2059
+1555,Can you help me understand the impact of forfeiture on the total number of carried-over leave days and how to calculate the remaining days?,2059
+1556,How many brought forward leave days will I have left after forfeiting a portion?,2059
+1557,Can you calculate the remaining carried-over leave days after taking into account the forfeiture of some days?,2059
+1558,What will be my total carried-over leave balance once I consider the forfeiture?,2059
+1559,Is there a method to determine the precise number of brought-forward leave days I'll retain after forfeiting some?,2059
+1560,How many leave days can I carry forward after the forfeiture?,2059
+1561,What happens to my carried-over leave balance if I forfeit a certain number of days?,2059
+1562,Can you help me calculate the remaining leave balance I'll have after forfeiting some days?,2059
+1563,What's the policy for calculating the leave balance available to be brought forward after a forfeiture?,2059
+1564,How does forfeiting leave days affect the total carried-over leave balance?,2059
+1565,What's the procedure for determining the remaining leave balance after a specified forfeiture?,2059
+1566,Is my leave approved?,2060
+1567,May I know whether my applied leave is approved?,2060
+1568,Could you please tell me the status of my leave request?,2060
+1569,Is there a way for me to find out whether my applied leave has been approved or not?,2060
+1570,Can you help me check the status of my leave application and see if it has been approved?,2060
+1571,How to check application status?,2060
+1572,My leave approval status?,2060
+1573,What is the status of my leave application?,2060
+1574,Where can I check my leave application status?,2060
+1575,My leave application status?,2060
+1576,What is the status of my applied sick leave?,2060
+1577,Where to view the status of my leave application?,2060
+1578,Can you confirm whether my leave has been approved?,2060
+1579,Is there a way to check the status of my applied leave?,2060
+1580,Please let me know the status of my leave application.,2060
+1581,What is my leave status?,2060
+1582,What is my status of leave?,2060
+1583,Could you provide information about the approval status of my leave application?,2060
+1584,How do I check if my leave has been approved?,2060
+1585,What is the current status of my leave application?,2060
+1586,Can you inform me if my sick leave has been approved?,2060
+1587,Where can I view the status of my leave application?,2060
+1588,Can you check and confirm if my leave request has been approved?,2060
+1589,Can you tell me if my leave request is approved?,2060
+1590,Has my applied leave been approved by the company?,2060
+1591,How can I verify the approval status of my leave application?,2060
+1592,What is the current status of my applied leave?,2060
+1593,Please check and confirm whether my leave has been approved or not.,2060
+1594,Is there a way to find out if my leave application is approved?,2060
+1595,Can you provide me with information about the approval status of my leave request?,2060
+1596,Where can I check the status of my leave application to see if it's been approved?,2060
+1597,Could you inform me of the status of my applied sick leave?,2060
+1598,What is the status of my leave application? Has it been approved?,2060
+1599,I'd like to know the status of my leave application. Can you help me with that?,2060
+1600,Can you check the status of my leave application and tell me if it's been approved?,2060
 
 
 
