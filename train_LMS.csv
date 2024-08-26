@@ -3124,6 +3124,114 @@ idx,sentence,label
 3122,Where should I go on the website to submit my Medical Certificate?,2119
 3123,How can I navigate to the page for submitting my MC?,2119
 3124,Is there a menu or tab for MC submissions in INet?,2119
+3125,I want to submit MC.,2119
+3126,Can I apply for sick leave for yesterday's absence?,2123
+3127,"I received MC email reminder yesterday which informed me I didn't apply MC, can I apply the MC now?",2123
+3128,"I forget to apply leave for my absence yesterday, can I apply now?",2123
+3129,Can I apply for retroactive medical leave?,2123
+3130,Can I apply MC for previous absence?,2123
+3131,I forgot to request sick leave for my absence yesterday; can I still apply for it now?,2123
+3132,Can I submit a retroactive sick leave request for yesterday's absence?,2123
+3133,"I received a reminder about my medical certificate yesterday, and I forgot to apply for it. Can I apply for it now?",2123
+3134,Is there a way to apply for sick leave after the fact for an absence that occurred yesterday?,2123
+3135,Can I request sick leave for an absence that took place yesterday?,2123
+3136,I missed applying for sick leave for yesterday. Can I still submit a request now?,2123
+3137,Is it possible to apply for sick leave retroactively for yesterday's absence?,2123
+3138,I received a reminder about my medical certificate for yesterday. Can I apply for sick leave now?,2123
+3139,"Can I request sick leave for an absence that occurred yesterday, even though I forgot to apply for it on time?",2123
+3140,I forgot to apply for sick leave for yesterday's absence. Can I still apply for it today?,2123
+3141,Can I submit a late sick leave request for an absence that happened previously?,2123
+3142,Is there a way to request sick leave for an absence from yesterday?,2123
+3143,I didn't apply for sick leave for yesterday's absence. Can I apply for it now?,2123
+3144,Can I retroactively apply for sick leave for an absence that occurred previously?,2123
+3145,I missed applying for sick leave for yesterday. Can I submit the request now?,2123
+3146,Can I apply for sick leave retroactively?,2123
+3147,Is it possible to request medical leave after the fact?,2123
+3148,Can I submit a late medical leave request?,2123
+3149,I forgot to request medical leave for a past absence; can I still apply for it?,2123
+3150,Is there a way to apply for medical leave after the fact?,2123
+3151,Can I request medical leave for a previous day's absence?,2123
+3152,I missed applying for medical leave for a past absence; can I still submit a request?,2123
+3153,Can I retroactively apply for medical leave?,2123
+3154,Is there a process for requesting medical leave for a past date?,2123
+3155,I didn't apply for medical leave for a past absence; can I apply for it now?,2123
+3156,Can I submit a late request for medical leave?,2123
+3157,Is it possible to apply for medical leave for a previous day's absence?,2123
+3158,I forgot to request medical leave for a prior absence; can I still apply for it?,2123
+3159,Can I request medical leave for a date in the past?,2123
+3160,I missed the deadline for applying for medical leave; can I still do it?,2123
+3161,Is there a way to request medical leave for a day that has already passed?,2123
+3162,I received a reminder about my medical certificate for a past absence; can I apply for medical leave now?,2123
+3163,Can I retroactively request medical leave for an absence that occurred in the past?,2123
+3164,Is it possible to apply for medical leave after the fact for a past absence?,2123
+3165,I didn't apply for medical leave for a previous day; can I still submit the request?,2123
+3166,Can I apply for medical leave after the fact?,2123
+3167,Is it possible to request retroactive medical leave?,2123
+3168,I missed the deadline for applying for medical leave; can I still do it?,2123
+3169,Can I submit a late request for medical leave?,2123
+3170,Is there a way to request medical leave for a day that has already passed?,2123
+3171,I received a reminder about my medical certificate for a past absence; can I apply for medical leave now?,2123
+3172,Can I retroactively request medical leave for an absence that occurred in the past?,2123
+3173,Is it possible to apply for medical leave after the fact for a past absence?,2123
+3174,I didn't apply for medical leave for a previous day; can I still submit the request?,2123
+3175,Can I request medical leave for a date in the past?,2123
+3176,Is May 1st a holiday?,2149
+3177,Is 02 July a company holiday?,2149
+3178,Do I need to work on 02 July?,2149
+3179,Is tomorrow a company holiday?,2149
+3180,Tomorrow do I need to come to work?,2149
+3181,Please help me check whether tomorrow is a company holiday?,2149
+3182,02/02/2022 company got open?,2149
+3183,Do I have to work on July 2nd?,2149
+3184,Is tomorrow a scheduled company holiday?,2149
+3185,Do I need to report to work tomorrow?,2149
+3186,Is May 1st considered a holiday?,2149
+3187,Is July 2nd a designated company holiday?,2149
+3188,Will I be required to work on July 2nd?,2149
+3189,Is tomorrow an official company holiday?,2149
+3190,Do I have to come to work tomorrow?,2149
+3191,Can you check if tomorrow is a company holiday?,2149
+3192,"Was the company open on February 2nd, 2022?",2149
+3193,Is working on July 2nd mandatory?,2149
+3194,Is tomorrow listed as a company holiday?,2149
+3195,Am I expected to be present at work tomorrow?,2149
+3196,Is May 1st an official holiday for the company?,2149
+3197,Is July 2nd considered a company holiday?,2149
+3198,Do I need to work on July 2nd?,2149
+3199,Is tomorrow designated as a company holiday?,2149
+3200,Do I have to come to the office tomorrow?,2149
+3201,Can you help me verify if tomorrow is a company holiday?,2149
+3202,"Was the company open on February 2nd, 2022?",2149
+3203,Is working on July 2nd mandatory for employees?,2149
+3204,Is tomorrow listed as an official company holiday?,2149
+3205,Am I expected to be present at work tomorrow?,2149
+3206,Is May 1st a non-working day for the company?,2149
+3207,Is July 2nd an observed company holiday?,2149
+3208,Will the office be open on May 1st?,2149
+3209,Is July 2nd a recognized holiday for the company?,2149
+3210,Should I plan to work on July 2nd?,2149
+3211,Is tomorrow on the list of company holidays?,2149
+3212,Is there a requirement to attend work tomorrow?,2149
+3213,Can you check if tomorrow is an official company holiday?,2149
+3214,"Was the company operating on February 2nd, 2022?",2149
+3215,Is working on July 2nd compulsory?,2149
+3216,Is May 1st a company holiday?,2149
+3217,Will the office be closed on July 2nd?,2149
+3218,Do I need to work on May 1st?,2149
+3219,Is July 2nd an official holiday for the company?,2149
+3220,Is tomorrow a non-working day?,2149
+3221,Can you check if July 2nd is a company holiday?,2149
+3222,Is it mandatory to work on May 1st?,2149
+3223,Is the office open on July 2nd?,2149
+3224,Is tomorrow considered a company holiday?,2149
+3225,Is July 2nd a recognized holiday?,2149
+3226,How much should I deduct from my salary for each day of unpaid leave?,2150
+3227,Show the amount of salary deduction for unpaid leave,2150
+3228,How is my unpaid leave calculated?,2150
+3229,How is unpaid leave calculated?,2150
+3230,How does system calculate the deduction of unpaid leave from my salary?,2150
+3231,How is the deduction for each day of unpaid leave calculated?,2150
+3232,Can you explain the formula used to calculate salary deductions for unpaid leave?,2150
 
 
 
