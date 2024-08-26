@@ -2213,7 +2213,163 @@ idx,sentence,label
 2211,What's the process for finding out my remaining medical leave for this year?,2069
 2212,How is my medical leave balance calculated?,2069
 2213,Is there a formula or method to determine my medical leave bal?,2069
-
+2214,Is there a specific policy or software used for MC balance calculation?,2069
+2215,How is maternity leave balance calculated?,2069
+2216,Can you explain how maternity leave balance is calculated in our company?,2069
+2217,What is the formula used to determine my current maternity leave balance?,2069
+2218,Could you guide me on how to calculate my remaining maternity leave days for this year?,2069
+2219,Is there a specific method or system we use to calculate maternity leave balance?,2069
+2220,Calculate my maternity leave balance.,2069
+2221,How to calculate the maternity leave balance?,2069
+2222,Is there a particular method or system employed to calculate the maternity leave balance?,2069
+2223,How to perform calculation on my maternity leave balance?,2069
+2224,Can you teach me how to calculate my maternity leave balance?,2069
+2225,What is the process for calculating maternity leave balance?,2069
+2226,Can you provide details on how the maternity leave balance is determined?,2069
+2227,How can I calculate my current maternity leave balance?,2069
+2228,Could you explain the method used for maternity leave balance calculation?,2069
+2229,Is there a specific formula or algorithm for computing the maternity leave balance?,2069
+2230,What factors are considered when calculating my maternity leave balance?,2069
+2231,How does the company's system calculate my maternity leave balance?,2069
+2232,Can you elucidate the process of maternity leave balance calculation in our organization?,2069
+2233,What data or parameters are used to determine my remaining maternity leave days?,2069
+2234,How can I find out my maternity leave balance as of today?,2069
+2235,What is the process for determining my maternity leave balance?,2069
+2236,Can you provide insights into how maternity leave balance is calculated?,2069
+2237,How is maternity leave balance calculated for employees with varying work hours?,2069
+2238,Is there a specific policy or guideline for calculating maternity leave balance?,2069
+2239,How can I compute my current maternity leave balance in the company's system?,2069
+2240,What criteria are considered when calculating my maternity leave balance?,2069
+2241,Can you explain the formula used for maternity leave balance calculation?,2069
+2242,What formula or algorithm is used to compute my maternity leave balance?,2069
+2243,How frequently is the maternity leave balance updated in the system?,2069
+2244,Are there any special rules or considerations in our company's maternity leave balance calculation?,2069
+2245,What data sources are used to calculate the maternity leave balance?,2069
+2246,Is there a particular software or system that manages maternity leave balance?,2069
+2247,How can I calculate my maternity leave balance as of today?,2069
+2248,Can you provide details on the method used to calculate maternity leave balance?,2069
+2249,How to calculate number of maternity leave that I have left?,2069
+2250,What is the process to calculate the total number of maternity leave balance?,2069
+2251,Can you explain how maternity leave balance is calculated?,2069
+2252,How can I access my maternity leave balance information in the company's system?,2069
+2253,Is there a specific process to follow if I have questions about my maternity leave balance?,2069
+2254,Can you clarify the factors that contribute to the calculation of my maternity leave balance?,2069
+2255,How do I check my current maternity leave balance?,2069
+2256,Can you explain the maternity leave calculation process in our company?,2069
+2257,What's the formula used to determine my remaining maternity leave days for this year?,2069
+2258,Is there a specific method or system for calculating maternity leave balance?,2069
+2259,Calculate my maternity leave balance for me.,2069
+2260,How can I find out my maternity leave balance as of today?,2069
+2261,What criteria are considered when calculating maternity leave balance?,2069
+2262,Can you provide insights into the method used for maternity leave balance calculation?,2069
+2263,Is there a software or system that manages maternity leave balance in our organization?,2069
+2264,What factors contribute to the calculation of my maternity leave balance?,2069
+2265,How is paternity leave balance calculated?,2069
+2266,Can you explain how paternity leave balance is calculated in our company?,2069
+2267,What is the formula used to determine my current paternity leave balance?,2069
+2268,Could you guide me on how to calculate my remaining paternity leave days for this year?,2069
+2269,Is there a specific method or system we use to calculate paternity leave balance?,2069
+2270,How to calculate paternity leave balance?,2069
+2271,Could you offer guidance on how to calculate my remaining paternity leave days for this year?,2069
+2272,Is there a particular method or system employed to calculate the paternity leave balance?,2069
+2273,What is the way to calculate the balance of paternity leave?,2069
+2274,Show me the formula to calculate balance of paternity leave.,2069
+2275,What is the process for calculating paternity leave balance?,2069
+2276,Can you provide details on how the paternity leave balance is determined?,2069
+2277,How can I calculate my current paternity leave balance?,2069
+2278,Could you explain the methodology used for paternity leave balance calculation?,2069
+2279,Is there a specific formula or algorithm for computing the paternity leave balance?,2069
+2280,What factors are considered when calculating my paternity leave balance?,2069
+2281,How does the company's system calculate my paternity leave balance?,2069
+2282,Can you elucidate the process of paternity leave balance calculation in our organization?,2069
+2283,What data or parameters are used to calculate my remaining paternity leave days?,2069
+2284,How can I find out my paternity leave balance as of today?,2069
+2285,What's the policy for calculating paternity leave balance in our company?,2069
+2286,What should I do to modify a leave request I've already submitted?,2071
+2287,Is there a way for me to edit my leave request if I need to change the dates?,2071
+2288,Could you guide me on the process to modify a leave request I've already submitted?,2071
+2289,"If I made a mistake in my leave request, how can I go about correcting it?",2071
+2290,How to edit approved leave?,2071
+2291,How do I modify a leave request details?,2071
+2292,How to amend the info of submitted leave application?,2071
+2293,Why I cannot modify my leave application?,2071
+2294,What I should do if submit wrong leave application date?,2071
+2295,What steps should I follow to modify a leave request I've already submitted?,2071
+2296,How can I edit a leave request that has already been submitted?,2071
+2297,Is there a procedure for making changes to a leave request once it's been submitted?,2071
+2298,Could you provide guidance on how to amend an approved leave request?,2071
+2299,"If I need to change my leave request due to unforeseen circumstances, what should I do?",2071
+2300,What's the process for modifying leave that has already been approved?,2071
+2301,How can I make corrections to a submitted leave application if I made an error?,2071
+2302,Is there a way to edit a leave request if I made a mistake?,2071
+2303,What do I do if I realize I've submitted the wrong dates for my leave application?,2071
+2304,Why am I unable to modify my previously submitted leave application?,2071
+2305,What are the steps to follow if I need to change the dates of a leave request?,2071
+2306,How do I make changes on a leave request that I've already submitted and been approved?,2071
+2307,Is there a way to amend the information in a leave application after it has been submitted?,2071
+2308,Could you explain the process for modifying an approved leave request?,2071
+2309,"If I made an error in my leave request, what is the procedure to rectify it?",2071
+2310,What actions should I take to edit a leave request I've submitted?,2071
+2311,Can you guide me on how to change a leave request that has already been approved?,2071
+2312,Is it possible to make adjustments to a leave request once it has been submitted?,2071
+2313,How can I update the details of a leave application that I've already sent?,2071
+2314,Why am I unable to modify my previously applied leave?,2071
+2315,What should I do if I need to make changes to a leave request that's already in the system?,2071
+2316,How do I handle a situation where I've accidentally submitted the wrong dates for my leave application?,2071
+2317,Is there a specific process for editing leave requests that have been approved?,2071
+2318,Can you provide information on how to correct a leave request that has been approved by mistake?,2071
+2319,What steps do I need to take if I realize I need to modify my leave request?,2071
+2320,How can I amend the details of a leave application that I've already submitted?,2071
+2321,What is the procedure for making changes to leave requests in the system?,2071
+2322,Is there a timeframe within which I can modify a leave request?,2071
+2323,How do I proceed if I need to change my approved leave request due to unforeseen circumstances?,2071
+2324,Can you explain why I might encounter difficulties when attempting to modify a leave application?,2071
+2325,How to update my approved leave application date?,2071
+2326,Please help me update my leave application date tomorrow to next Monday.,2071
+2327,Is it possible to change an already approved annual leave request to medical leave?,2071
+2328,Can I modify the date of my approved leave application to a different date?,2071
+2329,What is the process for updating the date of an approved leave application?,2071
+2330,Could you assist me in changing my approved leave application from tomorrow to next Monday?,2071
+2331,Is there a way to edit an approved leave request to a different date?,2071
+2332,How can I go about changing the date of an approved leave application?,2071
+2333,Is it permissible to switch my approved annual leave to medical leave after it has been approved?,2071
+2334,Can I adjust the date of my approved leave request to a different day?,2071
+2335,How can I go about altering the date of an approved leave application?,2071
+2336,I need assistance in changing my leave application date from tomorrow to next Monday; can you help?,2071
+2337,Is there a procedure for converting an approved annual leave request into medical leave?,2071
+2338,What are the steps to modify the date of a leave application that has already been approved?,2071
+2339,Can you guide me on how to change the date of an already approved leave request?,2071
+2340,How can I update the date of my approved leave application to a different date?,2071
+2341,Is there a way to edit an approved leave request to a new date?,2071
+2342,What is the process for amending the date of an approved leave application?,2071
+2343,Can I modify the leave type of my approved annual leave to medical leave?,2071
+2344,Is it possible to change the approved leave type from annual leave to medical leave?,2071
+2345,How can I update the leave type of my already approved leave request?,2071
+2346,I need assistance in changing my approved annual leave to medical leave; can you guide me?,2071
+2347,What is the process for switching the leave type of an approved leave request?,2071
+2348,Could you help me change the leave type of my approved leave application?,2071
+2349,Is there a way to amend the leave type of an already approved leave?,2071
+2350,Can I edit the leave type of my approved leave request?,2071
+2351,How do I go about changing the leave type from annual leave to medical leave for my approved request?,2071
+2352,Is there a procedure for converting an approved annual leave into medical leave?,2071
+2353,What steps should I follow to modify the leave type of my approved leave application?,2071
+2354,Can you provide guidance on changing the leave type of an already approved leave?,2071
+2355,I'd like to inquire about the possibility of changing the leave type of my approved annual leave.,2071
+2356,How can I switch my approved leave type from annual leave to medical leave?,2071
+2357,Is it permissible to update the leave type of an already approved leave?,2071
+2358,Can you assist me in altering the leave type of my approved leave request?,2071
+2359,Could you explain the process for changing the leave type of my approved leave application?,2071
+2360,Is there a way to adjust the leave type for an already approved leave request?,2071
+2361,How do I change the leave type of my approved leave application from annual leave to medical leave?,2071
+2362,Can I change my approved annual leave to MC?,2071
+2363,Can I update my approved leave application date to another date?,2071
+2364,How to edit leave?,2071
+2365,How if I want to edit leave?,2071
+2366,How to edit the leave?,2071
+2367,How to edit my leave?,2071
+2368,How to edit leave application?,2071
+2369,How to update leave?,2071
+2370,How to update leave application?,2071
 
 
 
