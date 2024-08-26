@@ -4207,7 +4207,1385 @@ idx,sentence,label
 4205,Could errors in recording my leave applications lead to this balance discrepancy?,2181
 4206,Is it possible that my calculations were based on incorrect information?,2181
 4207,Can you investigate if there are any outstanding leave approvals or pending adjustments that affect my balance?,2181
-4208,leave balance not tally with my own calculation,2181
+4208,Leave bal not tally with my own calculation,2181
+4209,"my leave balance is incorrect, what should I do?",2183
+4210,my leave balance incorrect,2183
+4211,what can I do if my leave balance is not reflected correctly,2183
+4212,action if my leave balance is not reflected correctly,2183
+4213,"My leave balance is incorrect, what steps should I take?",2183
+4214,"I realized that my leave balance showing incorrectly, what can I do?",2183
+4215,How do I rectify an incorrect leave balance?,2183
+4216,My leave balance is not reflecting correctly; what can I do to resolve this?,2183
+4217,Incorrect leave balance,2183
+4218,action to take if leave balance is incorrect,2183
+4219,What actions should I take if my leave balance is incorrect?,2183
+4220,How can I address an inaccurate leave balance?,2183
+4221,My leave balance is not displaying correctly; what should I do next?,2183
+4222,Who should I contact if my leave balance is inaccurate?,2183
+4223,What's the procedure for rectifying an incorrect leave balance?,2183
+4224,Is there a way to report and correct a leave balance discrepancy?,2183
+4225,Whom should I inform about the issue with my leave balance?,2183
+4226,"If my leave balance is incorrect, what are the steps to resolve it?",2183
+4227,How can I get assistance with correcting my leave balance?,2183
+4228,What should I do if my leave balance is not reflecting accurately?,2183
+4229,My leave balance is incorrect; what should I do to address this?,2183
+4230,What steps can I take if my leave balance is not reflecting correctly?,2183
+4231,How can I rectify an incorrect leave balance in the system?,2183
+4232,"If my leave balance is showing inaccurately, what actions should I take?",2183
+4233,What should be my course of action if my leave balance is not reflected correctly?,2183
+4234,What is the procedure for reporting and correcting an incorrect leave balance?,2183
+4235,Who should I contact or notify if I suspect an issue with my leave balance?,2183
+4236,Is there a specific department or individual I should inform about my leave balance discrepancy?,2183
+4237,How can I get assistance with resolving my leave balance issue?,2183
+4238,Whom should I reach out to if I find that my leave balance is not accurate?,2183
+4239,My leave balance is not displaying correctly; whom should I approach to correct it?,2183
+4240,What actions can I take to ensure that my leave balance is accurate?,2183
+4241,Who can help me investigate and resolve the issue with my leave balance?,2183
+4242,Are there specific protocols to follow when addressing an incorrect leave balance?,2183
+4243,"If I discover an error in my leave balance, what are the recommended steps to take?",2183
+4244,What recourse do I have if I believe my leave balance is not reflecting the correct information?,2183
+4245,Can you guide me on the process for verifying and correcting an inaccurate leave balance?,2183
+4246,How do I go about rectifying discrepancies in my leave balance?,2183
+4247,Is there a support team or department that handles leave balance corrections?,2183
+4248,What are the appropriate channels for seeking help when dealing with an incorrect leave balance?,2183
+4249,My leave balance seems wrong; what's the correct procedure to fix it?,2183
+4250,"If my leave balance is inaccurate, what steps should I take to rectify it?",2183
+4251,What should be my course of action if my leave balance doesn't match my records?,2183
+4252,Can you guide me on addressing an erroneous leave balance?,2183
+4253,How do I go about rectifying discrepancies in my leave balance?,2183
+4254,Is there a support team or department dedicated to correcting leave balance issues?,2183
+4255,"When there's a discrepancy in my leave balance, who should I contact for assistance?",2183
+4256,What's the recommended protocol for handling an incorrect leave balance?,2183
+4257,"In case of an incorrect leave balance, who can help me resolve the issue?",2183
+4258,"When I discover an error in my leave balance, what should I do to correct it?",2183
+4259,"I would like to take a long leave of 5 days in October, how many AL would be deducted and any UPL required",2184
+4260,to apply long leave but annual leave not sufficient,2184
+4261,"I need to apply 10 days leave for vacation in December. how many annual leave will be deducted from my balance, and will I need to use any unpaid leave days?",2184
+4262,"I'm planning to take 3 weeks leave. can you tell me how many annual leave I left, and if they are not sufficient, how many unpaid leave days I should prepare for?",2184
+4263,how to calculate how many days of unpaid leave required if I want to apply long leave?,2184
+4264,"If I plan to take a 10-day vacation in December, how many days of my annual leave entitlement will be utilized, and do I need to consider using any unpaid leave days?",2184
+4265,"Suppose I want to request a 10-day vacation in December. How can I calculate the deduction of annual leave days, and should I prepare for any unpaid leave days?",2184
+4266,"I'm thinking about taking a 10-day vacation in December. How will my annual leave balance be impacted, and will I need to compensate with unpaid leave?",2184
+4267,Can you help me understand how the deduction of annual leave days works if I decide to go on a 10-day vacation in December?,2184
+4268,"I'm planning to take a 3-week leave. Could you please inform me about my remaining annual leave days, and if they are insufficient, how many unpaid leave days I should prepare for?",2184
+4269,"I want to take a 5-day leave in October. Can you calculate how many annual leave days will be deducted, and do I need to consider unpaid leave?",2184
+4270,"How many annual leave days will be deducted if I apply for a long leave of 10 days in December, and should I be prepared for unpaid leave?",2184
+4271,"What's the calculation for annual leave deduction if I plan to take a 3-week leave, and how many unpaid leave days should I anticipate?",2184
+4272,Can you explain how to calculate the deduction of annual leave days for a 10-day vacation in December and whether unpaid leave is required?,2184
+4273,"If I request a 10-day vacation in December, how will it impact my annual leave balance, and should I be ready for unpaid leave days?",2184
+4274,I'm considering a 3-week leave. Could you please inform me about my remaining annual leave days and the need for unpaid leave?,2184
+4275,"How can I calculate the required unpaid leave days if I want to take a long leave, and my annual leave is insufficient?",2184
+4276,"What's the process for determining the deduction of annual leave days when taking a 10-day vacation in December, and should I plan for unpaid leave?",2184
+4277,"If I plan to take a 5-day leave in October, can you clarify how many annual leave days will be deducted, and if unpaid leave is needed?",2184
+4278,"How will my annual leave balance be impacted if I take a 10-day vacation in December, and should I be concerned about unpaid leave days?",2184
+4279,"If I take a 5-day leave in October, how many annual leave days will be deducted, and do I need to consider unpaid leave?",2184
+4280,Can you calculate the deduction of annual leave days for a 10-day vacation in December and clarify if unpaid leave is required?,2184
+4281,"What's the process for determining the deduction of annual leave days when taking a 10-day vacation in December, and should I plan for unpaid leave?",2184
+4282,"If I plan to take a 3-week leave, could you please inform me about my remaining annual leave days and the need for unpaid leave?",2184
+4283,"How will my annual leave balance be impacted if I take a 10-day vacation in December, and should I be concerned about unpaid leave days?",2184
+4284,I'm considering a 3-week leave. Can you provide details about my remaining annual leave days and the potential for unpaid leave?,2184
+4285,"What's the calculation for annual leave deduction if I plan to take a 3-week leave, and how many unpaid leave days should I anticipate?",2184
+4286,"Can you explain how to calculate the required unpaid leave days if I want to take a long leave, and my annual leave is insufficient?",2184
+4287,"If I request a 10-day vacation in December, how will it impact my annual leave balance, and should I be ready for unpaid leave days?",2184
+4288,"How many annual leave days will be deducted if I apply for a long leave of 10 days in December, and should I be prepared for unpaid leave?",2184
+4289,"I want to take a 5-day leave in October. Can you calculate how many annual leave days will be deducted, and do I need to consider unpaid leave?",2184
+4290,"I'm planning to take a 10-day vacation in December. How can I calculate the deduction of annual leave days, and should I prepare for any unpaid leave days?",2184
+4291,"Suppose I want to request a 10-day vacation in December. How can I calculate the deduction of annual leave days, and should I prepare for any unpaid leave days?",2184
+4292,"If I plan to take a 3-week leave. Could you please inform me about my remaining annual leave days, and if they are insufficient, how many unpaid leave days I should prepare for?",2184
+4293,"I'm thinking about taking a 10-day vacation in December. How will my annual leave balance be impacted, and will I need to compensate with unpaid leave?",2184
+4294,What's the calculation for annual leave deduction if I plan to take a 10-day vacation in December and whether unpaid leave is required?,2184
+4295,Can you help me understand how the deduction of annual leave days works if I decide to go on a 10-day vacation in December?,2184
+4296,"If I request a 10-day vacation in December, how many days of my annual leave entitlement will be utilized, and do I need to consider using any unpaid leave days?",2184
+4297,"I need to apply 10 days leave for vacation in December. How many annual leave will be deducted from my balance, and will I need to use any unpaid leave days?",2184
+4298,"I would like to take a long leave of 5 days in October. How many AL would be deducted, and any UPL required?",2184
+4299,"If I take a 5-day leave in October, how many annual leave days will be deducted, and do I need to use unpaid leave?",2184
+4300,"How does a 10-day vacation in December impact my annual leave balance, and should I plan for unpaid leave?",2184
+4301,"What happens to my annual leave balance when I take a 10-day vacation in December, and is unpaid leave required?",2184
+4302,"Can you calculate the annual leave deduction for a 10-day vacation in December and clarify if unpaid leave is needed?",2184
+4303,"When I plan to take a 3-week leave, what's the annual leave deduction, and should I anticipate unpaid leave?",2184
+4304,"Explain the process for calculating unpaid leave days when my annual leave is insufficient for a long leave.",2184
+4305,"If I request a 10-day vacation in December, how many annual leave days will be deducted, and do I need unpaid leave?",2184
+4306,"I need to apply for 10 days of leave in December. How many annual leave days will be deducted, and should I use unpaid leave?",2184
+4307,"What's the procedure for determining annual leave deduction for a 10-day vacation in December, and should I prepare for unpaid leave?",2184
+4308,"How does a 5-day leave in October impact my annual leave balance, and do I need to consider using unpaid leave?",2184
+4309,how many pending leave as today not yet approved by me,2185
+4310,how many pending leave application pending for my approval now?,2185
+4311,how many leave request are currently awaiting my approval?,2185
+4312,can you tell the number of pending leave applications that have not yet been approved by me?,2185
+4313,"as of now, how many leave request require my approval?",2185
+4314,total number of pending leave request that I haven't approved yet,2185
+4315,"How many leave requests are currently in a pending status and awaiting my approval today?",2185
+4316,"Could you provide the total count of leave applications that are currently pending my approval?",2185
+4317,"As of now, how many leave requests are still pending for my approval?",2185
+4318,"Can you inform me about the number of pending leave applications that haven't been approved by me yet?",2185
+4319,"How many leave requests are currently in the pending status and awaiting my approval today?",2185
+4320,"Could you provide a count of the pending leave applications that haven't been approved by me yet?",2185
+4321,"Can you tell me the total number of pending leave applications that require my approval as of now?",2185
+4322,"How many leave requests are currently pending my approval?",2185
+4323,"What's the total count of leave applications that have not yet been approved by me?",2185
+4324,"As of today, how many leave requests are awaiting my approval?",2185
+4325,"How many pending leave applications are there that I haven't approved yet?",2185
+4326,"What's the number of leave requests currently in a pending status and not yet approved by me?",2185
+4327,"Could you inform me about the number of leave applications pending my approval?",2185
+4328,"Can you provide the total count of pending leave applications that are awaiting my approval?",2185
+4329,"How many pending leave requests are awaiting my approval today?",2185
+4330,"Can you tell me the number of leave applications that I haven't approved yet?",2185
+4331,"How many leave requests are currently in a pending status and not yet approved by me?",2185
+4332,"What's the total count of pending leave applications that are awaiting my approval?",2185
+4333,"As of today, how many leave requests are awaiting my approval?",2185
+4334,"How many pending leave applications have not been approved by me yet?",2185
+4335,"Provide the total count of leave applications pending for my approval.",2185
+4336,"What's the number of leave requests currently in a pending status and not yet approved by me?",2185
+4337,"Could you inform me about the number of leave applications pending my approval?",2185
+4338,"Tell me the total number of pending leave applications that require my approval as of now.",2185
+4339,"How many leave requests are currently pending my approval?",2185
+4340,"What's the total count of leave applications that have not yet been approved by me?",2185
+4341,"As of today, how many leave requests are still pending for my approval?",2185
+4342,"How many pending leave applications are there that I haven't approved yet?",2185
+4343,"Can you provide the number of leave requests currently in a pending status and not yet approved by me?",2185
+4344,"Could you inform me about the count of leave applications pending my approval?",2185
+4345,"Tell me the total count of pending leave applications that are awaiting my approval today.",2185
+4346,"How many leave requests are currently awaiting my approval?",2185
+4347,"What's the number of leave applications that I haven't approved as of now?",2185
+4348,"As of today, how many leave applications are pending for my approval?",2185
+4349,"How many pending leave requests are there for my approval today?",2185
+4350,"Tell me the count of leave applications awaiting my approval as of now.",2185
+4351,"What's the number of leave requests that haven't been approved by me today?",2185
+4352,"As of today, how many leave applications are still pending for my approval?",2185
+4353,"Can you inform me about the number of pending leave applications that require my approval?",2185
+4354,"How many leave requests are currently awaiting my approval today?",2185
+4355,"What's the total count of leave applications that have not yet been approved by me?",2185
+4356,"As of today, how many leave requests are there that I haven't approved yet?",2185
+4357,"Provide the number of leave applications currently in a pending status and not yet approved by me.",2185
+4358,"Tell me the total number of pending leave applications that need my approval today.",2185
+4359,why is the approval and applicant never receive the leave application email notification,2186
+4360,"I did not receive my leave application alert/notification, why?",2186
+4361,Why I did not receive leave email or leave alert,2186
+4362,Why isn't I receive leave application notification,2186
+4363,"What could be the reason for the absence of email notifications regarding leave applications for both the applicant and approver?",2186
+4364,"Why am I not receiving email notifications for leave applications, and what might be causing this issue?",2186
+4365,"What could be preventing me from receiving leave application email alerts?",2186
+4366,"Why has there been a lack of email notifications regarding leave applications, and what could be the cause?",2186
+4367,"Can you explain why neither the applicant nor the approver is receiving email notifications for leave applications?",2186
+4368,"Why haven't I received email notifications for leave requests, and what might be causing this issue?",2186
+4369,Why haven't I received any email notifications for leave application alerts?,2186
+4370,What could be the reason for the absence of email notifications for leave requests?,2186
+4371,I'm not getting any email notifications for leave applications; what could be causing this issue?,2186
+4372,Can you help me understand why I'm not receiving email notifications for leave application alerts?,2186
+4373,Why is it that neither the applicant nor the approver is receiving email notifications for leave applications?,2186
+4374,"Why haven't I received any email alerts for leave applications, and what might be causing this problem?",2186
+4375,Why are email notifications for leave applications not being received by both the applicant and approver?,2186
+4376,What could be causing the absence of email notifications for leave applications for both the applicant and approver?,2186
+4377,Why haven't email notifications for leave applications reached both the applicant and the approver?,2186
+4378,Can you explain why leave application email notifications are not being received by either the applicant or the approver?,2186
+4379,Why is it that neither the applicant nor the approver is getting email notifications for leave applications?,2186
+4380,What might be preventing email notifications for leave applications from reaching both the applicant and the approver?,2186
+4381,Why have there been issues with email notifications for leave applications not reaching both the applicant and the approver?,2186
+4382,Why aren't email notifications for leave applications being sent to both the applicant and the approver?,2186
+4383,Could you provide insights into why email notifications for leave applications are failing to reach both the applicant and the approver?,2186
+4384,"Why have neither the applicant nor the approver received email notifications for leave applications, and what might be causing this problem?",2186
+4385,Day code generate,2188
+4386,how to generate day code,2188
+4387,steps to generate day code,2188
+4388,how to add new or update existing day code,2188
+4389,What is the process for generating day codes?,2188
+4390,Could you explain how to create day codes?,2188
+4391,What are the steps involved in generating day codes?,2188
+4392,How can I add new day codes or update existing ones?,2188
+4393,Is there a procedure for generating day codes that I should follow?,2188
+4394,What's the method for generating day codes in the system?,2188
+4395,How can I create day codes in the system?,2188
+4396,Can you guide me on generating day codes?,2188
+4397,I'd like to know the steps for adding new day codes or updating existing ones. Can you help?,2188
+4398,What's the procedure for generating and managing day codes?,2188
+4399,How do I go about generating day codes for different purposes?,2188
+4400,"Is there a way to customize day codes, and if so, how?",2188
+4401,What's the process for generating unique day codes?,2188
+4402,Please explain how I can generate day codes for specific use cases.,2188
+4403,Can you provide insights into the day code generation process?,2188
+4404,How do I manage day codes effectively in the system?,2188
+4405,How can I navigate to generate a day code?,2188
+4406,Where can I find the option to generate day codes?,2188
+4407,Could you guide me to the day code generation feature?,2188
+4408,How do I access the tool for generating day codes?,2188
+4409,What steps should I follow to initiate day code generation?,2188
+4410,Where in the system can I go to generate day codes?,2188
+4411,Is there a specific menu or section to create day codes?,2188
+4412,Can you show me how to navigate to the day code generation tool?,2188
+4413,What's the location in the system for generating day codes?,2188
+4414,"I'd like to generate a day code, where do I start?",2188
+4415,How can I enter the day code generation interface?,2188
+4416,Is there a tab or option to begin generating day codes?,2188
+4417,What's the path to generating day codes in the system?,2188
+4418,Can you provide instructions on how to reach the day code generation page?,2188
+4419,Where can I access the feature to generate day codes?,2188
+4420,"I want to generate a day code, where should I go in the system?",2188
+4421,How do I navigate to create a new day code?,2188
+4422,Can you direct me to the tool for generating day codes?,2188
+4423,What's the route to reach the day code generation screen?,2188
+4424,How can I find the option to generate a unique day code?,2188
+4425,How do I access the day code generation feature?,2188
+4426,Where can I find the tool to generate day codes?,2188
+4427,How can I navigate to generate a day code?,2188
+4428,What's the process for reaching the day code generation page?,2188
+4429,"I'd like to generate a day code, where do I start?",2188
+4430,Can you show me how to navigate to the day code generation tool?,2188
+4431,Where in the system can I go to generate day codes?,2188
+4432,Is there a specific menu or section to create day codes?,2188
+4433,"I want to generate a day code, where should I go in the system?",2188
+4434,What's the route to reach the day code generation screen?,2188
+4435,Earn leave basis / entire leave entitlement,2189
+4436,how i earn my leave?,2189
+4437,explain how Earn Leave Basis and Entire Leave Entitlement system work for leave accrual,2189
+4438,difference between Earn Leave Basis and Entire Leave Entitlement,2189
+4439,could you clarify how Earn Leave Basis and Entire Leave Entitlement methods apply to our leave entitlement?,2189
+4440,How does the "Entire Leave Entitlement" method differ from the "Earn Leave Basis" in terms of leave accrual?,2189
+4441,What are the key distinctions between the "Earn Leave Basis" and "Entire Leave Entitlement" approaches to leave accrual?,2189
+4442,Please clarify the mechanics of leave accrual in the "Earn Leave Basis" system.,2189
+4443,Can you outline the process of accruing leave under the "Entire Leave Entitlement" system?,2189
+4444,Can you elaborate on how leave is earned under the "Earn Leave Basis" system?,2189
+4445,Can you explain the concept of earning leave on the basis of work done?,2189
+4446,How does the Earn Leave Basis method work in terms of leave accrual?,2189
+4447,Could you provide a detailed explanation of the Entire Leave Entitlement system for leave accrual?,2189
+4448,What's the difference between earning leave based on work done and having the entire leave entitlement upfront?,2189
+4449,Can you clarify the distinction between the Earn Leave Basis and Entire Leave Entitlement systems for leave accrual?,2189
+4450,Please describe how leave accrual is calculated in the Earn Leave Basis method.,2189
+4451,How does the Entire Leave Entitlement approach affect an employee's leave accrual?,2189
+4452,Can you explain the process of accruing leave under the Entire Leave Entitlement system?,2189
+4453,What are the practical implications of using the Earn Leave Basis for leave accrual?,2189
+4454,Could you elaborate on how the Entire Leave Entitlement method impacts leave accrual and utilization?,2189
+4455,Can you explain the different methods of leave entitlement?,2189
+4456,What are the available options for leave entitlement?,2189
+4457,How does leave entitlement work?,2189
+4458,Could you provide information about the methods of leave entitlement?,2189
+4459,What are the types of leave entitlement methods employees can choose from?,2189
+4460,Can you clarify the leave entitlement options available to employees?,2189
+4461,"I'd like to learn more about the various leave entitlement methods, can you help?",2189
+4462,How are leave entitlements structured in our company?,2189
+4463,What's the policy regarding leave entitlement methods?,2189
+4464,Can you describe the different approaches to leave entitlement?,2189
+4465,Please explain the methods by which employees can access leave entitlement.,2189
+4466,What's the difference between the methods of leave entitlement?,2189
+4467,Can you provide an overview of the leave entitlement methods currently in place?,2189
+4468,How can employees select their preferred leave entitlement method?,2189
+4469,"I'm interested in understanding the options for leave entitlement, can you elaborate?",2189
+4470,Could you outline the choices for leave entitlement methods within our organization?,2189
+4471,What are the key features of the leave entitlement methods offered to employees?,2189
+4472,Can you provide details about the leave entitlement methods available in our company?,2189
+4473,How do employees decide which leave entitlement method to use?,2189
+4474,"I'd like to know more about the various methods of leave entitlement in our company, can you provide information?",2189
+4475,How does the leave entitlement method work?,2189
+4476,What are the different leave entitlement methods available?,2189
+4477,Can you explain the options for leave entitlement methods?,2189
+4478,What's the policy regarding leave entitlement methods?,2189
+4479,I'd like to understand the various methods of leave entitlement,2189
+4480,How can employees choose their preferred leave entitlement method?,2189
+4481,Tell me about the leave entitlement methods offered to employees.,2189
+4482,What are the key features of our leave entitlement methods?,2189
+4483,Please outline the choices for leave entitlement methods.,2189
+4484,How do employees decide which leave entitlement method to use?,2189
+4485,why user do not have leave entitlement,2191
+4486,why EMP001 doesn't entitled AL,2191
+4487,"I do not see my leave entitlement, why is that?",2191
+4488,Why does some employees do not have leave entitlement?,2191
+4489,"If I do not see my leave entitlement, what could be the reason?",2191
+4490,What could be the reason behind certain employees not having leave entitlement?,2191
+4491,Is there a specific criterion that determines an employee's eligibility for leave entitlement?,2191
+4492,Are there circumstances under which an employee may lose their leave entitlement?,2191
+4493,Can you explain the process of how leave entitlement is determined for employees?,2191
+4494,Are there any common factors that might lead to an employee not having leave entitlement?,2191
+4495,Why is there no leave entitlement for certain users?,2191
+4496,EMP002 has no annual leave entitlement; can you explain why?,2191
+4497,I'm unable to find my leave entitlement. Why might an employee not have leave entitlement?,2191
+4498,What factors could result in an employee not having annual leave entitlement?,2191
+4499,Can you shed light on why some employees may lack leave entitlement?,2191
+4500,What criteria are used to determine whether an employee is eligible for leave entitlement?,2191
+4501,Can you clarify why certain employees do not possess leave entitlement?,2191
+4502,Under what circumstances can an employee lose their leave entitlement?,2191
+4503,How is leave entitlement calculated for employees?,2191
+4504,Are there specific conditions or rules that can lead to an absence of leave entitlement for an employee?,2191
+4505,Why do some employees not receive leave entitlement?,2191
+4506,Could you explain why EMP003 doesn't have any leave entitlement?,2191
+4507,I cannot find my leave entitlement; what could be the explanation for this?,2191
+4508,Are there specific cases where employees may not be entitled to leave?,2191
+4509,What factors determine an employee's eligibility for leave entitlement?,2191
+4510,Is there a situation where an employee might lose their leave entitlement?,2191
+4511,Why don't I see any leave entitlement for EMP004?,2191
+4512,EMP005 appears to lack leave entitlement; is there a reason for this?,2191
+4513,What criteria are used to decide if an employee should have leave entitlement?,2191
+4514,Can you provide insights into why some employees might not have leave entitlement?,2191
+4515,Could you clarify why certain users do not have leave entitlement?,2191
+4516,Under what circumstances can an employee lose their entitlement to leave?,2191
+4517,How is leave entitlement typically determined for employees?,2191
+4518,Are there specific conditions that lead to the absence of leave entitlement for certain employees?,2191
+4519,I'm curious about why EMP006 has no leave entitlement; can you explain?,2191
+4520,What are the common factors that result in an employee not having leave entitlement?,2191
+4521,Is there a process or calculation used to determine leave entitlement for employees?,2191
+4522,Can you shed light on why some employees do not possess leave entitlement?,2191
+4523,Could you outline the reasons behind not having leave entitlement as an employee?,2191
+4524,What rules or conditions might lead to an absence of leave entitlement for employees?,2191
+4525,Why do I not have leave entitlement?,2191
+4526,Can you explain why EMP007 doesn't possess leave entitlement?,2191
+4527,I cannot find my leave entitlement; what might be the reason?,2191
+4528,What factors determine whether an employee has leave entitlement?,2191
+4529,Is there a specific criterion for not having leave entitlement?,2191
+4530,Why is there no leave entitlement for certain employees?,2191
+4531,Why doesn't EMP008 have any leave entitlement?,2191
+4532,Could you clarify why some users lack leave entitlement?,2191
+4533,Are there conditions under which an employee might lose their leave entitlement?,2191
+4534,How is leave entitlement typically determined for employees?,2191
+4535,I cannot apply Annual Leave. Annual Leave not in the selection list.,2193
+4536,I cannot find the leave type/code that I want to apply,2193
+4537,why is my leave application type is not in the selection list,2193
+4538,i cannot select my leave application type,2193
+4539,What should I do if I'm unable to see the option to apply for Annual Leave in the selection list?,2193
+4540,Is there a specific reason why the leave type or code I want to apply for is missing from the options?,2193
+4541,Can you explain why my entitled leave application type is not in the selection list?,2193
+4542,Are there any troubleshooting steps I can take if I cannot select my preferred leave application type?,2193
+4543,How can I resolve the issue of not being able to find the Annual Leave option when applying for leave?,2193
+4544,What might be causing the absence of the leave type I need in the application list?,2193
+4545,Why is the option to apply for Annual Leave not available in the selection list?,2193
+4546,I cannot seem to find the leave type I want to apply for. What should I do?,2193
+4547,My leave application type is different from what I expected. Can you explain why?,2193
+4548,What could be the reason behind the inability to select my preferred leave application type?,2193
+4549,How can I address the issue of Annual Leave not being in the selection list when applying for leave?,2193
+4550,Why might the leave type or code I need be missing from the list of options?,2193
+4551,Is there a specific procedure to follow if my leave application type appears incorrect?,2193
+4552,What steps should I take if I cannot find the leave type I want to apply for?,2193
+4553,Can you provide guidance on resolving the issue of not being able to select the desired leave application type?,2193
+4554,Are there common factors that lead to the absence of certain leave types in the application list?,2193
+4555,I'm unable to find the Annual Leave option in the selection list. What should I do?,2193
+4556,Why is Annual Leave not listed as an option when I try to apply for leave?,2193
+4557,What could be causing the absence of the Annual Leave type in the selection list?,2193
+4558,I cannot select the leave type I need for my application. Why is that?,2193
+4559,Why is my preferred leave type missing from the selection list when I apply for leave?,2193
+4560,"I expected to see Annual Leave in the selection list, but it's not there. Can you help?",2193
+4561,My leave application type appears to be different. Can you explain why this might be happening?,2193
+4562,I cannot find the option to apply for Annual Leave. What should I do to resolve this?,2193
+4563,What troubleshooting steps can I follow if I'm unable to select my desired leave type?,2193
+4564,How can I address the issue of Annual Leave not being available for selection?,2193
+4565,The leave type I want to apply for is missing from the options. Why is this happening?,2193
+4566,Can you clarify why my leave application type has changed unexpectedly?,2193
+4567,I'm having trouble selecting my leave application type. Any suggestions on what to do?,2193
+4568,Why is my leave application type different from what I expected?,2193
+4569,What might be causing the absence of the leave type I need in the application list?,2193
+4570,Why is the option to apply for Annual Leave not visible in the selection list?,2193
+4571,I cannot find the leave type I want to apply for. Can you guide me on resolving this?,2193
+4572,My leave application type seems incorrect. What could be the reason behind this?,2193
+4573,Why am I unable to select my preferred leave application type? Any insights?,2193
+4574,Are there common factors that lead to certain leave types not appearing in the application list?,2193
+4575,Why is my leave type missing from the selection list?,2193
+4576,I cannot find the leave option I want to apply for. What's happening?,2193
+4577,Why isn't my leave type in the selection list?,2193
+4578,I'm unable to select my desired leave type. Can you assist?,2193
+4579,What should I do if the leave type I need is not in the selection list?,2193
+4580,My leave application type is not available for selection. Why?,2193
+4581,How can I resolve the issue of my leave type not being in the selection list?,2193
+4582,Why isn't the leave type I want to apply for visible in the selection list?,2193
+4583,Can you explain why I cannot see my leave type in the selection list?,2193
+4584,"Why has my leave type changed, and it's not in the selection list anymore?",2193
+4585,why I not able apply leave even I have leave earn,2194
+4586,why cannot apply leave even I have balance,2194
+4587,why I cannot apply leave even though I still have leave balance,2194
+4588,Why I cannot submit my leave applications?,2194
+4589,cannot apply leave,2194
+4590,"Despite having accrued leave, why am I unable to submit a leave application?",2194
+4591,What could be the reason for not being able to apply for replacement leave even though I have a balance?,2194
+4592,reason I unable to apply leave,2194
+4593,Is there a known issue causing difficulties in submitting my leave applications?,2194
+4594,Why is it that I cannot apply for leave at the moment?,2194
+4595,"I have earned leave, but I cannot seem to submit a leave application. What could be the issue?",2194
+4596,Why am I facing difficulties in applying for replacement leave despite having a balance?,2194
+4597,What are the possible reason of unable to apply leave although im sure that I have enough balance?,2194
+4598,I am unable to submit my leave applications; is there a specific problem that's causing this?,2194
+4599,Is there a known issue or system error preventing me from applying for leave?,2194
+4600,"Despite having accumulated leave, why cannot I submit my leave application?",2194
+4601,Why am I experiencing problems when trying to apply for replacement leave even though I have leave balance?,2194
+4602,Can you clarify the employment act's provisions regarding the minimum leave entitlement for employees?,2194
+4603,What steps should I take if I cannot submit my leave applications despite having leave entitlement?,2194
+4604,Why is the system not allowing me to apply for leave at this time?,2194
+4605,"I have earned leave, but I cannot seem to submit my leave application. What could be the issue?",2194
+4606,Why cannot I apply for leave even though I have accrued leave days?,2194
+4607,"Despite having leave earned, I'm facing difficulties in submitting my leave application. What could be the reason?",2194
+4608,What might be preventing me from applying for leave despite having leave entitlement?,2194
+4609,I cannot submit my leave applications despite having leave balance. Is there a known issue causing this?,2194
+4610,"Why is it that I cannot apply for leave at the moment, even though I have leave earned?",2194
+4611,"Despite accumulating leave, why am I unable to submit my leave application?",2194
+4612,"What's preventing me from applying for leave, even though I have accrued leave days?",2194
+4613,"I cannot apply for leave, despite having balance. Is there a specific problem causing this?",2194
+4614,"Why am I experiencing issues when trying to apply for leave, despite having leave entitlement?",2194
+4615,"I've earned leave, but I cannot submit my leave applications. What should I do?",2194
+4616,Is there a system error or known issue causing problems when I attempt to apply for leave?,2194
+4617,"Despite having leave earned, I cannot seem to submit my leave application. What's happening?",2194
+4618,"I'm unable to apply for leave, even though I have accrued leave days. What might be the issue?",2194
+4619,What could be preventing me from applying for leave when I have leave earned?,2194
+4620,"I have earned leave, but I cannot submit my leave application. Are there any known issues?",2194
+4621,"Why am I facing difficulties in applying for leave, despite having earned leave?",2194
+4622,"Despite accumulating leave, I cannot submit my leave applications. Is this a known issue?",2194
+4623,"What should I do if I cannot apply for leave, despite having leave entitlement?",2194
+4624,"Why is the system not allowing me to apply for leave, even though I have earned leave?",2194
+4625,Why cannot I apply for leave even though I have earned leave?,2194
+4626,"I have leave balance, but I cannot submit my leave application. What's wrong?",2194
+4627,"Despite having leave entitlement, I cannot seem to apply for leave. What's happening?",2194
+4628,What could be preventing me from applying for leave when I have leave earned?,2194
+4629,"I've earned leave, but the system won't let me submit my leave application. Why?",2194
+4630,"Why am I facing difficulties in applying for leave, even though I have accrued leave?",2194
+4631,Is there a known issue preventing me from applying for leave despite having leave balance?,2194
+4632,"I have earned leave, but I'm unable to submit my leave application. Any insights?",2194
+4633,"Despite having leave earned, I cannot apply for leave. What might be the issue?",2194
+4634,"What should I do if I cannot apply for leave, even though I have leave entitlement?",2194
+4635,why I unable take leave even I have leave earn,2194
+4636,why cannot take leave even I have balance,2194
+4637,why I cannot take leave even though I still have leave balance,2194
+4638,cannot take leave,2194
+4639,"Despite having accrued leave, why am I unable to apply leave?",2194
+4640,What could be the reason for not being able to take for replacement leave even though I have a balance?,2194
+4641,reason I unable to take leave,2194
+4642,Is there a known issue causing difficulties in apply my leave?,2194
+4643,Why is it that I cannot take leave at the moment?,2194
+4644,Why am I facing difficulties in submitting for replacement leave application despite having a balance?,2194
+4645,What are the possible reason of unable to take leave although im sure that I have enough balance?,2194
+4646,Is there a known issue or system error preventing me from taking leave?,2194
+4647,Why am I experiencing problems when trying to take replacement leave even though I have leave balance?,2194
+4648,Why is the system not allowing me to take leave at this time?,2194
+4649,Why cannot I take leave even though I have accrued leave days?,2194
+4650,What might be preventing me from taking leave despite having leave entitlement?,2194
+4651,"Why is it that I cannot take leave at the moment, even though I have leave earned?",2194
+4652,"What's preventing me from taking leave, even though I have accrued leave days?",2194
+4653,"I cannot take leave, despite having balance. Is there a specific problem causing this?",2194
+4654,"Why am I experiencing issues when trying to take leave, despite having leave entitlement?",2194
+4655,Is there a system error or known issue causing problems when I attempt to take leave?,2194
+4656,"I'm unable to take leave, even though I have accrued leave days. What might be the issue?",2194
+4657,What could be preventing me from taking leave when I have leave earned?,2194
+4658,"Why am I facing difficulties in taking leave, despite having earned leave?",2194
+4659,"What should I do if I cannot take leave, despite having leave entitlement?",2194
+4660,"Why is the system not allowing me to take leave, even though I have earned leave?",2194
+4661,Why cannot I take leave even though I have earned leave?,2194
+4662,"Despite having leave entitlement, I cannot seem to take leave. What's happening?",2194
+4663,What could be preventing me from taking leave when I have leave earned?,2194
+4664,"Why am I facing difficulties in taking leave, even though I have accrued leave?",2194
+4665,Is there a known issue preventing me from taking leave despite having leave balance?,2194
+4666,"Despite having leave earned, I cannot take leave. What might be the issue?",2194
+4667,"What should I do if I cannot take leave, even though I have leave entitlement?",2194
+4668,Please explain to me the different leaves in Malaysia law.,2195
+4669,How many leaves are there in Malaysian law? Please explain the definition of each.,2195
+4670,"Under the Employment Act, what are the leave that employees are entitled to?",2195
+4671,"What is minimum annual leave entitlement for employees in Malaysia, and how does it vary based on duration of employment?",2195
+4672,Can you explain different types of leave that Malaysian employee are entitled to under Employment Act 1955?,2195
+4673,"What is the duration of maternity leave for female employees in Malaysia, and is it paid?",2195
+4674,Could you provide an overview of the various types of leaves mandated by Malaysian labor laws and their definitions?,2195
+4675,"In Malaysian law, how many types of leaves exist, and can you elaborate on the specific definitions for each?",2195
+4676,"What are the leave entitlements for employees in Malaysia according to the Employment Act, and could you explain each type?",2195
+4677,"I'm curious about the minimum annual leave entitlement for Malaysian employees. Does it differ depending on their length of employment, and if so, how?",2195
+4678,"How many types of leaves are specified in Malaysian labor laws, and what are their respective definitions?",2195
+4679,"Under the Employment Act of Malaysia, what are the different types of leave that employees can avail, and what are the definitions of these leaves?",2195
+4680,Can you provide details about the minimum annual leave entitlement for employees in Malaysia and explain how it varies based on their length of employment?,2195
+4681,"What is the duration of maternity leave for female employees in Malaysia, and is it paid under the Employment Act?",2195
+4682,"Please give an overview of the leave entitlements for Malaysian employees as mandated by the Employment Act, and provide explanations for each type.",2195
+4683,"How many categories of leave are there in Malaysian employment law, and can you elaborate on the specific definitions for each category?",2195
+4684,"In Malaysian labor laws, what types of leave are available to employees, and what do they encompass according to the Employment Act?",2195
+4685,Could you explain the different types of leave that Malaysian employees are entitled to under the Employment Act of 1955?,2195
+4686,"What are the leave provisions for Malaysian workers under the Employment Act, and are there variations in entitlements based on employment duration?",2195
+4687,"Can you clarify the annual leave entitlement for employees in Malaysia and outline any differences depending on their length of service, as prescribed by the Employment Act?",2195
+4688,Could you explain the different leaves mandated by the Employment Act in Malaysia?,2195
+4689,What are the minimum leave entitlements according to the Malaysian Employment Act?,2195
+4690,I'd like to understand the leave provisions outlined in the Employment Act in Malaysia. Can you explain?,2195
+4691,"What types of leaves are specified under the Employment Act in Malaysia, and what are the minimum entitlements?",2195
+4692,Can you provide details on the minimum leave entitlements for employees in Malaysia as per the Employment Act?,2195
+4693,"What is the minimum annual leave entitlement for employees in Malaysia, and does it vary based on employment duration?",2195
+4694,Please explain the various types of leaves required by the Malaysian Employment Act and their definitions.,2195
+4695,"Under the Employment Act in Malaysia, what are the specific leave entitlements for employees?",2195
+4696,Could you outline the leave entitlements for Malaysian employees as per the Employment Act?,2195
+4697,"In Malaysia, how many types of leaves exist under the Employment Act, and what do they encompass?",2195
+4698,"What are the minimum annual leave entitlements for Malaysian employees, and how do they change with employment duration?",2195
+4699,Can you clarify the different types of leaves mandated by the Malaysian Employment Act of 1955?,2195
+4700,"What types of leave are available to Malaysian employees under the Employment Act, and how are they defined?",2195
+4701,Please provide an overview of leave entitlements for Malaysian employees in accordance with the Employment Act.,2195
+4702,"In Malaysian labor laws, what are the leave entitlements under the Employment Act, and do they vary based on employment duration?",2195
+4703,"Could you explain the annual leave entitlement for Malaysian employees and any differences based on their length of service, as prescribed by the Employment Act?",2195
+4704,"What is the duration of maternity leave for female employees in Malaysia, and is it paid according to the Employment Act?",2195
+4705,Can you elaborate on the leave provisions for Malaysian workers under the Employment Act?,2195
+4706,"How many categories of leave are there in Malaysian employment law, and what are their definitions as per the Employment Act?",2195
+4707,"What are the leave entitlements for Malaysian employees under the Employment Act of 1955, and are there variations based on employment duration?",2195
+4708,Can you explain the different types of leave as per the Employment Act in Malaysia?,2195
+4709,What are the minimum leave entitlements under the Malaysian Employment Act?,2195
+4710,Tell me about the leave provisions outlined in the Employment Act of Malaysia.,2195
+4711,"How many types of leaves are there under the Employment Act in Malaysia, and what do they encompass?",2195
+4712,"What are the minimum annual leave entitlements for employees in Malaysia, and do they vary based on employment duration?",2195
+4713,Please elaborate on the various types of leaves mandated by the Malaysian Employment Act and their definitions.,2195
+4714,"Under the Employment Act in Malaysia, what are the specific leave entitlements for employees?",2195
+4715,Could you outline the leave entitlements for Malaysian employees as per the Employment Act?,2195
+4716,"In Malaysia, how many types of leaves exist under the Employment Act, and what do they encompass?",2195
+4717,"What is the duration of maternity leave for female employees in Malaysia, and is it paid according to the Employment Act?",2195
+4718,Are there any specific rules or restrictions on the types of leaves that can be requested through the system?,2197
+4719,Leave policy,2197
+4720,Leave definitions,2197
+4721,What's the leave terms?,2197
+4722,What's the leave policies?,2197
+4723,Are there any specific guidelines or limitations on the types of leaves that can be requested using the system?,2197
+4724,"Could you provide information about the company's leave policy, including any specific rules or restrictions?",2197
+4725,Can you clarify the definitions and terms associated with the company's leave policy?,2197
+4726,What are the specific terms and conditions governing leaves within the company's policies?,2197
+4727,Are there any established policies regarding leave entitlement and utilization that I should be aware of?,2197
+4728,Are there any particular regulations or constraints regarding the types of leaves that can be applied for through the company's leave system?,2197
+4729,"Could you share the company's leave policy, including any specific guidelines or limitations that employees should be aware of?",2197
+4730,Please elucidate the definitions and terms pertaining to the company's leave policy.,2197
+4731,What are the leave terms and conditions stipulated in the company's policies?,2197
+4732,Can you provide details about the company's leave policies and any specific rules or restrictions associated with them?,2197
+4733,Are there any established guidelines or limitations regarding the types of leave requests that employees can make using the company's system?,2197
+4734,"I would like to understand the company's leave policy in greater detail, including any specific rules or restrictions that apply.",2197
+4735,Could you explain the definitions and terms related to the company's leave policy?,2197
+4736,What specific terms and conditions govern the utilization of leave as per the company's policies?,2197
+4737,Are there any company policies in place concerning leave entitlement and how it can be used that I should familiarize myself with?,2197
+4738,What are the limitations on the types of leaves that I can request through the system?,2197
+4739,Can you provide information on the specific rules governing leave requests via the system?,2197
+4740,Are there any restrictions or guidelines for requesting leaves using the system?,2197
+4741,Could you explain the system's rules regarding the types of leaves that can be requested?,2197
+4742,What limitations are there on the leaves I can apply for through the system?,2197
+4743,Please share the policies regarding leave requests and any restrictions associated with them.,2197
+4744,Can you clarify if there are specific rules for requesting certain types of leaves through the system?,2197
+4745,"What's the process for determining annual leave deduction for a 10-day vacation in December, and should I prepare for unpaid leave?",2197
+4746,How can I navigate to generate a day code?,2198
+4747,Can you clarify the definitions and terms associated with the company's leave policy?,2199
+4748,What specific terms and conditions govern the utilization of leave as per the company's policies?,2199
+4749,How can I get assistance with correcting my leave balance?,2200
+4750,What should be my course of action if my leave balance is not reflected correctly?,2200
+4751,My leave balance seems wrong; what's the correct procedure to fix it?,2200
+4752,"In the event of Superior A's resignation with pending leave applications, what is the appropriate course of action?",2201
+4753,What steps should be taken by employees and teams to get ready for a manager's departure from the company?,2201
+4754,"When a manager leaves the company, what happens to leave approvals that were pending their approval?",2201
+4755,"Given Superior A's resignation and the pending leave applications, what should be the immediate response?",2201
+4756,Can you explain the process for managing pending leave applications when a superior resigns?,2201
+4757,"What steps should be taken if a manager who previously approved leave requests resigns, resulting in changed approvals?",2201
+4758,What steps should I take if I cannot submit my leave applications despite having leave entitlement?,2201
+4759,Why is the system not allowing me to apply for leave at this time?,2201
+4760,"Can you clarify the annual leave entitlement for employees in Malaysia and outline any differences depending on their length of service, as prescribed by the Employment Act?",2201
+4761,Could you explain the different leaves mandated by the Employment Act in Malaysia?,2195
+4762,What are the minimum leave entitlements according to the Malaysian Employment Act?,2195
+4763,I'd like to understand the leave provisions outlined in the Employment Act in Malaysia. Can you explain?,2195
+4764,"What types of leaves are specified under the Employment Act in Malaysia, and what are the minimum entitlements?",2195
+4765,Can you provide details on the minimum leave entitlements for employees in Malaysia as per the Employment Act?,2195
+4766,"What is the minimum annual leave entitlement for employees in Malaysia, and does it vary based on employment duration?",2195
+4767,Please explain the various types of leaves required by the Malaysian Employment Act and their definitions.,2195
+4768,"Under the Employment Act in Malaysia, what are the specific leave entitlements for employees?",2195
+4769,Could you outline the leave entitlements for Malaysian employees as per the Employment Act?,2195
+4770,"In Malaysia, how many types of leaves exist under the Employment Act, and what do they encompass?",2195
+4771,"What are the minimum annual leave entitlements for Malaysian employees, and how do they change with employment duration?",2195
+4772,Can you clarify the different types of leaves mandated by the Malaysian Employment Act of 1955?,2195
+4773,"What types of leave are available to Malaysian employees under the Employment Act, and how are they defined?",2195
+4774,Please provide an overview of leave entitlements for Malaysian employees in accordance with the Employment Act.,2195
+4775,"In Malaysian labor laws, what are the leave entitlements under the Employment Act, and do they vary based on employment duration?",2195
+4776,"Could you explain the annual leave entitlement for Malaysian employees and any differences based on their length of service, as prescribed by the Employment Act?",2195
+4777,"What is the duration of maternity leave for female employees in Malaysia, and is it paid according to the Employment Act?",2195
+4778,Can you elaborate on the leave provisions for Malaysian workers under the Employment Act?,2195
+4779,"How many categories of leave are there in Malaysian employment law, and what are their definitions as per the Employment Act?",2195
+4780,"What are the leave entitlements for Malaysian employees under the Employment Act of 1955, and are there variations based on employment duration?",2195
+4781,Can you explain the different types of leave as per the Employment Act in Malaysia?,2195
+4782,What are the minimum leave entitlements under the Malaysian Employment Act?,2195
+4783,Tell me about the leave provisions outlined in the Employment Act of Malaysia.,2195
+4784,"How many types of leaves are there under the Employment Act in Malaysia, and what do they encompass?",2195
+4785,"What are the minimum annual leave entitlements for employees in Malaysia, and do they vary based on employment duration?",2195
+4786,Please elaborate on the various types of leaves mandated by the Malaysian Employment Act and their definitions.,2195
+4787,"Under the Employment Act in Malaysia, what are the specific leave entitlements for employees?",2195
+4788,Could you outline the leave entitlements for Malaysian employees as per the Employment Act?,2195
+4789,"In Malaysia, how many types of leaves exist under the Employment Act, and what do they encompass?",2195
+4790,"What is the duration of maternity leave for female employees in Malaysia, and is it paid according to the Employment Act?",2195
+4791,Are there any specific rules or restrictions on the types of leaves that can be requested through the system?,2197
+4792,Leave policy,2197
+4793,Leave definitions,2197
+4794,What's the leave terms?,2197
+4795,What's the leave policies?,2197
+4796,Are there any specific guidelines or limitations on the types of leaves that can be requested using the system?,2197
+4797,"Could you provide information about the company's leave policy, including any specific rules or restrictions?",2197
+4798,Can you clarify the definitions and terms associated with the company's leave policy?,2197
+4799,What are the specific terms and conditions governing leaves within the company's policies?,2197
+4800,Are there any established policies regarding leave entitlement and utilization that I should be aware of?,2197
+4801,Are there any particular regulations or constraints regarding the types of leaves that can be applied for through the company's leave system?,2197
+4802,"Could you share the company's leave policy, including any specific guidelines or limitations that employees should be aware of?",2197
+4803,Please elucidate the definitions and terms pertaining to the company's leave policy.,2197
+4804,What are the leave terms and conditions stipulated in the company's policies?,2197
+4805,Can you provide details about the company's leave policies and any specific rules or restrictions associated with them?,2197
+4806,Are there any established guidelines or limitations regarding the types of leave requests that employees can make using the company's system?,2197
+4807,"I would like to understand the company's leave policy in greater detail, including any specific rules or restrictions that apply.",2197
+4808,Could you explain the definitions and terms related to the company's leave policy?,2197
+4809,What specific terms and conditions govern the utilization of leave as per the company's policies?,2197
+4810,Are there any company policies in place concerning leave entitlement and how it can be used that I should familiarize myself with?,2197
+4811,What are the limitations on the types of leaves that I can request through the system?,2197
+4812,Can you provide information on the specific rules governing leave requests via the system?,2197
+4813,Are there any restrictions or guidelines for requesting leaves using the system?,2197
+4814,Could you explain the system's rules regarding the types of leaves that can be requested?,2197
+4815,What limitations are there on the leaves I can apply for through the system?,2197
+4816,Please share the policies regarding leave requests and any restrictions associated with them.,2197
+4817,Can you clarify if there are specific rules for requesting certain types of leaves through the system?,2197
+4818,I'd like to understand the restrictions or regulations in place for requesting leaves via the system.,2197
+4819,What are the guidelines or constraints related to requesting leaves using the company's system?,2197
+4820,Could you provide details about the types of leaves that are allowed through the system and any associated rules?,2197
+4821,Are there any specific policies governing the types of leaves that can be requested through the system?,2197
+4822,Can you explain if there are any limitations on the leaves that can be requested using the system?,2197
+4823,Please outline the restrictions or requirements for requesting leaves through the system.,2197
+4824,What are the company's policies concerning the types of leaves that can be requested through the system?,2197
+4825,Could you elaborate on the rules and restrictions regarding leave requests made through the system?,2197
+4826,Are there any particular criteria or guidelines I need to follow when requesting leaves through the system?,2197
+4827,Can you provide insights into the specific policies governing leave requests and their restrictions via the system?,2197
+4828,I'd like to know if there are any regulations I should be aware of when applying for leaves through the system.,2197
+4829,What are the system's rules and limitations for requesting different types of leaves?,2197
+4830,"Could you clarify the company's policies regarding leave requests through the system, including any specific restrictions?",2197
+4831,Are there any specific rules or limitations on the types of leaves that can be requested via the system?,2197
+4832,"Could you explain the guidelines for requesting leaves through the system, including any restrictions?",2197
+4833,"What are the policies in place for requesting different types of leaves through the system, and are there any constraints?",2197
+4834,Can you clarify the company's regulations regarding the types of leaves that can be applied for using the system?,2197
+4835,Please provide information on the rules associated with requesting leaves through the system and any specific restrictions.,2197
+4836,What limitations or guidelines should I be aware of when requesting leaves through the system?,2197
+4837,"I'd like to understand the specific policies governing leave requests through the system, including any restrictions.",2197
+4838,Could you elaborate on the requirements for requesting various types of leaves through the system?,2197
+4839,What are the system's constraints and rules when it comes to requesting different leave types?,2197
+4840,"Can you provide insights into the company's policies regarding leave requests via the system, including any rules or restrictions?",2197
+4841,"superior A was resigned, but some of the leave application still pending for his/her approval",2203
+4842,"leave approval changed (previous approval resign), what to do",2203
+4843,"If a manager leaves the company, what happens to the pending approvals?",2203
+4844,What should I do to prepare for a manager leaving the company?,2203
+4845,What do I need to check if a leave approver is leaving the company soon?,2203
+4846,"Superior A has resigned, and there are pending leave applications awaiting approval. What steps should be taken in this situation?",2203
+4847,How should we handle leave approval changes when a manager who previously approved them resigns?,2203
+4848,"When a manager leaves the company, what happens to leave approvals that were pending their approval?",2203
+4849,What should employees and teams do to prepare for the departure of a manager from the company?,2203
+4850,What are the key considerations or tasks that need to be addressed if a manager is soon leaving the company?,2203
+4851,"In the event of Superior A's resignation with pending leave applications, what is the appropriate course of action?",2203
+4852,"What steps should be taken if a manager who previously approved leave requests resigns, resulting in changed approvals?",2203
+4853,"When a manager departs from the company, how are pending leave approvals typically managed?",2203
+4854,How can employees proactively prepare for the departure of a manager from the company?,2203
+4855,What specific aspects should be checked when it becomes known that a manager will be leaving the company in the near future?,2203
+4856,"Given Superior A's resignation and the pending leave applications, what should be the immediate response?",2203
+4857,How do we handle changes in leave approvals when a manager who had previously approved them resigns?,2203
+4858,"When a leave approver leaves the company, what becomes of leave approvals that were pending their review?",2203
+4859,What steps should be taken by employees and teams to get ready for a manager's departure from the company?,2203
+4860,What are the crucial factors or tasks that should be addressed if a manager is on the verge of leaving the company?,2203
+4861,Can you explain the process for managing pending leave applications when a superior resigns?,2203
+4862,How does the system handle leave approvals in the event of a manager's resignation with pending applications?,2203
+4863,What happens to pending leave applications when a superior resigns?,2203
+4864,Can you explain the procedure for dealing with pending leave requests if a manager leaves the company?,2203
+4865,How is the system set up to manage pending applications when a superior resigns?,2203
+4866,"When a manager resigns, how are leave approvals that were pending their review processed by the system?",2203
+4867,What's the protocol for handling pending leave applications when a superior's employment ends?,2203
+4868,"In the case of a superior's resignation, how does the system address leave applications awaiting approval?",2203
+4869,How does the system handle pending leave requests if a manager leaves the organization?,2203
+4870,"When a superior resigns, what happens to leave applications that are still pending?",2203
+4871,Could you provide details on how the system manages leave approvals when a manager resigns?,2203
+4872,What's the system's response to pending leave applications when a superior's employment is terminated?,2203
+4873,will there be a change in leave entitlement if I transfer department,2204
+4874,"i need to transfer to other department but same company, then how about my leave balance",2204
+4875,will transfer department affect leave,2204
+4876,is there a standard policy for handling leave entitlement when employees transfer to a new department?,2204
+4877,"will the leave entitlement remain the same, or would it change if i transfer to a different department within the same company?",2204
+4878,"do different departments within the company have their own distinct leave policies, and how does this affected an employees's leave balance when they transfer?",2204
+4879,"If I transfer to a different department within the same company, what happens to my existing leave balance?",2204
+4880,Can you explain if changing departments affects an employee's leave entitlement?,2204
+4881,Is there a company-wide policy regarding leave entitlement when an employee transfers to a new department?,2204
+4882,Will my leave entitlement remain unchanged if I transfer to a different department within the same company?,2204
+4883,Does transferring to a different department within the same company result in a change in leave entitlement?,2204
+4884,"If I decide to transfer to another department within the same company, how will it impact my existing leave balance?",2204
+4885,Is there a standardized policy for handling leave entitlement when employees transfer between departments?,2204
+4886,"When transferring to a different department within the same company, does the leave entitlement remain the same, or does it change?",2204
+4887,"Are there distinct leave policies for various departments within the company, and how does this affect an employee's leave balance during a transfer?",2204
+4888,What happens to my leave balance if I transfer to a different department within the same company?,2204
+4889,Can you clarify whether changing departments has any effect on an employee's leave entitlement?,2204
+4890,Is there a company-wide policy in place regarding leave entitlement when an employee switches to a new department?,2204
+4891,Will my leave entitlement stay consistent if I move to a different department within the same company?,2204
+4892,How does transferring between departments within the company impact an employee's leave benefits and entitlements?,2204
+4893,Could you explain the impact on leave entitlement when an employee changes departments?,2204
+4894,Is there a policy addressing leave entitlement changes when transferring departments?,2204
+4895,What should I know about my leave balance if I'm moving to a different department?,2204
+4896,Are there any differences in leave policies between company departments for transferring employees?,2204
+4897,"If I switch departments, how will it affect my remaining leave entitlement?",2204
+4898,What's the protocol for handling leave balances when an employee transfers to a new department?,2204
+4899,Can you clarify if leave entitlement remains consistent when changing departments within the same company?,2204
+4900,What are the guidelines for managing leave entitlement during an intra-company department transfer?,2204
+4901,Does the company have a standardized approach to leave entitlement for transferring employees?,2204
+4902,How should I navigate changes in leave entitlement during a department transfer?,2204
+4903,"Are there department-specific leave policies, and how do they apply to transfers?",2204
+4904,What steps should I take regarding my leave balance if I'm moving departments?,2204
+4905,Could you outline how leave entitlement adjustments are made during department transfers?,2204
+4906,Is there a formal process for updating leave entitlement when changing departments?,2204
+4907,What happens to my accrued leave days if I transfer to a different department?,2204
+4908,Can you guide me through the procedure for maintaining leave entitlement after a department switch?,2204
+4909,Are there variations in leave policies when employees switch between departments?,2204
+4910,How can I ensure a smooth transition of my leave entitlement during a department transfer?,2204
+4911,Could you provide insights into how the company handles leave entitlement for transferring employees?,2204
+4912,What factors influence changes in leave entitlement when transferring to another department?,2204
+4913,"If I transfer to another department within the company, will my leave entitlement change?",2204
+4914,What happens to my leave balance if I switch departments but stay in the same company?,2204
+4915,Can you explain if changing departments affects my leave entitlement?,2204
+4916,Is there a company policy regarding leave entitlement when employees transfer departments?,2204
+4917,Will my leave entitlement remain the same if I move to a different department in the same company?,2204
+4918,"Do different departments within the company have their own leave policies, and how does this impact leave entitlement during transfers?",2204
+4919,What's the impact on my leave entitlement if I transfer to a different department within the company?,2204
+4920,How does transferring between departments affect my leave entitlement?,2204
+4921,Is there a standard procedure for handling leave entitlement when employees switch to a new department?,2204
+4922,Can you clarify the process for maintaining leave entitlement when transferring between departments?,2204
+4923,will my leave bring forward after i transfer company?,2204
+4924,"after i transfer company, will my leave bring forward?",2204
+4925,will my leave brought forward after i transfer company?,2204
+4926,why i cannot apply marriage leave,2205
+4927,unable apply marriage leave,2205
+4928,why I can't apply marriage leave even I first time married,2205
+4929,What could be the reason for not being able to apply for marriage leave?,2205
+4930,I'm unable to apply for marriage leave; can you help me understand why?,2205
+4931,"Why am I experiencing difficulties in applying for marriage leave, even though it's my first marriage?",2205
+4932,What might be the issue preventing me from applying for marriage leave?,2205
+4933,Is there a specific requirement or process for applying for marriage leave that I'm missing?,2205
+4934,Can you provide guidance on how to successfully apply for marriage leave?,2205
+4935,"I've never applied for marriage leave before, so why am I unable to do so now?",2205
+4936,What could be the reason behind the inability to submit a marriage leave application?,2205
+4937,I'm facing issues with applying for marriage leave; can you assist in identifying the cause?,2205
+4938,"Why am I encountering difficulties while trying to apply for marriage leave, especially since it's my first marriage?",2205
+4939,"Is there a particular obstacle preventing me from applying for marriage leave, and if so, what could it be?",2205
+4940,Can you explain why I'm unable to initiate a marriage leave application?,2205
+4941,What might be causing the problem that's preventing me from applying for marriage leave?,2205
+4942,Are there specific requirements or steps for applying for marriage leave that I may not be aware of?,2205
+4943,How can I ensure a successful application for marriage leave?,2205
+4944,I've never had issues applying for marriage leave before; why is it not working now?,2205
+4945,"Could you help me understand why I can't seem to apply for marriage leave, despite it being my first marriage?",2205
+4946,What could be the underlying cause for my inability to submit a marriage leave application?,2205
+4947,I'm facing issues while trying to apply for marriage leave; can you help me identify the root cause?,2205
+4948,Is there a specific requirement or condition that's preventing me from applying for marriage leave?,2205
+4949,Why am I encountering difficulties when attempting to initiate a marriage leave application?,2205
+4950,Could you provide insights into why I can't apply for marriage leave at this time?,2205
+4951,Is there a particular obstacle that's blocking my ability to apply for marriage leave?,2205
+4952,What might be causing the problem that's preventing me from applying for marriage leave?,2205
+4953,Can you explain why I'm unable to proceed with my marriage leave application?,2205
+4954,Are there any specific steps or prerequisites for applying for marriage leave that I need to be aware of?,2205
+4955,How can I resolve the issue of being unable to submit a marriage leave request?,2205
+4956,I've never encountered this issue before; why am I unable to apply for marriage leave now?,2205
+4957,What is the reason behind the blockage that's preventing me from applying for marriage leave?,2205
+4958,Is there a technical problem or error that's causing my inability to apply for marriage leave?,2205
+4959,Can you guide me through the correct process for successfully applying for marriage leave?,2205
+4960,I've successfully applied for marriage leave in the past; what's different now?,2205
+4961,What should I do to troubleshoot my inability to apply for marriage leave?,2205
+4962,Could you help me understand if there are any policy changes affecting marriage leave applications?,2205
+4963,Is there a specific time frame or window for applying for marriage leave that I might be missing?,2205
+4964,Are there any known issues with the system that could be causing this problem with marriage leave applications?,2205
+4965,What steps can I take to rectify the situation and apply for marriage leave?,2205
+4966,Why can't I apply for marriage leave?,2205
+4967,I'm having trouble applying for marriage leave; can you help me figure out why?,2205
+4968,What's preventing me from applying for marriage leave?,2205
+4969,Is there a specific reason I can't submit my marriage leave application?,2205
+4970,Why am I unable to apply for marriage leave?,2205
+4971,Can you explain the issue with my marriage leave application?,2205
+4972,What might be causing the problem with my marriage leave request?,2205
+4973,I can't seem to apply for marriage leave; could you provide some insight into the issue?,2205
+4974,Why is my marriage leave application not going through?,2205
+4975,What could be the cause of my inability to apply for marriage leave?,2205
+4976,"if I resign in july, how much al balance I can get for me to apply",2206
+4977,Where do I check my unused Annual Leave balance after I tender my resignation?,2206
+4978,Will my Annual Leave prorated after I have tender my resignation?,2206
+4979,how many days of leave balance i still can apply if i submit resignation in July?,2206
+4980,"will my annual leave be prorated if i resign during the year, or will i receive my full entitlement?",2206
+4981,where can i check the annual leave balance available after i submit my resignation?,2206
+4982,"If I resign in July, what will be the remaining balance of my Annual Leave that I can apply for?",2206
+4983,Where can I verify my unused Annual Leave balance after I've submitted my resignation?,2206
+4984,"Is Annual Leave prorated after I've tendered my resignation, and if so, how is it calculated?",2206
+4985,How many days of leave balance will I still be eligible to apply for if I submit my resignation in July?,2206
+4986,What is the procedure for checking my remaining Annual Leave balance if I resign in July?,2206
+4987,"After resigning in July, how is the proration of my Annual Leave calculated?",2206
+4988,Can you explain the formula used to determine the prorated Annual Leave balance after resignation in July?,2206
+4989,Where can I find information about my Annual Leave balance post-resignation in July?,2206
+4990,"If I submit my resignation in July, how many days of unused Annual Leave can I apply for?",2206
+4991,Is the Annual Leave entitlement prorated if I resign mid-year?,2206
+4992,How can I verify my Annual Leave balance after resigning in July?,2206
+4993,"After tendering my resignation in July, how many days of Annual Leave can I still use?",2206
+4994,What is the process for calculating the prorated Annual Leave balance upon resignation?,2206
+4995,"If I resign during the month of July, what will be my available Annual Leave balance for application?",2206
+4996,What will be my remaining Annual Leave balance if I resign in July?,2206
+4997,"After resigning, how many days of Annual Leave will I have left for application?",2206
+4998,Can you inform me about my available Annual Leave balance post-resignation in July?,2206
+4999,What happens to my Annual Leave balance if I tender my resignation in July?,2206
+5000,Is there a way to check my Annual Leave balance after I've resigned?,2206
+5001,How is the Annual Leave balance determined after resigning in July?,2206
+5002,What is the process for calculating the remaining Annual Leave balance after resignation?,2206
+5003,"If I submit my resignation during July, can you tell me the amount of Annual Leave I can still use?",2206
+5004,Where can I find information about my remaining Annual Leave balance after resigning?,2206
+5005,"When I resign in July, how much Annual Leave will I have available for application?",2206
+5006,What will be the prorated Annual Leave balance if I resign during the year?,2206
+5007,How can I check the available Annual Leave balance after resigning?,2206
+5008,Can you explain how my Annual Leave entitlement changes after resigning in July?,2206
+5009,What is the formula used to calculate my Annual Leave balance after resignation?,2206
+5010,Is there a specific method for determining my remaining Annual Leave after resigning in July?,2206
+5011,"After my resignation in July, how many days of Annual Leave can I still request?",2206
+5012,"When I resign mid-year, what happens to my Annual Leave balance?",2206
+5013,Where do I go to verify my Annual Leave balance post-resignation?,2206
+5014,"If I resign in July, how much Annual Leave can I apply for?",2206
+5015,Can you clarify the process for adjusting my Annual Leave balance upon resignation?,2206
+5016,What's my remaining annual leave balance after resigning?,2206
+5017,How many days of annual leave can I use after resigning?,2206
+5018,Can you tell me my available annual leave balance post-resignation?,2206
+5019,"After resigning, how much annual leave can I still apply for?",2206
+5020,What's my annual leave balance now that I've resigned?,2206
+5021,Where can I check my annual leave balance after resigning?,2206
+5022,Is there a way to find out my remaining annual leave after resignation?,2206
+5023,What happens to my annual leave balance when I resign?,2206
+5024,Can you provide information on my annual leave balance after my resignation?,2206
+5025,How is my annual leave balance affected after I've resigned?,2206
+5026,is the employee will notify immediately as the approver submit the leave approval,2207
+5027,"if my leave not approved, did i received notification",2207
+5028,will I receive notification regarding my leave application status?,2207
+5029,how do i know my leave is approved,2207
+5030,Will I receive immediate notification once the approver submits their leave approval?,2207
+5031,"If my leave request is not approved, will I receive a notification informing me of the decision?",2207
+5032,What occurs after my leave request has been approved?,2207
+5033,How will I be informed if my leave request has been approved?,2207
+5034,Is there an automatic notification when an approver submits their decision on a leave request?,2207
+5035,"If my leave application is denied, will I be notified of the rejection?",2207
+5036,Is there an automatic notification sent to employees when their leave request is approved by the approver?,2207
+5037,"In the event that my leave request is declined, will I receive a notification indicating the decision?",2207
+5038,What is the process that follows once my leave request has been approved by the approver?,2207
+5039,How can I confirm whether my leave request has been approved or not?,2207
+5040,Do employees receive immediate notifications when their leave approvals are submitted by the approver?,2207
+5041,"If my leave application is rejected, how will I be informed of the denial?",2207
+5042,What happens after my leave request receives approval from the approver?,2207
+5043,Is there a notification system in place to inform employees about the status of their leave request approvals?,2207
+5044,"When my leave request is approved, what steps should I take next?",2207
+5045,"Will I be notified as soon as the approver takes action on my leave request, whether it's approved or denied?",2207
+5046,Do I receive a notification immediately when my leave approval is submitted by the approver?,2207
+5047,What's the notification process when the approver submits their leave approval?,2207
+5048,Am I notified as soon as my leave approval is processed by the approver?,2207
+5049,How does the notification system work when the approver takes action on my leave request?,2207
+5050,Is there an automatic notification when the approver completes the leave approval process?,2207
+5051,Will I be informed when the approver submits their decision on my leave request?,2207
+5052,Can you explain the notification procedure for leave approval submissions?,2207
+5053,What happens in terms of notifications when my leave approval is submitted by the approver?,2207
+5054,Is there a way to check the status of my leave request through notifications?,2207
+5055,"When the approver takes action on my leave request, will I receive a notification?",2207
+5056,How do I stay informed about my leave request's approval status?,2207
+5057,Are there notifications sent out when the approver approves or denies my leave request?,2207
+5058,Will I be notified once the approver submits their decision regarding my leave request?,2207
+5059,Can you clarify the notification process for leave approval submissions?,2207
+5060,What notification mechanisms are in place for leave request approvals?,2207
+5061,Is there a notification system that keeps me updated on the status of my leave requests?,2207
+5062,Do I get notifications when the approver finalizes the approval for my leave request?,2207
+5063,What notification procedures are in effect for leave approval actions by the approver?,2207
+5064,How can I find out the outcome of my leave request through notifications?,2207
+5065,"When the approver completes the leave approval, is there an automatic notification sent to me?",2207
+5066,Will I receive a notification when my leave approval is submitted?,2207
+5067,How will I be notified when my leave approval is processed?,2207
+5068,Is there a notification system for leave approvals?,2207
+5069,What's the notification process for leave approval submissions?,2207
+5070,Do I get notified when my leave request is approved by the approver?,2207
+5071,Can you explain how notifications work for leave approvals?,2207
+5072,"When the approver submits my leave approval, will I be informed?",2207
+5073,How do I stay updated on my leave request's approval status?,2207
+5074,Are there automatic notifications for leave approval actions?,2207
+5075,What happens in terms of notifications when the approver takes action on my leave request?,2207
+5076,how do I add sudden declared public holiday,2209
+5077,how to add public holiday in system?,2209
+5078,Steps to add public holiday in system,2209
+5079,explain the procedure for adding a sudden declared PH to our system,2209
+5080,how to add a PH into our system's calendar when it's not part of the regular holiday schedule?,2209
+5081,how to insert a newly declared PH into our system?,2209
+5082,What is the process for adding a sudden declared public holiday to our system?,2209
+5083,Can you explain how to include a public holiday in the system that wasn't part of the original holiday schedule?,2209
+5084,What steps should I follow to insert a newly declared public holiday into our system?,2209
+5085,How can I add a public holiday to the system when it hasn't been previously scheduled?,2209
+5086,What are the steps to input a last-minute declared public holiday into our system?,2209
+5087,How do I update our system to include a public holiday that was not initially scheduled?,2209
+5088,"Can you outline the process for adding a sudden, unplanned public holiday to our system?",2209
+5089,"Explain the procedure for inserting a public holiday into our system's calendar, especially when it's not part of the regular holiday list.",2209
+5090,What is the method for including a newly declared public holiday into our system's records?,2209
+5091,How can I add a public holiday to our system if it wasn't previously accounted for in the holiday schedule?,2209
+5092,What are the steps to follow to incorporate a last-minute public holiday into our system?,2209
+5093,Please provide guidance on how to add a public holiday to our system that was not initially scheduled.,2209
+5094,What is the protocol for entering a newly declared public holiday into our system's database?,2209
+5095,How do I update our system to reflect a public holiday that has been announced suddenly and was not part of the original holiday plan?,2209
+5096,What's the process for adding a public holiday to our system when it's declared suddenly?,2209
+5097,How can I add a last-minute public holiday into our system?,2209
+5098,Explain how to update our system with a public holiday that wasn't originally scheduled.,2209
+5099,What steps should I take to add a sudden declared public holiday to our system?,2209
+5100,Can you provide guidance on including a public holiday in our system that wasn't part of the initial holiday plan?,2209
+5101,How do I incorporate a newly declared public holiday into our system's records?,2209
+5102,What's the procedure for adding a public holiday to our system when it's announced unexpectedly?,2209
+5103,Please explain how to insert a last-minute public holiday into our system.,2209
+5104,What's the protocol for updating our system with a public holiday that has been declared suddenly?,2209
+5105,How do I update our system to reflect a public holiday that wasn't originally scheduled?,2209
+5106,Can you outline the steps for adding a sudden declared public holiday to our system?,2209
+5107,Explain the process for including a public holiday in our system's calendar when it's not part of the regular holiday schedule.,2209
+5108,What is the method for adding a newly declared public holiday into our system's records?,2209
+5109,How can I add a public holiday to our system if it wasn't initially planned?,2209
+5110,What steps do I follow to incorporate a last-minute public holiday into our system?,2209
+5111,Please provide instructions on how to add a public holiday to our system that was not initially scheduled.,2209
+5112,"What is the procedure for inserting a public holiday into our system's calendar, especially when it's not part of the regular holiday list?",2209
+5113,How do I include a newly declared public holiday in our system's database?,2209
+5114,What's the process for updating our system with a public holiday that has been announced suddenly and wasn't part of the original holiday plan?,2209
+5115,Can you guide me on how to add a sudden declared public holiday to our system?,2209
+5116,How can I add a sudden public holiday to our system?,2209
+5117,What's the process for inserting an unplanned public holiday into the system?,2209
+5118,Can you explain how to update the system with a newly declared public holiday?,2209
+5119,How do I incorporate a last-minute public holiday into our system?,2209
+5120,What steps should I follow to add a sudden public holiday to the system?,2209
+5121,Is there a procedure for including an unexpected public holiday in our system?,2209
+5122,How can I include a recently announced public holiday in our system?,2209
+5123,What do I need to do to add a public holiday that wasn't initially scheduled?,2209
+5124,Explain the process for updating our system with a sudden declared public holiday.,2209
+5125,Please provide instructions on adding an unscheduled public holiday to our system.,2209
+5126,When will I be eligible to earn Annual Leave entitlement and apply for leave on 29/9/2023 if I currently have no leave balance?,2210
+5127,how many Annual Leave I can earn next month,2210
+5128,how do I calculate the number of days of leave that I will be earned?,2210
+5129,Annual leave earned calculation,2210
+5130,How my AL earned calculated?,2210
+5131,How many AL that I earn?,2210
+5132,How system calculate the number of days of annual leave earned?,2210
+5133,Earn leave calculation?,2210
+5134,How many days of Annual Leave can I earn next month?,2210
+5135,What is the process for earning my Annual Leave entitlement?,2210
+5136,When can I expect to earn enough Leave to apply for leave on 29/9/2023?,2210
+5137,What is the number of Annual Leave days I can accrue in the upcoming month?,2210
+5138,Can you explain how the process works for earning Annual Leave entitlement?,2210
+5139,How is the calculation for earned leave determined?,2210
+5140,What method is used to calculate my Annual Leave (AL) earned?,2210
+5141,How many days of Annual Leave do I earn based on the calculation method?,2210
+5142,Could you clarify how the system calculates Annual Leave (AL) earned?,2210
+5143,What is the formula or process for earning leave in our organization?,2210
+5144,How many days of leave can I expect to earn in the next month?,2210
+5145,Could you provide an overview of the procedure for accruing my Annual Leave entitlement?,2210
+5146,When can I expect to accumulate enough leave to apply for leave on 29/9/2023?,2210
+5147,How many days of Leave will I accrue next month?,2210
+5148,What's the process for earning my Annual Leave entitlement to use on 29/9/2023?,2210
+5149,Can you explain the calculation method for earning Annual Leave?,2210
+5150,How is my Annual Leave (AL) balance calculated?,2210
+5151,What's the formula used to determine my earned leave balance?,2210
+5152,How does the system calculate my earned leave?,2210
+5153,Can you clarify how I earn leave in our organization?,2210
+5154,How many days of Annual Leave will I earn for the upcoming month?,2210
+5155,What determines the number of Annual Leave days I can accrue next month?,2210
+5156,When will I be eligible to earn leave for my leave request on 29/9/2023?,2210
+5157,Explain the procedure for earning leave for a specific date.,2210
+5158,What factors are considered in the calculation of my Annual Leave (AL) balance?,2210
+5159,How do I go about earning my leave for leave on 29/9/2023?,2210
+5160,Can you provide an overview of how leave is earned in our organization?,2210
+5161,How does the system determine the number of days of Annual Leave I earn?,2210
+5162,What's the process for accruing my Annual Leave (AL) balance for a particular date?,2210
+5163,"I want to apply leave on 29/9/2023, but now I do not have AL leave balance. When I can earn the entitlement and apply the leave?",2210
+5164,Please explain the method used to calculate my earned leave balance.,2210
+5165,What steps should I follow to earn my Annual Leave entitlement for a specific date?,2210
+5166,How can I calculate my earned leave for a specific date?,2210
+5167,What's the process for determining the leave I've earned for a particular date?,2210
+5168,Can you explain how to calculate my accrued leave for a specific date?,2210
+5169,How do I find out the number of leave days I've earned for a specific date?,2210
+5170,What's the formula used to calculate earned leave for a specific date?,2210
+5171,How can I check the leave I've earned for a specific date?,2210
+5172,What factors are considered when calculating my leave earned for a specific date?,2210
+5173,How does the system determine my leave balance for a specific date?,2210
+5174,What's the procedure for calculating leave earned on a specific date?,2210
+5175,Can you provide insights into the leave earned calculation for a particular date?,2210
+5176,what are the different between lump sum and day by day in post method for leave payroll posting,2211
+5177,what is the meaning of lump sum and day by day,2211
+5178,how do leave payroll posting method works,2211
+5179,what leave payroll post method we using?,2211
+5180,Can you explain the distinctions between lump sum and day-by-day in the post method for leave payroll posting?,2211
+5181,"What does "lump sum" mean in the context of payroll processing, and how does it differ from "day by day"?",2211
+5182,Could you provide insights into how payroll processing functions and the various method involved?,2211
+5183,What is the significance of distinguishing between "lump sum" and "day by day" when posting leave payroll?,2211
+5184,How does the payroll system calculate payments based on different types like "lump sum" and "day by day"?,2211
+5185,"What is the process of payroll calculation for different payment methods, such as "lump sum" and "day by day"?",2211
+5186,Can you outline the key differences between "lump sum" and "day-by-day" in the leave payroll posting method?,2211
+5187,"What exactly does "lump sum" signify, and how does it contrast with "day by day" in payroll processing?",2211
+5188,"How does the payroll system determine payments for various types, including "lump sum" and "day by day"?",2211
+5189,"What are the implications of choosing "lump sum" or "day by day" when posting leave payroll, and how does it impact the process?",2211
+5190,Could you explain the mechanics behind payroll processing and its interaction with different payment types?,2211
+5191,What is the significance of understanding the distinctions between "lump sum" and "day by day" when dealing with leave payroll posting?,2211
+5192,How is payment calculated for leave in payroll when using the "lump sum" or "day by day" methods?,2211
+5193,Can you clarify the concept of "lump sum" and "day by day" in payroll terminology and their role in leave payroll posting?,2211
+5194,What considerations should be taken into account when deciding whether to use "lump sum" or "day by day" for leave payroll posting?,2211
+5195,How do payroll calculations differ when using the "lump sum" and "day by day" methods for processing leave payments?,2211
+5196,Can you clarify the contrast between lump sum and day-by-day when it comes to leave payroll posting?,2211
+5197,What's the difference between 'lump sum' and 'day by day' in the post method for leave payroll?,2211
+5198,Could you explain how 'lump sum' and 'day by day' methods vary in leave payroll posting?,2211
+5199,How do 'lump sum' and 'day by day' differ in the context of leave payroll posting?,2211
+5200,What are the distinctions between 'lump sum' and 'day by day' in the leave payroll post method?,2211
+5201,Can you elaborate on the differences between the 'lump sum' and 'day by day' approaches for leave payroll posting?,2211
+5202,"In leave payroll posting, what sets apart 'lump sum' from 'day by day'?",2211
+5203,What is the significance of understanding the difference between 'lump sum' and 'day by day' in leave payroll?,2211
+5204,How does the 'lump sum' method differ from the 'day by day' method in leave payroll posting?,2211
+5205,Could you provide insights into the nuances between 'lump sum' and 'day by day' for leave payroll?,2211
+5206,"What implications do 'lump sum' and 'day by day' have in the context of leave payroll posting, and how do they differ?",2211
+5207,What factors should be considered when choosing between 'lump sum' and 'day by day' for leave payroll posting?,2211
+5208,What distinguishes 'lump sum' from 'day by day' in the leave payroll post method?,2211
+5209,Can you clarify the practical distinctions between 'lump sum' and 'day by day' when processing leave payroll?,2211
+5210,How does the use of 'lump sum' or 'day by day' affect the outcome of leave payroll posting?,2211
+5211,What are the specific differences between 'lump sum' and 'day by day' in leave payroll processing?,2211
+5212,"When it comes to leave payroll posting, what is the impact of selecting 'lump sum' over 'day by day'?",2211
+5213,How does the choice between 'lump sum' and 'day by day' influence the post method for leave payroll?,2211
+5214,What considerations should be taken into account when deciding between 'lump sum' and 'day by day' for leave payroll posting?,2211
+5215,Could you provide an overview of the functional distinctions between 'lump sum' and 'day by day' in leave payroll processing?,2211
+5216,What are the key distinctions between 'lump sum' and 'day by day' in leave payroll posting?,2211
+5217,Can you explain the differences between 'lump sum' and 'day by day' in the post method for leave payroll?,2211
+5218,How does 'lump sum' differ from 'day by day' in the context of leave payroll posting?,2211
+5219,What sets apart 'lump sum' and 'day by day' in the post method for leave payroll?,2211
+5220,Could you clarify the contrast between 'lump sum' and 'day by day' in leave payroll posting?,2211
+5221,What are the practical differences between 'lump sum' and 'day by day' when posting leave payroll?,2211
+5222,"In leave payroll posting, how do 'lump sum' and 'day by day' approaches differ?",2211
+5223,What are the implications of choosing 'lump sum' or 'day by day' for leave payroll posting?,2211
+5224,How does the selection of 'lump sum' or 'day by day' impact leave payroll posting?,2211
+5225,What considerations should be kept in mind when deciding between 'lump sum' and 'day by day' for leave payroll posting?,2211
+5226,what's my annual leave entitlement after 2 years,2212
+5227,what is my total annual leave entitlement after working for 2 years?,2212
+5228,show the me total annual leave after 2 years,2212
+5229,annual leave amount after two years,2212
+5230,could you please calculate my total annual leave entitlement after i have been employed for 2 years?,2212
+5231,what will be my annual leave entitlement after 2 years employment?,2212
+5232,Can you calculate my annual leave entitlement after two years of employment?,2212
+5233,What would be my total annual leave entitlement after completing two years with the company?,2212
+5234,How much annual leave will I have accrued after working for two years?,2212
+5235,"After two years of employment, what will my total annual leave balance look like?",2212
+5236,How can I determine my annual leave entitlement after a two-year tenure?,2212
+5237,What is the total amount of annual leave I'll have accrued after working for two years?,2212
+5238,Can you provide me with the calculation for my total annual leave entitlement after two years of employment?,2212
+5239,Please calculate the sum of my annual leave entitlement after two years of service.,2212
+5240,What is the expected annual leave entitlement after two years of continuous employment?,2212
+5241,Could you estimate the total annual leave days I'll be entitled to after two years on the job?,2212
+5242,How do I calculate my annual leave entitlement after completing two years with the company?,2212
+5243,"After two years of employment, what will be my accumulated annual leave balance?",2212
+5244,What's the formula for determining annual leave entitlement after two years of service?,2212
+5245,How many annual leave days will I have earned after two years of working for the company?,2212
+5246,What's my annual leave entitlement after 2 years of employment?,2212
+5247,Can you calculate my total annual leave entitlement after 2 years with the company?,2212
+5248,Show me my annual leave balance after completing 2 years of service.,2212
+5249,How much annual leave will I have accrued after working for 2 years?,2212
+5250,What will be my total annual leave entitlement after 2 years of employment?,2212
+5251,Please calculate my annual leave entitlement after two years of service.,2212
+5252,"After 2 years, what will my total annual leave balance look like?",2212
+5253,How can I determine my annual leave entitlement after 2 years of tenure?,2212
+5254,What is the expected annual leave entitlement after 2 years of continuous employment?,2212
+5255,Could you estimate the total annual leave days I'll be entitled to after 2 years on the job?,2212
+5256,What is the formula for determining annual leave entitlement after 2 years of service?,2212
+5257,How many annual leave days will I have earned after 2 years of working for the company?,2212
+5258,Can you provide information on my annual leave entitlement after completing 2 years?,2212
+5259,Show me my annual leave balance following 2 years of employment.,2212
+5260,What's the total number of annual leave days I'll have accrued after 2 years with the company?,2212
+5261,"After 2 years, what will my annual leave entitlement be?",2212
+5262,Please explain how my annual leave entitlement is calculated after 2 years.,2212
+5263,What should my annual leave balance look like after 2 years of service?,2212
+5264,Can you clarify my annual leave entitlement for me after 2 years on the job?,2212
+5265,How do I determine my annual leave entitlement after completing 2 years of employment?,2212
+5266,What's my annual leave entitlement after 2 years of working here?,2212
+5267,Can you calculate my annual leave balance after 2 years of employment?,2212
+5268,What will my annual leave be after two years on the job?,2212
+5269,How many annual leave days will I have after working for 2 years?,2212
+5270,Calculate my total annual leave entitlement after 2 years with the company.,2212
+5271,Tell me my annual leave balance following 2 years of employment.,2212
+5272,What is my annual leave entitlement after completing 2 years of service?,2212
+5273,How can I find out my annual leave entitlement after 2 years of tenure?,2212
+5274,Please explain how my annual leave is calculated after 2 years.,2212
+5275,What should my annual leave balance look like after 2 years with the company?,2212
+5276,i'm supervisor for department A. How can i view my staffs leave calendar,2214
+5277,Where can I view my subordinates' leave taken?,2214
+5278,How can see all leave taken by my subordinate?,2214
+5279,where can i find the info of my subordinate's taken leave?,2214
+5280,subordinate's taken summary,2214
+5281,summary of my subordinate applied leave,2214
+5282,"As a supervisor in department A, how can I access and view the leave calendar for my staff?",2214
+5283,Where do I go to check the leave records and history of the leaves taken by my subordinates?,2214
+5284,Is there a way for me to see a comprehensive list of all the leave days taken by my subordinate employees?,2214
+5285,Where can I find detailed information about the leave history of my subordinates?,2214
+5286,What is the process for supervisors in department A to access and review their staff's leave calendar?,2214
+5287,"Where can I locate the leave records for my team members, as a department A supervisor?",2214
+5288,How do I access a complete summary of leave days taken by my subordinates?,2214
+5289,Is there a specific location or system for supervisors to track their subordinates' leave history?,2214
+5290,Can you explain how to view the leave calendar for employees under my supervision in department A?,2214
+5291,What steps should I follow to check the leave history of my subordinates?,2214
+5292,Is there a summary available that displays all the leave applications submitted by my subordinate staff?,2214
+5293,Where can I find a detailed report on the leave taken by my subordinates?,2214
+5294,How can I access a comprehensive overview of my department A subordinates' applied leave?,2214
+5295,What's the procedure for department A supervisors to review their subordinate employees' leave records and summaries?,2214
+5296,How can I access the shared calendar with a filter to view my subordinates' leave records?,2214
+5297,Where do I go to see my team members' leave records using a filter on the shared calendar?,2214
+5298,Is there a way to filter and view my subordinates' leave records on the shared calendar?,2214
+5299,Can you guide me on how to use the filter to check my team's leave records on the shared calendar?,2214
+5300,How do I navigate to the shared calendar with a filter to view my subordinates' leave history?,2214
+5301,Where can I find the filter option to check my subordinates' leave records on the shared calendar?,2214
+5302,Is there a specific feature or filter I can use to see my team's leave records on the shared calendar?,2214
+5303,What's the process for filtering the shared calendar to access my subordinates' leave records?,2214
+5304,Can you explain how to apply a filter on the shared calendar to view my team's leave history?,2214
+5305,How can I enable the filter to display my department A subordinates' leave records on the shared calendar?,2214
+5306,What steps should I follow to use a filter and check my subordinates' leave records on the shared calendar?,2214
+5307,Where is the filter option located on the shared calendar for viewing my team's leave records?,2214
+5308,Could you provide instructions on how to filter and access my subordinates' leave history on the shared calendar?,2214
+5309,Is there a filter icon I should click on to see my department A subordinates' leave records in the shared calendar?,2214
+5310,What's the procedure for applying a filter and reviewing my subordinates' leave records on the shared calendar?,2214
+5311,How do I utilize the filter functionality on the shared calendar to access my team's leave records?,2214
+5312,Can you walk me through the process of using a filter to view my subordinates' leave history on the shared calendar?,2214
+5313,Where can I find the filter option to check my department A subordinates' leave records within the shared calendar?,2214
+5314,Is there a filter tool I can use on the shared calendar to see my subordinates' leave records?,2214
+5315,What are the steps to filter and navigate to my department A subordinates' leave records on the shared calendar?,2214
+5316,How do I access the shared calendar with a filter for my subordinates' leave records?,2214
+5317,Can you guide me to the shared calendar where I can filter and view my team's leave history?,2214
+5318,Where can I find the filter option on the shared calendar to check my subordinates' leave records?,2214
+5319,What's the process for using a filter on the shared calendar to see my department A subordinates' leave records?,2214
+5320,How can I enable the filter on the shared calendar to display my subordinates' leave records?,2214
+5321,Where is the filter icon located on the shared calendar for viewing my team's leave records?,2214
+5322,Is there a specific tool I should use to filter and see my department A subordinates' leave records in the shared calendar?,2214
+5323,What steps should I follow to apply a filter and review my subordinates' leave records on the shared calendar?,2214
+5324,Could you provide instructions on how to filter and access my team's leave history on the shared calendar?,2214
+5325,How do I utilize the filter functionality on the shared calendar to view my subordinates' leave records?,2214
+5326,are there any additional leave entitlements for long-serving employees,2215
+5327,what benefits I will get if working more than 5 years?,2215
+5328,any benefits for employee who work for many years?,2215
+5329,benefits of long-serving employee,2215
+5330,Do long-serving employees receive any additional leave entitlements or benefits?,2215
+5331,What advantages or benefits are available to employees who have worked for more than five years with the company?,2215
+5332,Are there any specific perks or rewards for employees who have dedicated many years to the organization?,2215
+5333,Can you outline the benefits and advantages that long-serving employees receive?,2215
+5334,What additional benefits or considerations are provided to employees who have been with the company for an extended period?,2215
+5335,What advantages or benefits can employees expect if they've been with the company for more than five years?,2215
+5336,Do employees with lengthy service receive extra leave entitlements or perks?,2215
+5337,What are the potential benefits for employees who have completed more than five years of service?,2215
+5338,Are there any special incentives or advantages for long-term employees?,2215
+5339,Can you list the benefits that accrue to employees who have been with the company for an extended duration?,2215
+5340,Are there additional leave benefits or rewards for employees with a long history at the company?,2215
+5341,What kinds of benefits are offered to employees who have worked for many years with the organization?,2215
+5342,Could you elaborate on the perks and privileges provided to long-serving employees?,2215
+5343,Do employees who have dedicated significant years of service enjoy any unique benefits?,2215
+5344,Are there any specific advantages or rewards for employees with a long tenure in the company?,2215
+5345,"What benefits can employees expect if they've been with the organization for an extended period, such as over five years?",2215
+5346,Do employees who have been with the company for a long time receive extra leave entitlements?,2215
+5347,Are there any special leave benefits for long-serving employees?,2215
+5348,What additional leave privileges do employees gain after many years of service?,2215
+5349,Can you explain the leave entitlements that come with long-term employment at the company?,2215
+5350,What advantages do employees enjoy in terms of leave when they've been with the organization for a while?,2215
+5351,Are there extended leave benefits for employees with a lengthy history at the company?,2215
+5352,Do long-serving employees get extra vacation days or leave allowances?,2215
+5353,How is leave entitlement structured for employees who have served the company for an extended period?,2215
+5354,Can you outline the additional leave perks for employees with long tenures?,2215
+5355,Are there any unique leave benefits for employees who've been here for many years?,2215
+5356,What leave entitlements are provided to employees as they accumulate years of service?,2215
+5357,Do employees who've dedicated several years to the company receive more leave?,2215
+5358,Are there any leave incentives for long-term employees?,2215
+5359,Can you detail the leave benefits that come with years of dedicated service?,2215
+5360,What kind of additional leave entitlements are offered to long-serving employees?,2215
+5361,Are there specific leave rewards for employees who've been with the company for a significant duration?,2215
+5362,What leave privileges are available to employees with an extensive tenure here?,2215
+5363,Do employees with long service records receive any extra leave allowances?,2215
+5364,Can you elaborate on the leave benefits extended to employees who have served for a long time?,2215
+5365,Are there additional leave days granted to employees who've spent many years at the company?,2215
+5366,Do employees with long service records receive any extra leave allowances?,2215
+5367,Can you explain the leave entitlements that come with long-term employment at the company?,2215
+5368,What kind of additional leave entitlements are offered to long-serving employees?,2215
+5369,Are there any leave incentives for long-term employees?,2215
+5370,Can you detail the leave benefits that come with years of dedicated service?,2215
+5371,What leave privileges are available to employees with an extensive tenure here?,2215
+5372,Do employees with long service records receive more leave?,2215
+5373,Are there any specific leave rewards for employees who've been with the company for a significant duration?,2215
+5374,What leave days are granted to employees who've spent many years at the company?,2215
+5375,Are there additional leave days for employees who've been here for many years?,2215
+5376,is it all public holiday properly set,2216
+5377,what can i know about public holidays?,2216
+5378,how to ensure all PH are accurately configured in the system?,2216
+5379,how to make sure all PH are correctly set in the system?,2216
+5380,can you help to check whether all the PH are properly set in the system?,2216
+5381,Is it confirmed that all public holidays have been correctly configured in the system?,2216
+5382,What information can you provide regarding the accuracy of public holidays in the system?,2216
+5383,What steps can be taken to ensure that all public holidays are accurately configured in the system?,2216
+5384,How can I verify that all public holidays are set correctly in the system?,2216
+5385,Can you assist me in checking whether all the public holidays have been properly set in the system?,2216
+5386,Are you certain that all public holidays have been accurately configured in the system?,2216
+5387,What details can you provide about the status of public holidays in the system?,2216
+5388,How can I double-check and confirm that all public holidays are correctly set in the system?,2216
+5389,Is there a process in place to ensure the accuracy of public holidays configured in the system?,2216
+5390,Can you offer assistance in verifying the proper configuration of all public holidays in the system?,2216
+5391,What measures are in place to guarantee the correctness of public holidays in the system?,2216
+5392,What information can be provided to assure that all public holidays are accurately set in the system?,2216
+5393,How can I be certain that all public holidays have been properly configured in the system?,2216
+5394,Are there any tools or procedures to validate the accuracy of public holidays in the system?,2216
+5395,Can you guide me on how to check and validate the correct setup of all public holidays in the system?,2216
+5396,Can you confirm that all public holidays have been accurately configured in the system?,2216
+5397,How do I ensure that the system has correctly set all public holidays?,2216
+5398,Is there a way to double-check the accuracy of the public holiday settings in the system?,2216
+5399,Can you provide information on the status of the public holiday settings in the system?,2216
+5400,What steps can I take to verify that all public holidays are set correctly in the system?,2216
+5401,Are there any procedures in place to validate the accuracy of the public holiday settings?,2216
+5402,How can I be certain that all public holidays have been properly configured in the system?,2216
+5403,Can you assist me in checking whether all the public holidays are properly set in the system?,2216
+5404,What measures are in place to guarantee the correctness of public holidays in the system?,2216
+5405,What can you tell me about the configuration of public holidays in the system?,2216
+5406,Is there a process to ensure that all public holidays are accurately configured in the system?,2216
+5407,Can you guide me on how to check and validate the correct setup of all public holidays in the system?,2216
+5408,Have all public holidays been set up correctly in the system?,2216
+5409,Is there a tool available to verify the proper configuration of public holidays?,2216
+5410,How can I ensure that the system has accurately configured all public holidays?,2216
+5411,What information can be provided to assure that all public holidays are accurately set in the system?,2216
+5412,Can you help to check whether all the public holidays are properly configured in the system?,2216
+5413,Is it confirmed that all public holidays have been correctly configured in the system?,2216
+5414,What details can you provide about the status of public holidays in the system?,2216
+5415,How to make sure all public holidays are correctly set in the system?,2216
+5416,What can I know about public holidays?,2216
+5417,How to ensure all public holidays are accurately configured in the system?,2216
+5418,How to make sure all public holidays are correctly set in the system?,2216
+5419,Can you help to check whether all the public holidays are properly configured in the system?,2216
+5420,Are you certain that all public holidays have been accurately configured in the system?,2216
+5421,What details can you provide about the status of public holidays in the system?,2216
+5422,How can I double-check and confirm that all public holidays are correctly set in the system?,2216
+5423,Is there a process in place to ensure the accuracy of public holidays configured in the system?,2216
+5424,What measures are in place to guarantee the correctness of public holidays in the system?,2216
+5425,How to make sure all public holidays are correctly set in the system?,2216
+5426,"why the leave has been approved, but still show at pending tab",2217
+5427,why my leave has been approved but it still shows at pending tab,2217
+5428,what is the possible factor or reason of the approved leave still appear in pending tab?,2217
+5429,why the leave already approved but not appear in approved tab?,2217
+5430,reason of approved leave appear in pending tab,2217
+5431,What could be the reason for a leave being approved but still showing in the pending tab?,2217
+5432,"My leave has been approved, but it's still displayed in the pending tab. Can you explain why?",2217
+5433,Are there any factors or possible reasons why an approved leave might continue to appear in the pending tab?,2217
+5434,Is there an explanation for a leave that has been approved not appearing in the approved tab?,2217
+5435,What could be causing an already approved leave to be listed in the pending tab?,2217
+5436,"Can you elucidate why my leave, despite being approved, remains in the pending tab?",2217
+5437,What factors or circumstances might cause an approved leave to stay in the pending tab?,2217
+5438,Why is my leave still showing in the pending tab even after it has been approved?,2217
+5439,Is there a possible explanation for an approved leave not transitioning to the approved tab?,2217
+5440,Can you provide insights into why an approved leave request is not moving to the approved tab as expected?,2217
+5441,What are the potential reasons for an approved leave request to be retained in the pending tab?,2217
+5442,Could you clarify why an approved leave request is not reflected in the approved tab?,2217
+5443,Are there any common factors contributing to an approved leave request still being in the pending tab?,2217
+5444,What might be causing an already approved leave to remain in the pending tab?,2217
+5445,Is there a known explanation for an approved leave request not moving to the approved tab as it should?,2217
+5446,Can you shed light on why my approved leave is still visible in the pending tab?,2217
+5447,What's the explanation for a leave being approved but persistently showing in the pending tab?,2217
+5448,"Could you provide insights into why my leave, though approved, hasn't moved from the pending tab?",2217
+5449,Is there a specific cause for an approved leave to remain in the pending tab?,2217
+5450,What factors could be contributing to an approved leave request not transitioning to the approved tab?,2217
+5451,Why has my approved leave request not yet moved to the approved tab as expected?,2217
+5452,Are there any known circumstances under which an approved leave request might be retained in the pending tab?,2217
+5453,What might be causing an already approved leave to continue displaying in the pending tab?,2217
+5454,Is there a system issue that could explain an approved leave request not moving to the approved tab?,2217
+5455,Can you clarify why an approved leave is still pending tab despite its approval?,2217
+5456,"Could you investigate why my leave, even after approval, remains in the pending tab?",2217
+5457,Is there a glitch or error that prevents an approved leave from appearing in the approved tab?,2217
+5458,What steps should I take to resolve the issue of my approved leave being stuck in the pending tab?,2217
+5459,"Is this a common occurrence, where an approved leave gets stuck in the pending tab?",2217
+5460,Can you provide troubleshooting steps to ensure my approved leave is correctly displayed in the approved tab?,2217
+5461,Is there a specific process or timeline for approved leave to transition from the pending tab to the approved tab?,2217
+5462,Are there any pending actions required on my part to finalize the approval status of my leave?,2217
+5463,How can I ensure that my approved leave request is moved to the approved tab without delay?,2217
+5464,Is there a known pattern or scenario in which an approved leave remains in the pending tab?,2217
+5465,Can you investigate and resolve why my approved leave request hasn't been updated to the approved tab?,2217
+5466,Why does my approved leave still show up in the pending tab?,2217
+5467,What could be causing my approved leave to remain in the pending tab?,2217
+5468,Is there a reason my leave is approved but not moving to the approved tab?,2217
+5469,"Can you explain why my leave, though approved, persists in the pending tab?",2217
+5470,What's the issue with my approved leave request not transitioning to the approved tab?,2217
+5471,Why hasn't my approved leave moved to the approved tab as expected?,2217
+5472,Are there common factors behind approved leaves staying in the pending tab?,2217
+5473,Is there a known scenario where approved leave doesn't move to the approved tab?,2217
+5474,Could you investigate why my approved leave request isn't in the approved tab?,2217
+5475,What steps should I take to resolve my approved leave being stuck in the pending tab?,2217
+5476,buyback,2219
+5477,Is the buyback option available for all types of leave or just for annual leaves?,2219
+5478,Can we buyback annual leave?,2219
+5479,buy back,2219
+5480,Is the buy back option available for all types of leave or just for annual leaves?,2219
+5481,Can we buy back annual leave?,2219
+5482,Can I buy back annual leave?,2219
+5483,"Does the buyback option apply to all categories of leave, or is it specific to annual leave?",2219
+5484,"Does the buy back option apply to all categories of leave, or is it specific to annual leave?",2219
+5485,Can employees choose to buy back their annual leave?,2219
+5486,Is there a buyback option for annual leave available to employees?,2219
+5487,How does the buyback option work for annual leave?,2219
+5488,Is there a buy back option for annual leave available to employees?,2219
+5489,How does the buy back option work for annual leave?,2219
+5490,Are there specific rules or criteria for buying back annual leave?,2219
+5491,"Is it possible to buy back other types of leave, or is this option limited to annual leave?",2219
+5492,Does the buyback feature extend to all leave types or is it exclusively for annual leave?,2219
+5493,Does the buy back feature extend to all leave types or is it exclusively for annual leave?,2219
+5494,Is it permissible for employees to buy back their annual leave?,2219
+5495,Can I exercise the option to buy back my annual leave days?,2219
+5496,"Is the buyback choice applicable to all types of leave, or is it primarily for annual leave?",2219
+5497,"Is the buy back choice applicable to all types of leave, or is it primarily for annual leave?",2219
+5498,Are employees given the opportunity to purchase their annual leave?,2219
+5499,"Is there a buyback program specifically designed for annual leave, and if so, how does it function?",2219
+5500,"Is there a buy back program specifically designed for annual leave, and if so, how does it function?",2219
+5501,What are the criteria or guidelines for employees who wish to buy back their annual leave?,2219
+5502,"Can employees also buy back other categories of leave, or is this option restricted to annual leave?",2219
+5503,How does the process of buying back annual leave work?,2219
+5504,Are there any specific regulations or policies governing the buyback of annual leave?,2219
+5505,What does the term 'buyback' mean in the context of leave?,2219
+5506,Could you explain the concept of 'buyback' as it relates to leave?,2219
+5507,What is the meaning of 'buyback' when discussing leave policies?,2219
+5508,Can you provide a definition of 'buyback' in the context of employee leave?,2219
+5509,I'm not familiar with the term 'buyback' in relation to leave. Can you clarify?,2219
+5510,What exactly does 'buyback' refer to in the context of taking leave?,2219
+5511,Is 'buyback' a common term used in leave management? What does it entail?,2219
+5512,"I've heard the term 'buyback' regarding leave, but I'm unsure of its meaning. Can you help?",2219
+5513,Can you shed light on the meaning of 'buyback' as it pertains to leave entitlements?,2219
+5514,What is the definition of 'buyback leave'?,2219
+5515,I've come across 'buyback' in relation to leave policies. What does it encompass?,2219
+5516,Could you provide a clear explanation of what 'buyback' means when discussing leave balances?,2219
+5517,What does 'buyback' signify with regard to employee leave benefits?,2219
+5518,Is 'buyback' a term used to describe a specific leave policy? What does it involve?,2219
+5519,I'd like to understand the meaning of 'buyback' in the context of taking leave from work.,2219
+5520,Can you define 'buyback' leave and how it works?,2219
+5521,"I've encountered 'buyback' in leave discussions, but I'm uncertain about its definition. Can you clarify?",2219
+5522,"In the context of leave management, what is the significance of 'buyback'?",2219
+5523,Could you break down the meaning of 'buyback' as it relates to leave entitlements?,2219
+5524,Is 'buyback' a term associated with leave accrual or usage? What does it mean?,2219
+5525,What does 'buyback' mean in the context of leave?,2219
+5526,Can you provide a definition of 'buyback' as it pertains to leave?,2219
+5527,What is the meaning of 'buyback leave'?,2219
+5528,I've heard the term 'buyback' regarding leave policies. What does it encompass?,2219
+5529,Could you explain the concept of 'buyback' as it relates to leave entitlements?,2219
+5530,What does 'buyback' signify with regard to employee leave benefits?,2219
+5531,Is 'buyback' a term used to describe a specific leave policy? What does it involve?,2219
+5532,I'd like to understand the meaning of 'buyback' in the context of taking leave from work.,2219
+5533,Can you define 'buyback' leave and how it works?,2219
+5534,"In the context of leave management, what is the significance of 'buyback'?",2219
+5535,how to edit the leave code,2221
+5536,what is the step to edit leave code?,2221
+5537,Can I change the leave code?,2221
+5538,where can i edit the leave codes?,2221
+5539,Can I edit the earn leave method for leave?,2221
+5540,what right required to edit leave code?,2221
+5541,who can edit leave code? and how?,2221
+5542,What is the process for editing a leave code in the system?,2221
+5543,Can you explain how to modify the annual leave entitlement for an employee?,2221
+5544,"Is it possible to change an employee's leave entitlement, and if so, how?",2221
+5545,What steps should I follow to make changes to a leave code in the system?,2221
+5546,Can you guide me on how to edit the annual leave entitlement for an employee?,2221
+5547,"Is there a way to modify an employee's leave entitlement, and if yes, how can it be done?",2221
+5548,How can I edit the method by which leave is earned for a specific type of leave?,2221
+5549,Where can I find the option to edit leave codes within the system?,2221
+5550,What level of access or rights are required to edit leave codes?,2221
+5551,"Who has the authority to edit leave codes, and what is the procedure for doing so?",2221
+5552,Could you provide an overview of the process for making changes to a leave code?,2221
+5553,Is there a specific process for adjusting an employee's annual leave entitlement?,2221
+5554,"Can you explain how to change an employee's leave entitlement, if necessary, and what permissions are required for this?",2221
+5555,How can I access the leave code editing feature?,2221
+5556,Where do I find the option to edit a leave code?,2221
+5557,Can you guide me to the section for editing leave codes?,2221
+5558,How do I navigate to the leave code editing page?,2221
+5559,Where in the system can I make changes to leave codes?,2221
+5560,Is there a specific menu for editing leave codes?,2221
+5561,What steps should I follow to reach the leave code editing tool?,2221
+5562,Where is the 'Edit Leave Code' option located?,2221
+5563,How can I enter the leave code editing interface?,2221
+5564,Which menu or section allows me to edit leave codes?,2221
+5565,Where do I go to modify leave code settings?,2221
+5566,What's the process for accessing the leave code editor?,2221
+5567,Is there a direct link to edit leave codes?,2221
+5568,How do I get to the page where I can edit leave codes?,2221
+5569,Can you direct me to the edit leave code function?,2221
+5570,Where should I click to start editing leave codes?,2221
+5571,What's the path to reach the leave code editing area?,2221
+5572,How can I find the option to edit a specific leave code?,2221
+5573,Which tab or section allows me to edit leave codes?,2221
+5574,Can you provide guidance on accessing the leave code editing tool?,2221
+5575,How can I access the leave code editing feature?,2221
+5576,Where do I find the option to edit a leave code?,2221
+5577,Can you guide me to the section for editing leave codes?,2221
+5578,How do I navigate to the leave code editing page?,2221
+5579,Where in the system can I make changes to leave codes?,2221
+5580,Is there a specific menu for editing leave codes?,2221
+5581,What steps should I follow to reach the leave code editing tool?,2221
+5582,Where is the 'Edit Leave Code' option located?,2221
+5583,How can I enter the leave code editing interface?,2221
+5584,Which menu or section allows me to edit leave codes?,2221
+5585,where can i edit day code,2221
+5586,how to edit day code,2221
 
 
 
