@@ -3537,6 +3537,551 @@ idx,sentence,label
 3535,"I have balance leave for this year, can I bring forward to next year",2165
 3536,can I bring forward balance leave for this year to next year,2165
 3537,My brought forward leave.,2165
+3538,public holiday.,2167
+3539,this year public holiday dates,2167
+3540,show the list of public holiday,2167
+3541,I want the list of Public Holiday's Date in this year,2167
+3542,list out all the public holidays in this year,2167
+3543,list of holiday for year 2023,2167
+3544,What are the public holiday dates for this year?,2167
+3545,Can you provide a list of all the public holidays scheduled for this year?,2167
+3546,I need a list of public holiday dates in 2023.,2167
+3547,Show me all the public holiday dates for this year.,2167
+3548,Tell me the public holidays for this year.,2167
+3549,Provide a list of all the public holidays in 2023.,2167
+3550,What are the date of public holidays for this year?,2167
+3551,Show me the list of public holidays for the current year.,2167
+3552,List the dates of all public holidays in 2023.,2167
+3553,Can you display the public holiday schedule for this year?,2167
+3554,Give me information about the public holidays in this year.,2167
+3555,I'd like to know the dates of all public holidays for 2023.,2167
+3556,Show me all the public holidays in the current year.,2167
+3557,What are the public holiday dates in 2023?,2167
+3558,When is the public holiday?,2167
+3559,Can you tell me the public holiday date?,2167
+3560,What's the date of the public holiday?,2167
+3561,When is the ph?,2167
+3562,What's the official holidays on the schedule?,2167
+3563,Could you let me know when the public holiday is?,2167
+3564,Is there any ph we should be aware of?,2167
+3565,When will the public holiday occur?,2167
+3566,show me all ph,2167
+3567,When is the public holiday?,2167
+3568,When can we expect the official holidays?,2167
+3569,What is the date of public holidays?,2167
+3570,When will the holiday take place?,2167
+3571,Could you provide information about the public holiday?,2167
+3572,do you have the list of public holiday?,2167
+3573,Is there any day off we should know about?,2167
+3574,When is the scheduled public holidays?,2167
+3575,What's the date of the holidays?,2167
+3576,When should we expect the public holiday?,2167
+3577,What is the public holiday in the calendar?,2167
+3578,When is the next public holiday this year?,2167
+3579,Tell me the date of the next public holiday.,2167
+3580,What's the upcoming official holiday date?,2167
+3581,Could you provide the date of the next public holiday?,2167
+3582,When will the next public holiday occur?,2167
+3583,Is there an upcoming day off we should be aware of?,2167
+3584,When can we expect the next holiday?,2167
+3585,What's the date of the next scheduled public holiday?,2167
+3586,When should we expect the next public holiday?,2167
+3587,What is the official holiday in the calendar?,2167
+3588,PH,2167
+3589,this year PH dates,2167
+3590,show the list of PH,2167
+3591,I want the list of PH's Date in this year,2167
+3592,list out all the PHs in this year,2167
+3593,list of holiday for year 2023,2167
+3594,What are the PH dates for this year?,2167
+3595,Can you provide a list of all the PHs scheduled for this year?,2167
+3596,I need a list of PH dates in 2023.,2167
+3597,Show me all the PH dates for this year.,2167
+3598,Tell me the PHs for this year.,2167
+3599,Provide a list of all the PHs in 2023.,2167
+3600,What are the date of PHs for this year?,2167
+3601,Show me the list of PHs for the current year.,2167
+3602,List the dates of all PHs in 2023.,2167
+3603,Can you display the PH schedule for this year?,2167
+3604,Give me information about the PHs in this year.,2167
+3605,I'd like to know the dates of all PHs for 2023.,2167
+3606,Show me all the PHs in the current year.,2167
+3607,What are the PH dates in 2023?,2167
+3608,When is the PH?,2167
+3609,Can you tell me the PH date?,2167
+3610,What's the date of the PH?,2167
+3611,When is the public holiday?,2167
+3612,Could you let me know when the PH is?,2167
+3613,Is there any public holiday we should be aware of?,2167
+3614,When will the PH occur?,2167
+3615,show me all ph,2167
+3616,When is the PH?,2167
+3617,When can we expect the official holidays?,2167
+3618,What is the date of PH?,2167
+3619,Could you provide information about the PH?,2167
+3620,do you have the list of PH?,2167
+3621,When is the scheduled PHs?,2167
+3622,When should we expect the PH?,2167
+3623,What is the PH in the calendar?,2167
+3624,When is the next PH this year?,2167
+3625,Tell me the date of the next PH.,2167
+3626,Could you provide the date of the next PH?,2167
+3627,When will the next PH occur?,2167
+3628,What's the date of the next scheduled PH?,2167
+3629,When should we expect the next PH?,2167
+3630,public holiday list,2167
+3631,holiday list,2167
+3632,how to withdraw approved or pending leave,2169
+3633,"Do i able withdraw or cancel my own leave? If yes, Where shall I proceed?",2169
+3634,What's the difference between leave cancellation and leave withdrawal?,2169
+3635,What's the difference between cancel leave and withdraw leave,2169
+3636,How to differentiate cancel leave and withdraw leave,2169
+3637,how to withdraw an approve leave,2169
+3638,Can I withdraw an approved leave,2169
+3639,What's the difference between withdraw leave and cancel leave?,2169
+3640,How to cancel the leave still in pending status?,2169
+3641,can I withdraw the leave request that has been approved?,2169
+3642,Can I cancel my leave before it has been approved?,2169
+3643,Is it possible to withdraw leave that is in a approved status?,2169
+3644,How do I differentiate between cancelling and withdrawing leave?,2169
+3645,Can I cancel a leave request before it's approved?,2169
+3646,What's the process of withdraw an approved leave?,2169
+3647,How can I cancel or withdraw my own leave request?,2169
+3648,Is there a way to differentiate between leave cancellation and leave withdrawal?,2169
+3649,Can I cancel leave that is still pending approval?,2169
+3650,How to proceed if I want to withdraw approved leave?,2169
+3651,What is the difference between withdrawing and cancelling leave in the system?,2169
+3652,How can I withdraw my approved leave?,2169
+3653,What's the process of cancel a leave still in penidng status?,2169
+3654,Is there a way to retract approved leave?,2169
+3655,Can I withdarw my leave after it has been approved?,2169
+3656,How do I cancel pending leave in the system?,2169
+3657,Can I revoke leave that's already approved?,2169
+3658,Is it possible to withdraw approved leave?,2169
+3659,What are the steps to withdraw leave that's been approved?,2169
+3660,Can I change my mind and cancel pending leave?,2169
+3661,How can I initiate the withdrawal of approved leave?,2169
+3662,Is there a procedure for cancelling leave that's still pending?,2169
+3663,Can you guide me on how to withdraw approved leave?,2169
+3664,Where can I find the option to withdraw my approved leave?,2169
+3665,Can I still withdraw my leave if it's already approved?,2169
+3666,What's the difference between cancelling and withdrawing approved leave?,2169
+3667,Can I request to cancel my pending leave online?,2169
+3668,How to differentiate between cancelling and withdrawing approved leave?,2169
+3669,Is it possible to withdraw leave that's already authorized?,2169
+3670,How do I formally withdraw approved leave in the system?,2169
+3671,Can you provide instructions on how to withdraw leave that's been approved?,2169
+3672,How do I go about withdrawing my approved leave?,2169
+3673,Where can I find the option to withdraw leave that's already approved?,2169
+3674,Please guide me on the process to withdraw my approved leave.,2169
+3675,Can you show me how to initiate the withdrawal of approved leave?,2169
+3676,I need to navigate to the withdrawal option for my approved leave. How can I do that?,2169
+3677,What steps should I follow to withdraw leave that's been approved?,2169
+3678,Is there a procedure for formally withdrawing approved leave in the system?,2169
+3679,How can I access the withdrawal feature for my approved leave?,2169
+3680,Where do I go in the system to cancel my approved leave?,2169
+3681,Can you direct me to the page where I can withdraw my approved leave?,2169
+3682,what type of leave i entitle,2170
+3683,what kind of leave i entitled,2170
+3684,what type of leave do I entitled,2170
+3685,which types of leave am I entitled to,2170
+3686,what type of leaves that I entitled,2170
+3687,how many types of leave can I apply,2170
+3688,what types of leave can I apply,2170
+3689,What kinds of leave am I eligible for based on my employment status?,2170
+3690,what type of leave can i apply?,2170
+3691,I can apply what type of leave?,2170
+3692,what types of leave I can apply?,2170
+3693,Which leave categories do i typically have access to?,2170
+3694,Can you provide a list of the different types of leave that i am entitled to apply for?,2170
+3695,What are the various leave options available to me as an me?,2170
+3696,What leave options are available for me?,2170
+3697,Can you list the types of leave that i can request?,2170
+3698,How many different types of leave entitlements are there?,2170
+3699,What are the leave categories that I can avail of?,2170
+3700,Please provide information about the types of leave I can access.,2170
+3701,Can you specify the types of leave that I entitled to?,2170
+3702,What are the various kinds of leave entitlements in the organization?,2170
+3703,Which leave options am I entitled to as an employee?,2170
+3704,What are the different types of leave that i have access to?,2170
+3705,Can you clarify the types of leave that I have the right to request?,2170
+3706,What leave options do I have?,2170
+3707,Can you list the kinds of leave I can request?,2170
+3708,What are the different types of leave available to employees?,2170
+3709,Tell me about the leave categories I can access.,2170
+3710,Which types of leave am I eligible for?,2170
+3711,Provide information on the kinds of leave I'm entitled to.,2170
+3712,What kinds of leave are part of our company policy?,2170
+3713,List the leave options available based on my employment status.,2170
+3714,Can you specify the leave categories in our company's policy?,2170
+3715,Tell me the types of leave I can apply for.,2170
+3716,Which leave categories can I avail of?,2170
+3717,What are the various leave options I have as an employee?,2170
+3718,Please detail the types of leave entitlements available to me.,2170
+3719,What kind of leaves can I access?,2170
+3720,What kind of leaves that I entitled?,2170
+3721,Provide a breakdown of the leave types in our organization.,2170
+3722,Tell me the various types of leave that i can request.,2170
+3723,List the leave entitlements I have based on my employment.,2170
+3724,Can you explain the types of leave in our company?,2170
+3725,What leave categories are part of our organization's policy?,2170
+3726,Tell me the types of leave I have the right to request.,2170
+3727,Tell me the types of leave I entitled.,2170
+3728,What types of leave am I entitled to?,2170
+3729,Can you list the kinds of leave I can request?,2170
+3730,Tell me about the leave categories I can access.,2170
+3731,Please provide information about the types of leave I can access.,2170
+3732,What are the various leave options available to me as an employee?,2170
+3733,Which leave options am I entitled to as an employee?,2170
+3734,List the leave entitlements I have based on my employment.,2170
+3735,Tell me the various types of leave that I can request.,2170
+3736,What kind of leaves can I access?,2170
+3737,Can you explain the types of leave in our company?,2170
+3738,leave category,2170
+3739,leave type available,2170
+3740,what is the leave type available in system?,2170
+3741,how to create the leave code,2172
+3742,How to generate a new leave codes?,2172
+3743,how to add a new leave code?,2172
+3744,How to create a new leave codes?,2172
+3745,What is the process for generating new leave codes?,2172
+3746,Can you guide me on how to create a new leave code in the system?,2172
+3747,How do I generate a unique leave code for a specific type of leave?,2172
+3748,Where can I find the option to create a new leave code?,2172
+3749,What steps should I follow to create a custom leave code for our organization?,2172
+3750,Is there a specific format or naming convention for generating leave codes?,2172
+3751,How do I add a new leave code to the system?,2172
+3752,What is the procedure for generating custom leave codes?,2172
+3753,Can you explain how to create a leave code?,2172
+3754,How can I generate unique leave codes for different types of leave?,2172
+3755,Where can I create new leave codes?,2172
+3756,Please guide me on the steps to create custom leave codes for our organization.,2172
+3757,Is there a standardized process for generating leave codes?,2172
+3758,What information is required to generate a new leave code?,2172
+3759,How do I define and set up leave codes for our company?,2172
+3760,Can you provide instructions on adding a new leave code to the system?,2172
+3761,How do I set up a new leave code?,2172
+3762,Can you explain the process for creating leave codes?,2172
+3763,What are the steps to generate a new leave code?,2172
+3764,Where can I find the option to create leave codes?,2172
+3765,Please guide me on how to add a new leave code.,2172
+3766,How can I define and create a leave code in the system?,2172
+3767,What information is needed to create a new leave code?,2172
+3768,Is there a specific method for setting up leave codes?,2172
+3769,How to navigate to the leave code creation feature?,2172
+3770,What's the procedure for generating leave codes?,2172
+3771,Can you provide instructions on creating leave codes from scratch?,2172
+3772,Where in the system can I initiate the creation of leave codes?,2172
+3773,How do I go about creating unique leave codes for different leave types?,2172
+3774,What steps should I follow to create leave codes?,2172
+3775,Is there a standard format for naming new leave codes?,2172
+3776,How can I generate leave codes that adhere to our naming convention?,2172
+3777,What fields do I need to fill in when creating a new leave code?,2172
+3778,Please guide me through the process of setting up a leave code.,2172
+3779,Can you explain how to define and configure leave codes?,2172
+3780,Is there a specific location in the system for leave code creation?,2172
+3781,Please provide instructions for leave code creation.,2172
+3782,How can I initiate the process of leave code generation?,2172
+3783,What's the protocol for setting up new leave codes?,2172
+3784,Can you walk me through the steps of creating leave codes?,2172
+3785,I need help with generating leave codes. How can I do it?,2172
+3786,Is there a specific method for setting up leave codes?,2172
+3787,How do I define and configure new leave codes?,2172
+3788,Where can I start creating leave codes?,2172
+3789,What information do I need to provide when creating a new leave code?,2172
+3790,Guide me in configuring leave codes in the system.,2172
+3791,how to add the leave code,2172
+3792,How to add leave codes?,2172
+3793,how to add leave code?,2172
+3794,how can i add a new leave code?,2172
+3795,How to add a new leave code?,2172
+3796,where can I add a leave codes?,2172
+3797,Can you guide me on how to add a new leave code in the system?,2172
+3798,Where can I find the option to add a new leave code?,2172
+3799,What steps should I follow to add a custom leave code for our organization?,2172
+3800,Can you explain how to add a leave code from scratch?,2172
+3801,Where can I add new leave codes?,2172
+3802,Please guide me on the steps to add custom leave codes.,2172
+3803,How can I define and add a leave code ?,2172
+3804,What information is needed to add a new leave code?,2172
+3805,What steps should I follow to add leave codes?,2172
+3806,what is my balance of hospitalisation leave,2173
+3807,my hospitalisation leave balance,2173
+3808,what is the balance of my hospitalisation leave,2173
+3809,i want to apply for hospitalisation leave,2173
+3810,What is my current hospitalization leave balance?,2173
+3811,Can you provide information on my available hospitalization leave days?,2173
+3812,How many hospitalization leave days do I have remaining?,2173
+3813,What's my hospitalization leave balance for this year?,2173
+3814,Please show me my hospitalization leave entitlement.,2173
+3815,I need to check my hospitalization leave balance; how can I do that?,2173
+3816,What's my hospitalization leave balance?,2173
+3817,Can you inform me about my hospitalization leave entitlement?,2173
+3818,How many hospitalization leave days do I have left?,2173
+3819,I'd like to know my current hospitalization leave balance.,2173
+3820,Please provide details on my hospitalization leave balance.,2173
+3821,What is my available hospitalization leave balance?,2173
+3822,How can I check my hospitalization leave balance?,2173
+3823,Could you guide me on how to view my remaining hospitalization leave days?,2173
+3824,Is there a specific section where I can check my hospitalization leave balance?,2173
+3825,Where can I find the option to view my hospitalization leave balance and leave details for the current year?,2173
+3826,What is my remaining balance of hospitalization leave?,2173
+3827,Can you tell me how many hospitalization leave days I have left?,2173
+3828,How can I check my hospitalization leave balance for this year?,2173
+3829,Please provide information on my available hospitalization leave days.,2173
+3830,What's my current hospitalization leave balance?,2173
+3831,How many hospitalization leave days do I have remaining for this year?,2173
+3832,I'd like to know my hospitalization leave balance; can you help?,2173
+3833,Where can I find my hospitalization leave entitlement?,2173
+3834,Is there a way to check my hospitalization leave balance?,2173
+3835,What's my hospitalization leave balance as of today?,2173
+3836,Can you inform me about my hospitalization leave balance?,2173
+3837,How do I check my hospitalization leave balance?,2173
+3838,I want to view my hospitalization leave balance; where should I go?,2173
+3839,What is the current status of my hospitalization leave balance?,2173
+3840,Please guide me on how to inquire about my hospitalization leave days.,2173
+3841,Where can I access details on my hospitalization leave balance?,2173
+3842,What is the procedure to check my remaining hospitalization leave?,2173
+3843,How can I verify my hospitalization leave balance for this period?,2173
+3844,Can you assist me in finding my available hospitalization leave balance?,2173
+3845,Is there a specific section in the system for hospitalization leave balance inquiries?,2173
+3846,What is my hospitalization leave balance as of 01/07/2023?,2173
+3847,Can you tell me how many hospitalization leave days I had left on 01/07/2023?,2173
+3848,What was my hospitalization leave balance on 01/07/2023?,2173
+3849,I need to know my hospitalization leave balance for the month of July.,2173
+3850,How many hospitalization leave days did I have in 2023?,2173
+3851,Please provide my hospitalization leave balance for the current quarter.,2173
+3852,What was my hospitalization leave balance last week?,2173
+3853,Can you inform me about my hospitalization leave balance at the end of July?,2173
+3854,I want to check my hospitalization leave balance for the last six months.,2173
+3855,Please show me my hospitalization leave balance for the period from 01/07/2023 to 21/07/2023.,2173
+3856,why my applied leave show as emergency leave,2174
+3857,how can I apply emergency leave,2174
+3858,explain EL,2174
+3859,what is EL,2174
+3860,why my annual leave application diverted to emergency leave?,2174
+3861,why my AL turned to emergency leave?,2174
+3862,why my annual leave consider as emergency leave,2174
+3863,Why is my applied leave showing as emergency leave in the system?,2174
+3864,Can you explain why my annual leave request was changed to emergency leave?,2174
+3865,what is the reason of my annual leave become emergency leave?,2174
+3866,why annual leave converted to emergency leave?,2174
+3867,Can you help me understand why my leave request has been categorized as emergency leave?,2174
+3868,My annual leave application was diverted to emergency leave; can you explain the reason?,2174
+3869,What criteria are used to classify a leave request as emergency leave?,2174
+3870,How does the system determine when to categorize leave as emergency leave?,2174
+3871,"I submitted an annual leave request, but it was processed as emergency leave. Why did this happen?",2174
+3872,Is there a specific process for requesting emergency leave instead of other types of leave?,2174
+3873,Why was my annual leave request automatically converted into emergency leave?,2174
+3874,Can you clarify the difference between annual leave and emergency leave in the system?,2174
+3875,What should I do if I want to request emergency leave specifically?,2174
+3876,Is there a way to change an emergency leave request back to annual leave if it was categorized incorrectly?,2174
+3877,Why was my leave application changed to emergency leave?,2174
+3878,What caused my applied leave to be classified as emergency leave?,2174
+3879,Can you explain the criteria for converting leave requests into emergency leave?,2174
+3880,How does the system determine when to categorize leave as emergency leave?,2174
+3881,"I submitted annual leave, but it's marked as emergency leave. What's the reason?",2174
+3882,Why did my annual leave request get automatically converted to emergency leave?,2174
+3883,What factors lead to a leave request being processed as emergency leave?,2174
+3884,Is there a specific policy causing the annual leave diverted to emergency leave?,2174
+3885,Why did my leave application status change to emergency leave?,2174
+3886,Can you clarify the reason of annual leave converted to emergency leave?,2174
+3887,What should I do if I want to request emergency leave instead of other types?,2174
+3888,Is there a way to revert an emergency leave request to annual leave?,2174
+3889,How can I ensure that my leave request isn't categorized as emergency leave?,2174
+3890,What information or circumstances trigger the conversion of leave to emergency leave?,2174
+3891,When does the system consider a leave request as emergency leave?,2174
+3892,what situation will cause annual leave turns to emergency leave?,2174
+3893,What steps can I take to prevent my leave request from being marked as emergency leave?,2174
+3894,Are there specific conditions that lead to leave requests being labeled as emergency leave?,2174
+3895,I'd like to understand the process behind converting leave to emergency leave.,2174
+3896,Can you provide insights into why my annual leave application was reclassified as emergency leave?,2174
+3897,Why was my leave request changed to emergency leave?,2174
+3898,Can you explain why my annual leave application was converted into emergency leave?,2174
+3899,What caused my applied leave to be categorized as emergency leave?,2174
+3900,Why did my leave application status change to emergency leave?,2174
+3901,What situation or criteria lead to annual leave turning into emergency leave?,2174
+3902,How can I ensure that my leave request isn't categorized as emergency leave?,2174
+3903,What information or circumstances trigger the conversion of leave to emergency leave?,2174
+3904,When does the system consider a leave request as emergency leave?,2174
+3905,What factors or conditions cause leave requests to be labeled as emergency leave?,2174
+3906,why my applied leave show as EL,2174
+3907,how can I apply EL,2174
+3908,explain Emergency Leave,2174
+3909,why my annual leave application diverted to EL?,2174
+3910,why my AL turned to EL?,2174
+3911,why my annual leave consider as EL,2174
+3912,Why is my applied leave showing as EL in the system?,2174
+3913,Can you explain why my annual leave request was changed to EL?,2174
+3914,what is the reason of my annual leave become EL?,2174
+3915,why annual leave converted to EL?,2174
+3916,Can you help me understand why my leave request has been categorized as EL?,2174
+3917,My annual leave application was diverted to EL; can you explain the reason?,2174
+3918,What criteria are used to classify a leave request as EL?,2174
+3919,How does the system determine when to categorize leave as EL?,2174
+3920,"I submitted an annual leave request, but it was processed as EL. Why did this happen?",2174
+3921,Is there a specific process for requesting EL instead of other types of leave?,2174
+3922,Why was my annual leave request automatically converted into EL?,2174
+3923,Can you clarify the difference between annual leave and EL in the system?,2174
+3924,What should I do if I want to request EL specifically?,2174
+3925,Is there a way to change an EL request back to annual leave if it was categorized incorrectly?,2174
+3926,Why was my leave application changed to EL?,2174
+3927,What caused my applied leave to be classified as EL?,2174
+3928,Can you explain the criteria for converting leave requests into EL?,2174
+3929,How does the system determine when to categorize leave as EL?,2174
+3930,"I submitted annual leave, but it's marked as EL. What's the reason?",2174
+3931,Why did my annual leave request get automatically converted to EL?,2174
+3932,What factors lead to a leave request being processed as EL?,2174
+3933,Is there a specific policy causing the annual leave diverted to EL?,2174
+3934,Why did my leave application status change to EL?,2174
+3935,Can you clarify the reason of annual leave converted to EL?,2174
+3936,What should I do if I want to request EL instead of other types?,2174
+3937,Is there a way to revert an EL request to annual leave?,2174
+3938,How can I ensure that my leave request isn't categorized as EL?,2174
+3939,What information or circumstances trigger the conversion of leave to EL?,2174
+3940,When does the system consider a leave request as EL?,2174
+3941,what situation will cause annual leave turns to EL?,2174
+3942,What steps can I take to prevent my leave request from being marked as EL?,2174
+3943,Are there specific conditions that lead to leave requests being labeled as EL?,2174
+3944,I'd like to understand the process behind converting leave to EL.,2174
+3945,Can you provide insights into why my annual leave application was reclassified as EL?,2174
+3946,Why was my leave request changed to Emergency Leave?,2174
+3947,Can you explain why my annual leave application was converted into EL?,2174
+3948,What caused my applied leave to be categorized as Emergency Leave?,2174
+3949,Why did my leave application status change to EL?,2174
+3950,What situation or criteria lead to annual leave turning into EL?,2174
+3951,How can I ensure that my leave request isn't categorized as EL?,2174
+3952,What information or circumstances trigger the conversion of leave to EL?,2174
+3953,When does the system consider a leave request as Emergency Leave?,2174
+3954,What factors or conditions cause leave requests to be labeled as EL?,2174
+3955,how to submit ot to replacement leave application,2176
+3956,I want to apply replacement leave. How,2176
+3957,how to apply replacement leave,2176
+3958,how can I apply for replacement leave,2176
+3959,How to apply RL?,2176
+3960,How can I submit an overtime (OT) to replacement leave application?,2176
+3961,I want to apply for replacement leave. How should I proceed?,2176
+3962,What is the process for applying for replacement leave?,2176
+3963,Can you guide me on how to apply for replacement leave?,2176
+3964,How do I submit a replacement leave (RL) request?,2176
+3965,How do I request a replacement leave for overtime worked?,2176
+3966,Can you explain the procedure for submitting an overtime-to-replacement-leave application?,2176
+3967,I need to apply for replacement leave for the overtime I worked. How can I do that?,2176
+3968,What are the steps to apply for replacement leave for overtime hours?,2176
+3969,"Is there a specific process for converting overtime to replacement leave, and how can I do it?",2176
+3970,How can I initiate an application for replacement leave in exchange for overtime?,2176
+3971,Please guide me on how to submit an overtime-to-replacement-leave request.,2176
+3972,What's the proper way to request replacement leave for overtime hours worked?,2176
+3973,Can you provide instructions on how to apply for replacement leave entitlement after working overtime?,2176
+3974,I want to convert my overtime into replacement leave. How do I proceed?,2176
+3975,How can I apply for rl?,2176
+3976,What is the procedure for requesting replacement leave?,2176
+3977,I'd like to know how to submit a replacement leave request.,2176
+3978,Can you guide me through the process of applying for replacement leave?,2176
+3979,How do I initiate a replacement leave application?,2176
+3980,Please explain the steps to request replacement leave.,2176
+3981,Is there a specific way to apply for replacement leave?,2176
+3982,What's the correct method for requesting replacement leave?,2176
+3983,How can I formally apply for replacement leave?,2176
+3984,Can you provide instructions on applying for replacement leave?,2176
+3985,I need information on how to apply for replacement leave.,2176
+3986,What are the steps for applying for replacement leave?,2176
+3987,How do I go about requesting replacement leave?,2176
+3988,Can you assist me in submitting a replacement leave application?,2176
+3989,I want to apply for replacement leave; what should I do?,2176
+3990,What's the process for applying for replacement leave?,2176
+3991,How can I start the replacement leave application process?,2176
+3992,Please guide me on applying for replacement leave.,2176
+3993,What do I need to do to request replacement leave?,2176
+3994,I'm interested in applying for replacement leave; can you provide information on how to do it?,2176
+3995,How do I request a replacement leave for overtime worked?,2176
+3996,What are the steps to apply for replacement leave for overtime hours?,2176
+3997,"Is there a specific process for converting overtime to replacement leave, and how can I do it?",2176
+3998,How can I initiate an application for replacement leave in exchange for overtime?,2176
+3999,Please guide me on how to submit an overtime-to-replacement-leave request.,2176
+4000,What's the proper way to request replacement leave for overtime hours worked?,2176
+4001,Can you provide instructions on how to apply for replacement leave entitlement after working overtime?,2176
+4002,I want to convert my overtime into replacement leave. How do I proceed?,2176
+4003,What is the procedure for requesting replacement leave?,2176
+4004,I'd like to know how to submit a replacement leave request.,2176
+4005,how to submit overtime to RL application,2176
+4006,I want to apply RL. how,2176
+4007,how to apply RL,2176
+4008,how can I apply for RL,2176
+4009,How to apply replacement leave?,2176
+4010,How can I submit an overtime (OT) to RL application?,2176
+4011,I want to apply for RL. How should I proceed?,2176
+4012,What is the process for applying for RL?,2176
+4013,Can you guide me on how to apply for RL?,2176
+4014,How do I request a RL for OT worked?,2176
+4015,I need to apply for RL for the OT I worked. How can I do that?,2176
+4016,What are the steps to apply for RL for OT hours?,2176
+4017,"Is there a specific process for converting OT to RL, and how can I do it?",2176
+4018,How can I initiate an application for RL in exchange for OT?,2176
+4019,What's the proper way to request RL for OT hours worked?,2176
+4020,Can you provide instructions on how to apply for RL entitlement after working OT?,2176
+4021,I want to convert my OT into RL. How do I proceed?,2176
+4022,How can I apply for replacement leave?,2176
+4023,What is the procedure for requesting RL?,2176
+4024,I'd like to know how to submit a RL request.,2176
+4025,how to submit RL for working on sunday,2176
+4026,"I worked on sunday, will I be entitled to replacement leave?",2176
+4027,how should I apply replacement leave,2176
+4028,how should I apply RL,2176
+4029,what are the conditions for entitlement to replacement leave?,2176
+4030,how to change leave entitlement setting,2177
+4031,how to amend the leave entitlement,2177
+4032,steps to change leave entitlement setting,2177
+4033,configure setting for leave entitlement,2177
+4034,how to configure the setting for leave entitlement,2177
+4035,How can I modify the leave entitlement settings?,2177
+4036,What are the steps to amend the leave entitlement setting in the system?,2177
+4037,Can you guide me through the process of changing leave entitlement settings?,2177
+4038,Is there a way to configure the settings for leave entitlement?,2177
+4039,Where can I find the option to update leave entitlement settings?,2177
+4040,How do I update my leave entitlement settings?,2177
+4041,Can you explain the process of adjusting leave entitlement settings?,2177
+4042,What steps should I follow to change my leave entitlement configuration?,2177
+4043,I need to modify my leave entitlement settings. How can I do that?,2177
+4044,Is it possible to configure the leave entitlement settings according to my needs?,2177
+4045,Please guide me on how to amend my leave entitlement settings in the system.,2177
+4046,How can I customize my leave entitlement configuration?,2177
+4047,Where can I access the settings to change my leave entitlement?,2177
+4048,What's the procedure for altering leave entitlement settings to fit my requirements?,2177
+4049,Can you provide instructions on how to adjust the leave entitlement settings as an employee?,2177
+4050,How can I update my leave entitlement settings?,2177
+4051,What's the process for modifying leave entitlement settings?,2177
+4052,I'd like to change my leave entitlement configuration; how can I do that?,2177
+4053,Can you guide me on how to adjust my leave entitlement settings?,2177
+4054,Where can I find the option to configure leave entitlement settings?,2177
+4055,How do I go about amending my leave entitlement settings?,2177
+4056,Is there a way to customize the settings for leave entitlement?,2177
+4057,What steps should I take to alter my leave entitlement configuration?,2177
+4058,Please explain how to update leave entitlement settings.,2177
+4059,I need to change my leave entitlement settings; can you assist me?,2177
+4060,Is it possible to customize leave entitlement settings to suit my needs?,2177
+4061,How can I edit my leave entitlement settings?,2177
+4062,Can you provide instructions on how to modify leave entitlement settings?,2177
+4063,I want to adjust my leave entitlement configuration; what should I do?,2177
+4064,What's the procedure for configuring leave entitlement settings?,2177
+4065,How can I access the settings to change my leave entitlement?,2177
+4066,What do I need to do to change my leave entitlement settings?,2177
+4067,Can you guide me on customizing my leave entitlement configuration?,2177
+4068,How can I tailor my leave entitlement settings according to my requirements?,2177
+4069,What are the steps to amend leave entitlement settings in the system?,2177
+4070,How can I modify the leave entitlement settings?,2177
+4071,What steps should I follow to change my leave entitlement configuration?,2177
+4072,I need to change my leave entitlement settings; can you assist me?,2177
+4073,Is there a way to customize the settings for leave entitlement?,2177
+4074,How do I go about amending my leave entitlement settings?,2177
+4075,What's the procedure for altering leave entitlement settings to fit my requirements?,2177
+4076,Please guide me on how to access the settings to change my leave entitlement.,2177
+4077,Can you explain how to update leave entitlement settings?,2177
+4078,How can I tailor my leave entitlement settings according to my requirements?,2177
+4079,What are the steps to amend leave entitlement settings in the system?,2177
+
+
+
 
 
 
