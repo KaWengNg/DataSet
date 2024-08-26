@@ -908,15 +908,15 @@ idx,sentence,label
 907,What is the reason my boss is on leave?,2047
 908,Do you have information on my colleagues' leave days?,2047
 909,Is anyone else in the company planning to take leave on August 28th?,2047
-910,"Can you check if there are any colleagues with leave scheduled for the same date as me, which is March 25th, 2023?",2047
+910,"Can you check if there are any colleagues with leave scheduled for the same date as me, which is March 25th,2023?",2047
 911,Is there anyone else in the company who has applied for leave on August 28th?,2047
 912,Can you tell me if any of my colleagues have leave planned for the 28th of August?,2047
-913,"I'm interested in knowing if there are any coworkers who will be on leave on March 25th, 2023.",2047
+913,"I'm interested in knowing if there are any coworkers who will be on leave on March 25th,2023.",2047
 914,"Do we have any colleagues taking leave on the same day as me, which is on the 25th of March 2023?",2047
 915,Can you provide information on whether any colleagues have scheduled leave for the 28th of August?,2047
 916,What is the leave status of my colleagues for August 28th?,2047
-917,"Can you check if any of my colleagues are on leave on the same day as me, March 25th, 2023?",2047
-918,"Is there anyone else in the company who has leave planned on March 25th, 2023?",2047
+917,"Can you check if any of my colleagues are on leave on the same day as me, March 25th,2023?",2047
+918,"Is there anyone else in the company who has leave planned on March 25th,2023?",2047
 919,Can you inform me if any of my colleagues are taking leave on the 28th of August?,2047
 920,"Are there any colleagues scheduled to take leave on the same day as me, which is on 25th March 2023?",2047
 921,Do we have any colleagues planning to take leave on 28th August?,2047
@@ -926,17 +926,17 @@ idx,sentence,label
 925,Could you provide the reason for my boss's leave?,2047
 926,Is there information available about my colleagues' upcoming leave days?,2047
 927,Will any of my colleagues be on leave on August 28th?,2047
-928,"Are there coworkers who have leave planned for the same date as me, March 25th, 2023?",2047
+928,"Are there coworkers who have leave planned for the same date as me, March 25th,2023?",2047
 929,Is there anyone else in the company with leave scheduled for August 28th?,2047
 930,Can you tell me if any colleagues have applied for leave on August 28th?,2047
-931,"Are any coworkers planning to be on leave on March 25th, 2023,like me?",2047
+931,"Are any coworkers planning to be on leave on March 25th,2023,like me?",2047
 932,"Will there be any colleagues taking leave on the same day as me, which is on the 25th of March 2023?",2047
 933,Can you provide information on whether colleagues have scheduled leave for August 28th?,2047
 934,Can I know the leave status of my colleagues for August 28th?,2047
-935,"Can you check if any colleagues will be on leave on the same day as me, March 25th, 2023?",2047
-936,"Is there anyone else in the company who is taking leave on March 25th, 2023?",2047
+935,"Can you check if any colleagues will be on leave on the same day as me, March 25th,2023?",2047
+936,"Is there anyone else in the company who is taking leave on March 25th,2023?",2047
 937,Can you inform me if any colleagues are taking leave on the 28th of August?,2047
-938,"Do my coworkers have any leave planned on March 25th, 2023?",2047
+938,"Do my coworkers have any leave planned on March 25th,2023?",2047
 939,Are there colleagues with leave scheduled for August 28th?,2047
 940,Who is on leave today?,2047
 941,Who is on leave today?,2047
@@ -1800,6 +1800,234 @@ idx,sentence,label
 1798,Can you guide me on calculating my earned leave for the current year?,2065
 1799,Is there a formula or method to determine how much earned leave I have up to the current date?,2065
 1800,Could you explain how to calculate my earned leave considering my leave entitlement and the months I've worked so far?,2065
+1801,What is my earned leave amount for my leave?,2065
+1802,How much leave have I earned so far for my leave?,2065
+1803,Is there a formula or method I can use to determine my earned leave up to the present date?,2065
+1804,"Could you provide an explanation of how to calculate my earned leave, taking into account my leave entitlement and the months I've worked this year?",2065
+1805,What is the total amount of earned leave I have for my annual leave?,2065
+1806,How can I calculate the number of leave days I've earned according to the company's leave policy?,2065
+1807,Can you provide guidance on calculating my accrued leave for this year?,2065
+1808,Is there a specific formula to determine my earned leave up to the current date?,2065
+1809,What's the process for calculating my earned leave considering my leave entitlement and months worked?,2065
+1810,How do I calculate my earned annual leave amount?,2065
+1811,How much annual leave have I earned up to now?,2065
+1812,What method can I use to calculate my earned leave up to the present date?,2065
+1813,"Could you explain the calculation for my earned leave, factoring in my leave entitlement and months worked this year?",2065
+1814,What is my current earned leave balance for annual leave?,2065
+1815,How do I determine the total amount of earned leave I have for my annual leave?,2065
+1816,How does the company's leave policy impact the calculation of earned leave?,2065
+1817,"Are there specific factors that affect the calculation of earned leave, such as seniority or job position?",2065
+1818,Can you provide examples of how to calculate earned leave for different types of employees?,2065
+1819,What role does the accrual rate play in determining the number of earned leave days?,2065
+1820,How often should I recalculate my earned leave based on changes in my employment status or leave entitlement?,2065
+1821,Are there any tools or software available to help automate the calculation of earned leave?,2065
+1822,What is the relationship between my work tenure and the accumulation of earned leave?,2065
+1823,How can I calculate my earned leave if I have taken unpaid leave or extended breaks during the year?,2065
+1824,Are there any exceptions or variations in earned leave calculation?,2065
+1825,Can you explain the concept of prorated earned leave for employees who join or leave the company mid-year?,2065
+1826,How does leave carryover from the previous year impact the calculation of earned leave for the current year?,2065
+1827,Are there any legal or regulatory requirements that influence earned leave calculations?,2065
+1828,What documentation or records should I maintain to support my earned leave calculations?,2065
+1829,Can you clarify the difference between earned leave and other types of leave entitlement?,2065
+1830,How does unpaid leave or leaves without pay affect the calculation of earned leave?,2065
+1831,Are there any tax implications or considerations related to earned leave calculations?,2065
+1832,Can you provide guidance on forecasting future earned leave based on planned work tenure?,2065
+1833,How can I calculate my earned leave amount?,2065
+1834,What is the steps for calculating earned leave?,2065
+1835,explain how to calculate earned leave value?,2065
+1836,How can I calculate my earned leave?,2065
+1837,What's the formula for determining my earned leave?,2065
+1838,Can you guide me through the process of calculating my earned leave?,2065
+1839,Is there a specific method for calculating my earned leave?,2065
+1840,How do I determine the number of leave days I've earned?,2065
+1841,Could you explain how to calculate earned leave based on my company's policy?,2065
+1842,What factors influence the calculation of earned leave?,2065
+1843,How does my work tenure impact the accumulation of earned leave?,2065
+1844,Can you provide examples of earned leave calculations for different scenarios?,2065
+1845,What is the relationship between leave carryover and earned leave calculations?,2065
+1846,my applied leave status between 01/01/2023 and 31/12/2023.,2066
+1847,how can I find the status of my applied leave for the period between 01/10/2023 and 31/12/2023,2066
+1848,is there a way for me to check the approval status of my leave requests made for the entire year of 2023,2066
+1849,"can you help me find out the status of my leave applications from June 1st to December 31st,2023",2066
+1850,i'm interested in knowing the approval status of my leave requests for the whole year of 2023. How can I obtain this information,2066
+1851,"From 24/07/2023 to 30/07/2023,what's the applied leave status?",2066
+1852,What's the status of my upcoming week applied leave?,2066
+1853,What's my latest leave status for next week?,2066
+1854,what is the approval status of the leave applied from 24/07/2023 to 30/07/2023?,2066
+1855,status of applied leave for next week?,2066
+1856,what is the leave application status applied for next week?,2066
+1857,status of upcoming leave for next week?,2066
+1858,What is the status of my leave applications for the entire year of 2023?,2066
+1859,"Can you provide the approval status of my leave requests made between January 1st and December 31st,2023?",2066
+1860,How do I check the status of my applied leave between 01/01/2023 and 31/12/2023?,2066
+1861,"Is there a way to find out if my leave requests from June 1st to December 31st,2023,what is the status?",2066
+1862,I'd like to know the approval status of my leave applications for the year 2023. How can I access this information?,2066
+1863,What are the status of applied leave dates between 24/07/2023 and 30/07/2023?,2066
+1864,Can you inform me about my leave status for the upcoming week?,2066
+1865,Do I have any leave requests in pending status for the week starting on 24/07/2023?,2066
+1866,Are there any leaves scheduled for the week of 24/07/2023 to 30/07/2023 in approved status?,2066
+1867,Can you provide status of my upcoming leave for the week starting on 24/07/2023?,2066
+1868,What is the status of my leave requests between 01/01/2022 and 31/12/2022?,2066
+1869,How can I check the approval status of my leave applications for the period between 01/04/2022 and 31/12/2022?,2066
+1870,"Is there a way to find out the status of my leave requests from January 1st to December 31st,2022?",2066
+1871,"Can you provide information on the status of my leave applications made between May 1st and August 31st,2022?",2066
+1872,I'd like to know the approval status of my leave requests for the entire year of 2022. How can I access this information?,2066
+1873,"From 15/08/2022 to 20/08/2022,what is the status of my leave requests?",2066
+1874,Can you inform me about the approval status of my upcoming leave for next week?,2066
+1875,what is the status of my leave requests for the next week?,2066
+1876,what is the status of the leaves scheduled for the week of 15/08/2022 to 20/08/2022?,2066
+1877,Can you provide details of my leave status for the upcoming week starting on 15/08/2022?,2066
+1878,What is the status of my leave applications between 01/01/2021 and 31/12/2021?,2066
+1879,How can I check the approval status of my leave requests for the period between 01/07/2021 and 31/12/2021?,2066
+1880,"Please show me the status of my leave requests from January 1st to December 31st,2021",2066
+1881,"Can you provide information on the status of my leave applications made between October 1st and December 31st,2021?",2066
+1882,I'd like to know the approval status of my leave requests for the entire year of 2021. How can I access this information?,2066
+1883,"From 10/09/2021 to 16/09/2021,what is the status of my leave requests?",2066
+1884,Can you inform me about the approval status of my upcoming leave for next week?,2066
+1885,"From 01/07/2023 to 31/07/2023,is there leave applied? If yess, what is the status of those applied leave?",2066
+1886,"Are there any leaves scheduled for the week of 10/09/2021 to 16/09/2021? If yes, what is the status of those leaves?",2066
+1887,Can you provide details of my leave status for the upcoming week starting on 10/09/2021?,2066
+1888,What's the status of my leave applications between 01/01/2023 and 31/12/2023?,2066
+1889,Can you check the approval status of my leave requests from 01/10/2023 to 31/12/2023?,2066
+1890,How can I find out if my leave requests for the entire year of 2023 have been approved?,2066
+1891,"Tell me the status of my leave applications from June 1st to December 31st,2023.",2066
+1892,I'd like to know if my leave requests for the year 2023 have been approved. Can you help?,2066
+1893,What's the status of the leave I applied for from 24/07/2023 to 30/07/2023?,2066
+1894,Can you provide the approval status of my upcoming week's leave?,2066
+1895,What's the latest status of my leave requests for next week?,2066
+1896,What is the status of my leave application on this month,2066
+1897,What is the my leave application status on this month,2066
+1898,What is the applied leave status on this month,2066
+1899,Am I allowed to apply for consecutive days off next month?,2067
+1900,"Am I allowed to apply for leave on an hourly basis, specifically for one hour?",2067
+1901,Am I allowed to submit a request for hourly leave lasting one hour?,2067
+1902,Am I allowed to take a few days off in the next month?,2067
+1903,Am I allowed to take a few days off in the upcoming month?,2067
+1904,Am I allowed to take consecutive days off next month?,2067
+1905,Am I eligible to apply for hourly leave specifically for a one-hour period?,2067
+1906,Am I eligible to request hourly leave for a period of one hour?,2067
+1907,Am I permitted to apply for hourly leave for a duration of one hour?,2067
+1908,Am I within my rights to submit a request for hourly leave lasting one hour?,2067
+1909,apply annual leave for me on next week,2067
+1910,apply for leave,2067
+1911,apply leave,2067
+1912,Are there any specific rules for half-day leave requests in the system?,2067
+1913,Are there specific instructions for applying for leave in the system?,2067
+1914,where should I go to apply for leave?,2067
+1915,where can I find the option to take leave?,2067
+1916,can i apply 1 hour leave,2067
+1917,can i apply back date leave?,2067
+1918,can i apply continuous day leave for next month,2067
+1919,Can I apply for an hour of hourly leave?,2067
+1920,Can I apply for an hourly leave for the specific duration of one hour?,2067
+1921,Can I apply for leave for a few days in the next month?,2067
+1922,Can i apply for leave for few days in next month?,2067
+1923,Can I apply for leave on an hourly basis for a one-hour duration?,2067
+1924,"Can I apply for leave on an hourly basis, specifically for the duration of one hour?",2067
+1925,Can I apply for leave using the formal process with a specific date?,2067
+1926,can i apply hourly leave,2067
+1927,can i apply hourly leave for 1 hour,2067
+1928,Can i apply leave for few days in next month?,2067
+1929,can i apply mc,2067
+1930,Can I formally request hourly leave for just one hour?,2067
+1931,Can I formally request to take hourly leave for one hour?,2067
+1932,Can I formally request to take leave with a start date in the past?,2067
+1933,Can I get help in submitting a leave application,2067
+1934,"Can I get help in taking leave, especially if I'm new to the system?",2067
+1935,Can I initiate a leave application specifically for a certain date?,2067
+1936,can i make leave request at here?,2067
+1937,Can I request leave for a short period next month?,2067
+1938,Can I request to take an hourly leave for a single hour?,2067
+1939,Can I submit a leave application for a few days in the upcoming month?,2067
+1940,Can I submit a leave request for a few days in the coming month?,2067
+1941,Can I submit a leave request for a short period in the coming month?,2067
+1942,Can I use the application system to request leave with a specific date?,2067
+1943,Can I use the formal leave application process for a specific date?,2067
+1944,Can I use the system to request leave for a specific date?,2067
+1945,can you apply for leave for me,2067
+1946,Can you apply for leave on my behalf?,2067
+1947,can you apply leave for me,2067
+1948,"Can you assist me in applying for half-day leave on July 8th,2023?",2067
+1949,Can you assist me in applying for leave for tomorrow?,2067
+1950,Can you assist me in applying for leave on the upcoming Monday?,2067
+1951,Can you assist me in submitting a leave application for a specific day or period?,2067
+1952,"Can you assist me in submitting a leave application for five days, starting from August 15th to August 19th?",2067
+1953,Can you assist me in submitting a leave application using the leave module for a certain type?,2067
+1954,Can you assist me in taking leave using the leave module for a certain type?,2067
+1955,Can you clarify the procedure for requesting half-day leave in the system?,2067
+1956,Can you clarify the procedure for requesting half-day leave in the system?,2067
+1957,Can you clarify the system's approach to half-day leave requests?,2067
+1958,can you explain how the leave management system processes half-day leave requests,2067
+1959,Can you explain how the system differentiates between half-day and full-day leave requests?,2067
+1960,Can you explain the procedure for formally doing a leave application?,2067
+1961,Can you explain the process by which the leave management system manages half-day leave requests?,2067
+1962,Can you explain the process by which the leave management system manages half-day leave requests?,2067
+1963,Can you explain the process for doing a leave application?,2067
+1964,Can you guide me on how to apply for leave to work from home?,2067
+1965,can you guide me on how to apply for leave using the leave module in Inet,2067
+1966,Can you guide me on how to do a leave application?,2067
+1967,Can you guide me on how to initiate and submit a leave application?,2067
+1968,Can you guide me on how to initiate the process of taking leave?,2067
+1969,Can you guide me on how to request leave for a short duration?,2067
+1970,Can you guide me on how to submit a leave application?,2067
+1971,Can you guide me on how to submit an MC application?,2067
+1972,can you guide me on how to submit leave application using the leave module in Inet,2067
+1973,can you guide me on how to take leave using the leave module in Inet,2067
+1974,Can you guide me on the leave application process?,2067
+1975,Can you guide me on the procedure for applying for leave with the option to work from home?,2067
+1976,Can you guide me on the procedure to apply for leave?,2067
+1977,Can you guide me on the procedure to apply for medical leave?,2067
+1978,Can you guide me on the process of applying for leave in the system?,2067
+1979,Can you guide me on the steps to do a leave application?,2067
+1980,Can you guide me through the process of applying for leave?,2067
+1981,Can you guide me through the process of applying for leave?,2067
+1982,"Can you help me apply for a half-day leave on July 8th,2023?",2067
+1983,"Can you help me apply for half-day leave on July 8th,2023?",2067
+1984,Can you help me in requesting time off?,2067
+1985,Can you help me to request leave?,2067
+1986,Can you help me understand how to request leave for the upcoming Monday?,2067
+1987,Can you help me with a leave request?,2067
+1988,Can you inform me about the steps involved in applying for leave to work from home?,2067
+1989,Can you inform me about the steps to apply for leave?,2067
+1990,Can you inform me about the steps to apply for MC?,2067
+1991,Can you provide a step-by-step guide on how to submit a leave application?,2067
+1992,Can you provide a step-by-step guide on how to take leave in the system?,2067
+1993,Can you provide guidance on the steps to apply for leave with the option to work from home?,2067
+1994,Can you provide instructions on applying for leave?,2067
+1995,Can you provide instructions on applying for mc?,2067
+1996,Can you provide instructions on applying for work from home leave?,2067
+1997,Can you provide instructions on how to do a leave application?,2067
+1998,Can you provide me with a step-by-step guide on applying for leave in Inet?,2067
+1999,Can you provide step-by-step guidance on how to do a leave application?,2067
+2000,Can you share details on the application process for leave?,2067
+2001,Can you share details on the application process for MC?,2067
+2002,Can you share details on the application process for work from home leave?,2067
+2003,can you show me the steps how to apply for leave,2067
+2004,can you show me the steps how to apply leave,2067
+2005,can you show me the steps how to request leave,2067
+2006,can you show me the steps how to submit leave application,2067
+2007,can you show me the steps how to take leave,2067
+2008,Can you submit a leave request on my behalf?,2067
+2009,Can you tell me how the system records half-day leave hours?,2067
+2010,Can you walk me through the process of formally requesting to take leave?,2067
+2011,Can you walk me through the process of submitting a leave application?,2067
+2012,"Can you walk me through the process of submitting a leave request via the leave module, including the required details?",2067
+2013,Can you walk me through the steps for submitting a leave application?,2067
+2014,Can you walk me through the steps to apply for leave?,2067
+2015,Can you walk me through the steps to apply for medical leave?,2067
+2016,Could you assist me in requesting leave?,2067
+2017,Could you demonstrate the steps for applying for leave?,2067
+2018,Could you demonstrate the steps for submitting a leave application?,2067
+2019,Could you demonstrate the steps for taking leave using the leave module,2067
+2020,Could you explain how I can submit a leave request through the leave module,2067
+2021,Could you guide me on how to request a half-day leave in the system and ensure the proper deduction from my leave balance,2067
+2022,Could you guide me through the process of requesting a five-day leave from August 15th to August 19th?,2067
+2023,Could you help me through the steps to request a five-day leave from August 15th to August 19th?,2067
+2024,Could you please assist me in applying for leave for tomorrow?,2067
+2025,Could you please help me apply for leave?,2067
+2026,Could you provide guidance on how to submit a leave application within the system?,2067
+2027,Could you provide instructions on how to apply for a half-day leave and ensure the correct deduction from my balance?,2067
+2028,Could you provide instructions on how to apply for a half-day leave and ensure the correct deduction from my balance?,2067
 
 
 
