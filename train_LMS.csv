@@ -2071,7 +2071,7 @@ idx,sentence,label
 2066,What are the various leave options offered in the company's leave module?,2068
 2067,Could you provide an overview of the leave types accessible through Inet?,2068
 2068,"Is there a list of specific leave categories in the leave module, and if so, what are they?",2068
-2069,What kinds of leave can I select when applying through the leave module?,2068
+,What kinds of leave can I select when applying through the leave module?,2068
 2070,How many different types of leave are available for application in the system?,2068
 2071,Can you detail the leave types that employees can choose from in the Inet leave module?,2068
 2072,What's the range of leave options I have when applying through the leave module?,2068
@@ -2098,6 +2098,8 @@ idx,sentence,label
 2093,Can you explain the types of leaves I can apply for in INet?,2068
 2094,What is the range of leave types in the INet system?,2068
 2095,how to check my leave balance,2069
+2095,My leave bal.,2069
+2095,Wat's my leave bal?,2069
 2096,how can I check my current leave balance,2069
 2097,is there a way for me to find out my leave days balance,2069
 2098,could you guide me on how to access my leave balance,2069
