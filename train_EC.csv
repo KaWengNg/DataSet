@@ -29,10 +29,23 @@ idx,sentence,label
 28,How do I access the page to view my basic information?,1001
 29,Where can I view my personal information in the system?,1001
 30,Where can I view my current position and department information in the system?,1001
-
-
-
-
-
-
-
+31,Where can I find the edit button to modify an employee's information?,1002
+32,"Can I edit all details in an employee's profile, or are there restrictions?",1002
+33,What if I make a mistake while editing the employee's information? Can I undo it?,1002
+34,How to edit employees information?,1002
+35,How to edit family information?,1002
+36,How do I update an employee’s family information specifically?,1002
+37,edit employee info,1002
+38,How do I update an employee’s family information specifically?,1002
+39,How do I know if I’m authorized to edit certain information on the employee’s profile?,1002
+40,Can I view the changes I made to an employee’s profile after saving them?,1002
+41,What are the steps to modify an employee's details?,1002
+42,How can I update an employee's information in the system?,1002
+43,What is the process for editing employee profiles?,1002
+44,How do I change the info of an employee?,1002
+45,Can you guide me on how to edit employee data?,1002
+46,What do I need to do to update an employee's records,1002
+47,How can I make changes to an employee's profile?,1002
+48,What’s the procedure for altering employee information?,1002
+49,How do I revise an employee's details in the HR system?,1002
+50,What is the correct way to modify employee information?,1002
