@@ -41,7 +41,7 @@ idx,sentence,label
 40,Is there a limit on the number of Emergency Leave days I can take?,2001
 41,Is there a specific entitlement for Emergency Leave in my company?,2001
 42,Is there a specific entitlement for EL in my company?,2001
-43,What happens if I run out of Annual Leave but need to take Emergency Leave?,2001
+43,What happens if I run out of  but need to take Emergency Leave?,2001
 44,What happens if I run out of AL but need to take EL?,2001
 45,What are the conditions under which I can apply for Emergency Leave?,2001
 46,What are the conditions under which I can apply for EL?,2001
@@ -951,18 +951,18 @@ idx,sentence,label
 947,How can I view my colleague's taken leave?,2047
 948,How can I view my colleague's taken leave?,2047
 949,How can I view the leave taken by my colleague?,2047
-950,How many days of annual leave were brought forward from 2022?,2049
+950,How many days of  were brought forward from 2022?,2049
 951,How many days of my current annual leave balance is carried forward from last year?,2049
-952,How many days of annual leave were brought forward from last year?,2049
+952,How many days of al were brought forward from last year?,2049
 953,How many days of annual leave will be brought forward to next year?,2049
 954,How many days of annual leave can be brought forward to next year?,2049
-955,How much of my annual leave is carried forward from last year?,2049
+955,How much of my al is carried forward from last year?,2049
 956,How many days of annual leave can be brought forward to next year?,2049
 957,How many days of carry forward annual leave are from the year 2022?,2049
 958,What is the total amount of annual leave carried over from 2022?,2049
 959,Can you provide me with the number of days from my previous year's annual leave balance that have been carried forward?,2049
 960,What is the count of annual leave days that will be carried forward to the upcoming year?,2049
-961,Can you tell me how many days of annual leave I carried forward from 2022?,2049
+961,Can you tell me how many days of al I carried forward from 2022?,2049
 962,How much of my annual leave balance from last year has been carried over to this year?,2049
 963,What is the amount of annual leave carried forward from the previous year?,2049
 964,How many days of my previous year's annual leave balance will be carried forward to the next year?,2049
@@ -979,7 +979,7 @@ idx,sentence,label
 975,What is the number of days of annual leave brought forward from last year?,2049
 976,How many days of unused annual leave from 2022 will be carried forward to this year?,2049
 977,What is the total amount of annual leave that I brought forward from last year?,2049
-978,How many days of my annual leave balance from last year have been carried over to this year?,2049
+978,How many days of my al balance from last year have been carried over to this year?,2049
 979,How many days of unused annual leave from 2022 have been carried forward?,2049
 980,Can you tell me the number of days from my previous year's annual leave balance that were carried forward to this year?,2049
 981,What is the total count of annual leave days that will be carried forward to the upcoming year?,2049
@@ -988,12 +988,12 @@ idx,sentence,label
 984,What is the amount of annual leave that was carried forward from the previous year?,2049
 985,What is the total count of days from my previous year's annual leave balance that are now carried forward?,2049
 986,What is the amount of annual leave that can be brought forward to next year?,2049
-987,Can you tell me the amount of annual leave that has been carried forward to the new year?,2049
+987,Can you tell me the amount of al that has been carried forward to the new year?,2049
 988,How did the company determine the annual leave balance carried forward from 2022?,2049
 989,Is there any unused annual leave from last year that has been carried over to this year?,2049
 990,How many days of annual leave were carried forward to this year?,2049
 991,Can you tell me the amount of annual leave brought forward for this year?,2049
-992,What's the count of annual leave days carried over to the current year?,2049
+992,What's the count of al days carried over to the current year?,2049
 993,How much annual leave did I bring forward for this year?,2049
 994,Tell me the number of days of my annual leave balance from last year carried forward.,2049
 995,What is the total count of annual leave days carried forward to the new year?,2049
@@ -5112,7 +5112,7 @@ idx,sentence,label
 5131,How many AL that I earn?,2210
 5132,How system calculate the number of days of annual leave earned?,2210
 5133,Earn leave calculation?,2210
-5134,How many days of Annual Leave can I earn next month?,2210
+5134,How many days of AL can I earn next month?,2210
 5135,What is the process for earning my Annual Leave entitlement?,2210
 5136,When can I expect to earn enough Leave to apply for leave on 29/9/2023?,2210
 5137,What is the number of Annual Leave days I can accrue in the upcoming month?,2210
