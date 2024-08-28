@@ -18,21 +18,6 @@ idx,sentence,label
 17,"As the sun set over the ocean, the sky turned a brilliant shade of orange, reflecting off the calm waves.",0
 18,"She meticulously planned every detail of the event, ensuring that everything would be perfect for the big day.",0
 19,"The sound of the waves crashing against the shore was soothing, providing a perfect backdrop for their evening walk.",0
-20,"He spent hours working on his model train set, carefully assembling each piece and making sure everything was just right.",0
-21,"The children played in the park, their laughter echoing through the trees as they chased each other around.",0
-22,"The restaurant was cozy and inviting, with warm lighting and delicious aromas that made it hard to leave.",0
-23,"She loved the feeling of accomplishment after completing a difficult puzzle, knowing that her hard work had paid off.",0
-24,"The crisp autumn air was filled with the scent of fallen leaves and wood smoke from nearby chimneys.",0
-25,"He enjoyed taking long drives through the countryside, where the rolling hills and open fields stretched out for miles.",0
-26,"The art exhibit featured works from local artists, showcasing a wide range of styles and techniques.",0
-27,"They spent the day at the beach, building sandcastles and swimming in the cool, refreshing water.",0
-28,"The old library was a treasure trove of knowledge, with shelves filled with books on every subject imaginable.",0
-29,"She spent the morning baking cookies, filling the house with the sweet smell of sugar and cinnamon.",0
-30,"The garden was a riot of color in the spring, with flowers of every hue blooming in abundance.",0
-31,"He took pride in his woodworking skills, crafting beautiful furniture pieces by hand in his workshop.",0
-32,"The small café was a popular spot for locals, who enjoyed the friendly atmosphere and delicious coffee.",0
-33,"They watched the fireworks from the hilltop, marveling at the bright colors that lit up the night sky.",0
-34,"The museum had an impressive collection of ancient artifacts, offering a glimpse into the history of the region.",0
 35,"She spent hours tending to her garden, carefully watering and pruning the plants to keep them healthy.",0
 36,"The hike to the mountain summit was challenging, but the breathtaking view at the top made it all worthwhile.",0
 37,"They enjoyed a picnic in the park, relaxing on a blanket under the shade of a large oak tree.",0
@@ -259,18 +244,6 @@ idx,sentence,label
 258,Can you provide some insights on financial advice?,0
 259,Can you provide some insights on language learning tips?,0
 260,Can you provide some insights on movie reviews?,0
-261,Can you provide some insights on weather in different countries?,0
-262,Can you provide some insights on latest technology trends?,0
-263,Can you provide some insights on cooking recipes?,0
-264,Can you provide some insights on fitness tips?,0
-265,Can you provide some insights on book recommendations?,0
-266,Can you provide some insights on music genres?,0
-267,Can you provide some insights on travel destinations?,0
-268,Can you provide some insights on financial advice?,0
-269,Can you provide some insights on language learning tips?,0
-270,Can you provide some insights on movie reviews?,0
-271,Can you provide some insights on weather in different countries?,0
-272,Can you provide some insights on latest technology trends?,0
 273,Can you provide some insights on cooking recipes?,0
 274,Can you provide some insights on fitness tips?,0
 275,Can you provide some insights on book recommendations?,0
@@ -287,12 +260,6 @@ idx,sentence,label
 305,Can you provide some insights on book recommendations?,0
 306,Can you provide some insights on music genres?,0
 307,Can you provide some insights on travel destinations?,0
-308,Can you provide some insights on financial advice?,0
-309,Can you provide some insights on language learning tips?,0
-310,Can you provide some insights on movie reviews?,0
-311,Can you provide some insights on weather in different countries?,0
-312,Can you provide some insights on latest technology trends?,0
-313,Can you provide some insights on cooking recipes?,0
 314,Can you provide some insights on fitness tips?,0
 315,Can you provide some insights on book recommendations?,0
 316,Can you provide some insights on music genres?,0
@@ -359,18 +326,6 @@ idx,sentence,label
 377,Can you provide some insights on travel destinations?,0
 378,Can you provide some insights on financial advice?,0
 379,Can you provide some insights on language learning tips?,0
-380,Can you provide some insights on movie reviews?,0
-381,Can you provide some insights on weather in different countries?,0
-382,Can you provide some insights on latest technology trends?,0
-383,Can you provide some insights on cooking recipes?,0
-384,Can you provide some insights on fitness tips?,0
-385,Can you provide some insights on book recommendations?,0
-386,Can you provide some insights on music genres?,0
-387,Can you provide some insights on travel destinations?,0
-388,Can you provide some insights on financial advice?,0
-389,Can you provide some insights on language learning tips?,0
-390,Can you provide some insights on movie reviews?,0
-391,Can you provide some insights on weather in different countries?,0
 392,Can you provide some insights on latest technology trends?,0
 393,Can you provide some insights on cooking recipes?,0
 394,Can you provide some insights on fitness tips?,0
@@ -400,20 +355,6 @@ idx,sentence,label
 418,Can you provide some insights on financial advice?,0
 419,Can you provide some insights on language learning tips?,0
 420,Can you provide some insights on movie reviews?,0
-421,Can you provide some insights on weather in different countries?,0
-422,Can you provide some insights on latest technology trends?,0
-423,Can you provide some insights on cooking recipes?,0
-424,Can you provide some insights on fitness tips?,0
-425,Can you provide some insights on book recommendations?,0
-426,Can you provide some insights on music genres?,0
-427,Can you provide some insights on travel destinations?,0
-428,Can you provide some insights on financial advice?,0
-429,Can you provide some insights on language learning tips?,0
-430,Can you provide some insights on movie reviews?,0
-431,Can you provide some insights on weather in different countries?,0
-432,Can you provide some insights on latest technology trends?,0
-433,Can you provide some insights on cooking recipes?,0
-434,Can you provide some insights on fitness tips?,0
 435,Can you provide some insights on book recommendations?,0
 436,Can you provide some insights on music genres?,0
 437,Can you provide some insights on travel destinations?,0
@@ -422,20 +363,6 @@ idx,sentence,label
 440,Can you provide some insights on movie reviews?,0
 441,Can you provide some insights on weather in different countries?,0
 442,Can you provide some insights on latest technology trends?,0
-443,Can you provide some insights on cooking recipes?,0
-444,Can you provide some insights on fitness tips?,0
-445,Can you provide some insights on book recommendations?,0
-446,Can you provide some insights on music genres?,0
-470,Can you provide some insights on movie reviews?,0
-471,Can you provide some insights on weather in different countries?,0
-472,Can you provide some insights on latest technology trends?,0
-473,Can you provide some insights on cooking recipes?,0
-474,Can you provide some insights on fitness tips?,0
-475,Can you provide some insights on book recommendations?,0
-476,Can you provide some insights on music genres?,0
-477,Can you provide some insights on travel destinations?,0
-478,Can you provide some insights on financial advice?,0
-479,Can you provide some insights on language learning tips?,0
 480,Can you provide some insights on movie reviews?,0
 481,Can you provide some insights on weather in different countries?,0
 482,Can you provide some insights on latest technology trends?,0
@@ -461,17 +388,6 @@ idx,sentence,label
 502,Can you provide some insights on latest technology trends?,0
 503,Can you provide some insights on cooking recipes?,0
 504,Can you provide some insights on fitness tips?,0
-505,Can you provide some insights on book recommendations?,0
-506,Can you provide some insights on music genres?,0
-507,Can you provide some insights on travel destinations?,0
-508,Can you provide some insights on financial advice?,0
-509,Can you provide some insights on language learning tips?,0
-510,Can you provide some insights on movie reviews?,0
-511,Can you provide some insights on weather in different countries?,0
-512,Can you provide some insights on latest technology trends?,0
-513,Can you provide some insights on cooking recipes?,0
-514,Can you provide some insights on fitness tips?,0
-515,Can you provide some insights on book recommendations?,0
 516,Can you provide some insights on music genres?,0
 517,Can you provide some insights on travel destinations?,0
 518,Can you provide some insights on financial advice?,0
@@ -553,35 +469,10 @@ idx,sentence,label
 312,Can you provide some insights on latest technology trends?,0
 313,Can you provide some insights on cooking recipes?,0
 314,Can you provide some insights on fitness tips?,0
-315,Can you provide some insights on book recommendations?,0
-316,Can you provide some insights on music genres?,0
-317,Can you provide some insights on travel destinations?,0
-318,Can you provide some insights on financial advice?,0
-319,Can you provide some insights on language learning tips?,0
-320,Can you provide some insights on movie reviews?,0
-321,Can you provide some insights on weather in different countries?,0
-322,Can you provide some insights on latest technology trends?,0
-323,Can you provide some insights on cooking recipes?,0
-324,Can you provide some insights on fitness tips?,0
-325,Can you provide some insights on book recommendations?,0
 326,Can you provide some insights on music genres?,0
 327,Can you provide some insights on travel destinations?,0
 328,Can you provide some insights on financial advice?,0
 329,Can you provide some insights on language learning tips?,0
-330,Can you provide some insights on movie reviews?,0
-331,Can you provide some insights on weather in different countries?,0
-332,Can you provide some insights on latest technology trends?,0
-333,Can you provide some insights on cooking recipes?,0
-334,Can you provide some insights on fitness tips?,0
-335,Can you provide some insights on book recommendations?,0
-336,Can you provide some insights on music genres?,0
-337,Can you provide some insights on travel destinations?,0
-338,Can you provide some insights on financial advice?,0
-339,Can you provide some insights on language learning tips?,0
-340,Can you provide some insights on movie reviews?,0
-341,Can you provide some insights on weather in different countries?,0
-342,Can you provide some insights on latest technology trends?,0
-343,Can you provide some insights on cooking recipes?,0
 344,Can you provide some insights on fitness tips?,0
 345,Can you provide some insights on book recommendations?,0
 346,Can you provide some insights on music genres?,0
@@ -698,39 +589,10 @@ idx,sentence,label
 471,Can you provide some insights on weather in different countries?,0
 472,Can you provide some insights on latest technology trends?,0
 473,Can you provide some insights on cooking recipes?,0
-474,Can you provide some insights on fitness tips?,0
-475,Can you provide some insights on book recommendations?,0
-476,Can you provide some insights on music genres?,0
-477,Can you provide some insights on travel destinations?,0
-478,Can you provide some insights on financial advice?,0
-479,Can you provide some insights on language learning tips?,0
-480,Can you provide some insights on movie reviews?,0
-481,Can you provide some insights on weather in different countries?,0
-482,Can you provide some insights on latest technology trends?,0
-483,Can you provide some insights on cooking recipes?,0
-484,Can you provide some insights on fitness tips?,0
-485,Can you provide some insights on book recommendations?,0
-486,Can you provide some insights on music genres?,0
-487,Can you provide some insights on travel destinations?,0
-488,Can you provide some insights on financial advice?,0
 489,Can you provide some insights on language learning tips?,0
 490,Can you provide some insights on movie reviews?,0
 491,Can you provide some insights on weather in different countries?,0
 492,Can you provide some insights on latest technology trends?,0
-493,Can you provide some insights on cooking recipes?,0
-494,Can you provide some insights on fitness tips?,0
-495,Can you provide some insights on book recommendations?,0
-496,Can you provide some insights on music genres?,0
-497,Can you provide some insights on travel destinations?,0
-498,Can you provide some insights on financial advice?,0
-499,Can you provide some insights on language learning tips?,0
-500,Can you provide some insights on movie reviews?,0
-501,Can you provide some insights on weather in different countries?,0
-502,Can you provide some insights on latest technology trends?,0
-503,Can you provide some insights on cooking recipes?,0
-504,Can you provide some insights on fitness tips?,0
-505,Can you provide some insights on book recommendations?,0
-506,Can you provide some insights on music genres?,0
 507,Can you provide some insights on travel destinations?,0
 508,Can you provide some insights on financial advice?,0
 509,Can you provide some insights on language learning tips?,0
@@ -910,3 +772,10 @@ idx,sentence,label
 711,cvb,0
 712,ncvb,0
 713,cvbx,0
+714,what is gender?,0
+715,what gender is?,0
+716,what is sex,0
+717,What is name,0
+718,What to do with AL?,0
+719,What is wrong with AL?,0
+720,What's wrong with you?,0
