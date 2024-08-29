@@ -1,13 +1,57 @@
-idx,sentence,label
-1,How can I view my leave entitlements for the current year?,2000
-2,Where do I check the different types of leave I’m entitled to?,2000
-3,What steps should I follow to see all my leave entitlements in one place?,2000
-4,Can I get a detailed calculation of my leave entitlements?,2000
-5,What should I do if I can't find my leave entitlements in the system?,2000
-6,What's the total amount of my EL?,2001
-7,What attachment required if I want to submit Medical Leave application,2002
-8,what could be the reasons for my applied leave to still be showing as pending?,2026
-9,"is it ok to cancel an applied leave, and how should I proceed?",2027
-10,how can I check the number of emergency leave days I have left this year?,2032
-
-
+sentence,label
+How can I view my leave entitlements for the current year?,2000
+Where do I check the different types of leave I'm entitled to?,2000
+What steps should I follow to see all my leave entitlements in one place?,2000
+Can I get a detailed calculation of my leave entitlements?,2000
+What should I do if I can't find my leave entitlements in the system?,2000
+What's the total amount of my EL?,2001
+What attachment required if I want to submit Medical Leave application,2002
+what could be the reasons for my applied leave to still be showing as pending?,2026
+"is it ok to cancel an applied leave, and how should I proceed?",2027
+how can I check the number of emergency leave days I have left this year?,2032
+What's the procedure for requesting a 4.5-hour leave?,2067
+Can I request a leave for 0.75 hours?,2067
+Is there an option to apply for a 3.25-hour leave?,2067
+How can I take a leave for 5.5 hours?,2067
+Is it possible to apply for a 1.75-hour leave?,2067
+What is the policy for requesting a 2.25-hour leave?,2067
+Can I apply for a 4.75-hour leave?,2067
+Is it allowed to take a 6.5-hour leave?,2067
+How do I request a leave for 1.25 hours?,2067
+Can I apply for a 1-hour leave?,2067
+Is it possible to request a 2-hour leave?,2067
+What is the process for requesting a 3-hour leave?,2067
+Can I take a leave for 4 hours?,2067
+Is there an option to apply for a 5-hour leave?,2067
+How can I request a 6-hour leave?,2067
+Is it permissible to request a 2.5-hour leave?,2067
+How can I use the system to see if there is any balance in my leave?,2069
+Is there a method to check my current leave balance?,2069
+Can you provide instructions on how to see my leave balance?,2069
+How do I navigate through the system to see my leave balance?,2069
+What is the correct way to check if there is any balance in my leave?,2069
+Can you guide me on the steps to view my current leave balance?,2069
+How can I check if there are any leaves remaining in my balance?,2069
+Is there a procedure for me to see my current leave balance?,2069
+Can you explain how I can verify my leave balance?,2069
+What is the right method to see if there is any balance in my leave?,2069
+How do I use the system to visually see my remaining leave balance?,2069
+Can you provide step-by-step guidance on how to check my leave balance?,2069
+What is the process for me to visually see my leave balance?,2069
+how to check if there any leave balance,2069
+How many paid leave days remain in my account?,2069
+What is the current count of my paid leave days?,2069
+Provide information on my unused paid leave days.,2069
+How many more paid leave days can I take?,2069
+update my leave balance,2069
+list out my leave balance,2069
+leave balance for each category,2069
+Can you tell me my remaining time off?,2069
+I'd like to know my current leave balance. Can you provide that information?,2069
+How much leave do I have left for this year?,2069
+Please update me on my remaining leave balance.,2069
+"Could you list out my leave balance, including different categories?",2069
+What is my available time off balance?,2069
+Can you inform me about my current leave allowance?,2069
+How much unused leave do I have remaining?,2069
+"Provide me with my current leave balance, please.",2069
