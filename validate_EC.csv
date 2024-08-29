@@ -1,11 +1,13 @@
-idx,sentence,label
-1,Tell me my name,1001
-2,What's my name?,1001
-3,Can you tell me my name?,1001
-4,"I forgot my name, what is it?",1001
-5,Please tell me my birth date.,1001
-6,Where was I born?,1001
-7,Give me my mobile number.,1001
-8,What is the name of my company?,1001
-9,Tell me my title.,1001
-10,What's my official title?,1001
+sentence,label
+Tell me my name,1001
+What's my name?,1001
+Can you tell me my name?,1001
+"I forgot my name, what is it?",1001
+Please tell me my birth date.,1001
+Where was I born?,1001
+Give me my mobile number.,1001
+What is the name of my company?,1001
+Tell me my title.,1001
+What's my official title?,1001
+wats my name,1001
+wats my gender,1001
