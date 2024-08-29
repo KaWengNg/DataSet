@@ -1978,7 +1978,6 @@ can you show me the steps how to submit leave application,2067
 Can you submit a leave request on my behalf?,2067
 Can you tell me how the system records half-day leave hours?,2067
 Can you walk me through the process of formally requesting to take leave?,2067
-"Can you walk me through the process of submitting a leave request via the leave module, including the required details?",2067
 Can you walk me through the steps for submitting a leave application?,2067
 Can you walk me through the steps to apply for leave?,2067
 Can you walk me through the steps to apply for medical leave?,2067
@@ -1994,7 +1993,6 @@ Could you provide guidance on how to submit a leave application within the syste
 Could you provide instructions on how to apply for a half-day leave and ensure the correct deduction from my balance?,2067
 How can I take a leave for 5.5 hours?,2067
 Is it possible to apply for a 1.75-hour leave?,2067
-Is it possible to request a 2-hour leave?,2067
 Is there an option to apply for a 5-hour leave?,2067
 Is it permissible to request a 2.5-hour leave?,2067
 What's the policy on applying for a 3.5-hour leave?,2067
@@ -2126,7 +2124,6 @@ What data sources are used to compute the medical leave bal?,2069
 Can you explain how medical leave balance is calculated for employees with varying work hours?,2069
 How can I access my medical leave balance information in the company's system?,2069
 "Is there a specific policy for calculating medical leave balance, and can you provide details?",2069
-How do I check my current medical leave balance?,2069
 Can you tell me how many medical leave days I have left?,2069
 What's the process for finding out my remaining medical leave for this year?,2069
 How is my medical leave balance calculated?,2069
@@ -2148,9 +2145,6 @@ How can I calculate my current maternity leave balance?,2069
 Could you explain the method used for maternity leave balance calculation?,2069
 Is there a specific formula or algorithm for computing the maternity leave balance?,2069
 What factors are considered when calculating my maternity leave balance?,2069
-How does the company's system calculate my maternity leave balance?,2069
-Can you elucidate the process of maternity leave balance calculation in our organization?,2069
-What data or parameters are used to determine my remaining maternity leave days?,2069
 How can I find out my maternity leave balance as of today?,2069
 What is the process for determining my maternity leave balance?,2069
 Can you provide insights into how maternity leave balance is calculated?,2069
@@ -2171,9 +2165,6 @@ Could you offer guidance on how to calculate my remaining paternity leave days f
 Is there a particular method or system employed to calculate the paternity leave balance?,2069
 What is the way to calculate the balance of paternity leave?,2069
 Show me the formula to calculate balance of paternity leave.,2069
-What is the process for calculating paternity leave balance?,2069
-Can you provide details on how the paternity leave balance is determined?,2069
-How can I calculate my current paternity leave balance?,2069
 Could you explain the methodology used for paternity leave balance calculation?,2069
 Is there a specific formula or algorithm for computing the paternity leave balance?,2069
 What factors are considered when calculating my paternity leave balance?,2069
@@ -4333,6 +4324,8 @@ What could be the cause of both the applicant and approver not getting email not
 Why are both the applicant and the approver missing email notifications for leave requests?,2186
 What could be causing the email notifications for leave applications to fail for both the applicant and approver?,2186
 Why aren't email notifications reaching either the applicant or the approver for their leave applications?,2186
+Why haven't I receive email from the leave approval?,2186
+Why I didnt receive the email from leave approver?,2186
 Day code generate,2188
 how to generate day code,2188
 steps to generate day code,2188
