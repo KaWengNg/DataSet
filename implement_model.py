@@ -3,17 +3,17 @@ import pandas as pd
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # Load the training datasets
-df_train = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_OutOfDomain.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_train_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_EC.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_train_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_LMS.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
+df_train = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_OutOfDomain.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_train_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_EC.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_train_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_LMS.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
 
 # Concatenate the training datasets
 df_train = pd.concat([df_train, df_train_ec, df_train_lms], ignore_index=True)
 
 # Load the validation datasets
-df_validate = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_OutOfDomain.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_validate_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_EC.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_validate_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_LMS.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
+df_validate = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_OutOfDomain.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_validate_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_EC.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_validate_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_LMS.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
 
 # Concatenate the validation datasets
 df_validate = pd.concat([df_validate, df_validate_ec, df_validate_lms], ignore_index=True)
@@ -24,6 +24,12 @@ custom_define_label = {
     1001: "What is my basic information?",
     1002: "How to edit employee information?",
     1003: "How to export employee data?",
+    1004: "Can you provide the total race count for each company?",
+    1005: "How do I navigate to the import employee information page?",
+    1006: "Can you provide details about the employee's current job position?",
+    1007: "What should I do if I forgot my current INet password?",
+    1008: "How do I register a new employee in the system?",
+    1009: "What is preventing me from deleting the employee?",
     2000: "What is my total leave entitlement?",
     2001: "What is my emergency leave entitlement?",
     2002: "What document do I need to attach in order to apply medical leave?",
@@ -131,12 +137,12 @@ id2label = {i: int(label) for label, i in label2id.items()}
 custom_id2label = {i: custom_define_label[label] for i, label in id2label.items()}
 
 # Load the fine-tuned model
-checkpoint_path = 'C:\\Users\\kaweng.ng\\AppData\\Local\\Programs\\Python\\Python38\\sentence-transformers\\paraphrase-distilroberta-base-v1-lora-finetune\\checkpoint-4188'
+checkpoint_path = 'C:\\Users\\kaweng.ng\\AppData\\Local\\Programs\\Python\\Python38\\sentence-transformers\\all-MiniLM-L12-v2-lora-finetune\\checkpoint-8793'
 model2 = AutoModelForSequenceClassification.from_pretrained(checkpoint_path, num_labels=len(id2label), id2label=custom_id2label, label2id=label2id)
 model2.eval()  # Set the model to evaluation mode
 
 # Load the tokenizer
-base_model_id = 'roberta-base'
+base_model_id = 'sentence-transformers/all-MiniLM-L12-v2'
 tokenizer = AutoTokenizer.from_pretrained(base_model_id)
 
 # Interactive input loop for generating predictions
@@ -157,13 +163,11 @@ while True:
     # Get the predicted label by finding the index of the maximum logit value
     predictions = torch.argmax(logits, dim=-1)
     
-     # Get the label ID and corresponding value from the dataset
+    # Get the label ID and corresponding value from the dataset
     predicted_label_id = predictions.item()
     predicted_label_value = id2label[predicted_label_id]
     predicted_label_description = custom_define_label[predicted_label_value]
     
-       # Output the predicted label, label ID, and mapped question
-    print(f"Input: {input_text}")
     # print(f"Predicted Label ID: {predicted_label_id}")
     print(f"Predicted Label Value: {predicted_label_value}")
     print(f"Map to Question: {predicted_label_description}\n")
