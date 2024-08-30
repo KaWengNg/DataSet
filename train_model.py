@@ -1,31 +1,22 @@
-from datasets import load_dataset, DatasetDict, Dataset
 import pandas as pd
-from peft import PeftModel, PeftConfig, get_peft_model, LoraConfig
-import evaluate
 import torch
-import numpy as np
+from datasets import Dataset, DatasetDict
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, DataCollatorWithPadding, TrainingArguments, Trainer
 from sklearn.utils.class_weight import compute_class_weight
-from transformers import (
-    AutoTokenizer,
-    AutoConfig,
-    AutoModelForSequenceClassification,
-    DataCollatorWithPadding,
-    TrainingArguments,
-    Trainer,
-    get_linear_schedule_with_warmup  # Import the scheduler
-)
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
+import numpy as np
+from peft import get_peft_model, LoraConfig
 
-# Load the training and validation datasets (same as before)
-df_train = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_OutOfDomain.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_train_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_EC.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_train_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_LMS.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
+# Load the training and validation datasets
+df_train = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_OutOfDomain.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_train_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_EC.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_train_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/train_LMS.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
 df_train = pd.concat([df_train, df_train_ec], ignore_index=True)
 df_train = pd.concat([df_train, df_train_lms], ignore_index=True)
 
-df_validate = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_OutOfDomain.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_validate_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_EC.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
-df_validate_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_LMS.csv', usecols=['idx', 'sentence', 'label'], encoding='ISO-8859-1')
+df_validate = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_OutOfDomain.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_validate_ec = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_EC.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
+df_validate_lms = pd.read_csv('https://raw.githubusercontent.com/KaWengNg/DataSet/main/validate_LMS.csv', usecols=['sentence', 'label'], encoding='ISO-8859-1')
 df_validate = pd.concat([df_validate, df_validate_ec], ignore_index=True)
 df_validate = pd.concat([df_validate, df_validate_lms], ignore_index=True)
 
@@ -35,75 +26,50 @@ df_validate = df_validate.drop_duplicates(subset='sentence')
 
 # Create a continuous label mapping
 unique_labels = pd.concat([df_train['label'], df_validate['label']]).unique()
-label2id = {label: i for i, label in enumerate(sorted(unique_labels))}
-id2label = {i: label for label, i in label2id.items()}
+label2id = {int(label): i for i, label in enumerate(sorted(unique_labels))}
+id2label = {i: int(label) for label, i in label2id.items()}  # Convert int64 to int
 
 # Map the labels in the datasets
 df_train['label'] = df_train['label'].map(label2id)
 df_validate['label'] = df_validate['label'].map(label2id)
 
-# Convert the dataframes to Hugging Face datasets
-train_dataset = Dataset.from_pandas(df_train)
-val_dataset = Dataset.from_pandas(df_validate)
-shuffled_train_dataset = train_dataset.shuffle(seed=42)
-shuffled_val_dataset = val_dataset.shuffle(seed=42)
+# Tokenizer
+model_checkpoint = 'sentence-transformers/all-MiniLM-L12-v2'
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
 
-dataset = DatasetDict({
-    "train": shuffled_train_dataset,
-    "validation": shuffled_val_dataset
+# Tokenize the training and validation data
+tokenized_train = tokenizer(df_train['sentence'].tolist(), padding=True, truncation=True, max_length=512, return_tensors="pt")
+tokenized_val = tokenizer(df_validate['sentence'].tolist(), padding=True, truncation=True, max_length=512, return_tensors="pt")
+
+# Create a Hugging Face Dataset from the tokenized data
+train_dataset = Dataset.from_dict({
+    'input_ids': tokenized_train['input_ids'],
+    'attention_mask': tokenized_train['attention_mask'],  # Include attention masks
+    'label': torch.tensor(df_train['label'].values, dtype=torch.int)
 })
 
-# Ensuring they contain standard Python types
-id2label = {int(k): str(v) for k, v in id2label.items()}
-label2id = {str(k): int(v) for k, v in label2id.items()}
+val_dataset = Dataset.from_dict({
+    'input_ids': tokenized_val['input_ids'],
+    'attention_mask': tokenized_val['attention_mask'],  # Include attention masks
+    'label': torch.tensor(df_validate['label'].values, dtype=torch.int)
+})
 
-# Correct model checkpoint
-model_checkpoint = 'sentence-transformers/paraphrase-distilroberta-base-v1'
+# Combine the datasets into a DatasetDict
+dataset = DatasetDict({
+    "train": train_dataset,
+    "validation": val_dataset
+})
 
-# Generate classification model from model_checkpoint
-model = AutoModelForSequenceClassification.from_pretrained(
-    model_checkpoint, num_labels=len(label2id), id2label=id2label, label2id=label2id)
-
-tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, add_prefix_space=True)
-
-# Add pad token if none exists
-if tokenizer.pad_token is None:
-    tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-    model.resize_token_embeddings(len(tokenizer))
-
-def tokenize_function(examples):
-    # Extract text
-    text = examples["sentence"]
-
-    # Tokenize and truncate text
-    tokenizer.truncation_side = "left"
-    tokenized_inputs = tokenizer(
-        text,
-        return_tensors="np",
-        truncation=True,
-        max_length=512
-    )
-
-    return tokenized_inputs
-
-tokenized_dataset = dataset.map(tokenize_function, batched=True)
-tokenized_dataset
-
+# Data Collator
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
-# Define an evaluation function to pass into trainer later
+# Define evaluation function
 def compute_metrics(p):
     predictions, labels = p.predictions, p.label_ids
     
-    # If predictions is a tuple, get the first element (logits)
     if isinstance(predictions, tuple):
         predictions = predictions[0]
     
-    # If the predictions have more than 2 dimensions, reduce them accordingly
-    if predictions.ndim > 2:
-        predictions = predictions.squeeze()
-    
-    # Now apply argmax
     predictions = np.argmax(predictions, axis=1)
     
     precision_score_value = precision_score(labels, predictions, average='weighted', zero_division=0)
@@ -117,7 +83,7 @@ def compute_metrics(p):
         'recall': recall_score_value,
         'f1': f1_score_value
     }
-
+    
 # Compute class weights
 class_weights = compute_class_weight(
     class_weight='balanced',
@@ -136,49 +102,48 @@ class CustomTrainer(Trainer):
         loss = loss_fct(logits, labels)
         return (loss, outputs) if return_outputs else loss
 
+# Load model with LoRA
 peft_config = LoraConfig(task_type="SEQ_CLS",
-                        r=16,  # Increased capacity
-                        lora_alpha=32,  # Increased capacity
+                        r=16,
+                        lora_alpha=32,
                         bias="none",
-                        lora_dropout=0.15,  # Adjusted dropout
+                        lora_dropout=0.1,
                         target_modules=['query', "key"])
 
+model = AutoModelForSequenceClassification.from_pretrained(model_checkpoint, num_labels=len(label2id), id2label=id2label, label2id=label2id)
 model = get_peft_model(model, peft_config)
 model.print_trainable_parameters()
 
+# Training arguments
 batch_size = 8
-num_train_epochs = 11
+num_train_epochs = 13
 
-# Total number of training steps
 total_steps = len(train_dataset) // batch_size * num_train_epochs
-
-# Define warmup steps (10% of total steps)
 warmup_steps = int(0.1 * total_steps)
 
-# Define training arguments
 training_args = TrainingArguments(
     output_dir=model_checkpoint + "-lora-finetune",
-    learning_rate=5e-5,  # Adjusted learning rate
+    learning_rate=5e-5,
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
-    num_train_epochs=num_train_epochs,  # More epochs to allow overfitting
-    warmup_steps=warmup_steps,  # Set warmup steps
-    weight_decay=0.02,  # Adjusted weight decay
+    num_train_epochs=num_train_epochs,
+    warmup_steps=warmup_steps,
+    weight_decay=0.01,
     evaluation_strategy="epoch",
     save_strategy="epoch",   
     logging_dir='./logs',
     logging_steps=10,
     save_total_limit=2,
     load_best_model_at_end=True,
-    lr_scheduler_type="linear"  # Use a linear learning rate decay
+    lr_scheduler_type="linear"
 )
 
-# Create trainer object
+# Create Trainer
 trainer = CustomTrainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_dataset["train"],
-    eval_dataset=tokenized_dataset["validation"],
+    train_dataset=dataset["train"],
+    eval_dataset=dataset["validation"],
     tokenizer=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics
