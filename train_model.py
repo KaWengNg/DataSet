@@ -107,7 +107,7 @@ peft_config = LoraConfig(task_type="SEQ_CLS",
                         r=16,
                         lora_alpha=32,
                         bias="none",
-                        lora_dropout=0.1,
+                        lora_dropout=0.2,
                         target_modules=['query', "key"])
 
 model = AutoModelForSequenceClassification.from_pretrained(model_checkpoint, num_labels=len(label2id), id2label=id2label, label2id=label2id)
@@ -116,7 +116,7 @@ model.print_trainable_parameters()
 
 # Training arguments
 batch_size = 8
-num_train_epochs = 13
+num_train_epochs = 12
 
 total_steps = len(train_dataset) // batch_size * num_train_epochs
 warmup_steps = int(0.1 * total_steps)
@@ -127,7 +127,7 @@ training_args = TrainingArguments(
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
     num_train_epochs=num_train_epochs,
-    warmup_steps=warmup_steps,
+    # warmup_steps=warmup_steps,
     weight_decay=0.01,
     evaluation_strategy="epoch",
     save_strategy="epoch",   
@@ -135,7 +135,7 @@ training_args = TrainingArguments(
     logging_steps=10,
     save_total_limit=2,
     load_best_model_at_end=True,
-    lr_scheduler_type="linear"
+    lr_scheduler_type="cosine"
 )
 
 # Create Trainer
