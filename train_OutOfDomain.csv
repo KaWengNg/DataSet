@@ -15,13 +15,6 @@ sentence,label
 "She meticulously planned every detail of the event, ensuring that everything would be perfect for the big day.",0
 "The sound of the waves crashing against the shore was soothing, providing a perfect backdrop for their evening walk.",0
 "She spent hours tending to her garden, carefully watering and pruning the plants to keep them healthy.",0
-"The hike to the mountain summit was challenging, but the breathtaking view at the top made it all worthwhile.",0
-"They enjoyed a picnic in the park, relaxing on a blanket under the shade of a large oak tree.",0
-"The old mansion was full of mysteries, with hidden rooms and secret passages that intrigued everyone who visited.",0
-"He loved the smell of freshly cut grass, which always reminded him of summer days spent playing outside.",0
-"The theater was packed for the opening night of the play, with everyone eager to see the performance.",0
-"She found joy in painting, using vibrant colors to create scenes that reflected her mood and imagination.",0
-"The boat ride along the river was peaceful, with the gentle current carrying them past picturesque villages and open fields.",0
 "He spent the evening playing chess with his friend, both of them concentrating deeply on their next moves.",0
 "The market was bustling with activity, with vendors selling fresh produce, handmade goods, and delicious street food.",0
 "They loved exploring new cities, discovering unique shops, restaurants, and landmarks along the way.",0
@@ -290,21 +283,6 @@ Can you provide some insights on movie reviews?,0
 Can you provide some insights on weather in different countries?,0
 Can you provide some insights on latest technology trends?,0
 Can you provide some insights on cooking recipes?,0
-Can you provide some insights on fitness tips?,0
-Can you provide some insights on book recommendations?,0
-Can you provide some insights on music genres?,0
-Can you provide some insights on travel destinations?,0
-Can you provide some insights on financial advice?,0
-Can you provide some insights on language learning tips?,0
-Can you provide some insights on movie reviews?,0
-Can you provide some insights on weather in different countries?,0
-Can you provide some insights on latest technology trends?,0
-Can you provide some insights on cooking recipes?,0
-Can you provide some insights on fitness tips?,0
-Can you provide some insights on book recommendations?,0
-Can you provide some insights on music genres?,0
-Can you provide some insights on travel destinations?,0
-Can you provide some insights on financial advice?,0
 Can you provide some insights on language learning tips?,0
 Can you provide some insights on movie reviews?,0
 Can you provide some insights on book recommendations?,0
@@ -364,17 +342,6 @@ Can you provide some insights on music genres?,0
 Can you provide some insights on travel destinations?,0
 Can you provide some insights on financial advice?,0
 Can you provide some insights on language learning tips?,0
-Can you provide some insights on movie reviews?,0
-Can you provide some insights on weather in different countries?,0
-Can you provide some insights on latest technology trends?,0
-Can you provide some insights on cooking recipes?,0
-Can you provide some insights on fitness tips?,0
-Can you provide some insights on book recommendations?,0
-Can you provide some insights on music genres?,0
-Can you provide some insights on travel destinations?,0
-Can you provide some insights on financial advice?,0
-Can you provide some insights on language learning tips?,0
-Can you provide some insights on movie reviews?,0
 Can you provide some insights on weather in different countries?,0
 Can you provide some insights on latest technology trends?,0
 Can you provide some insights on cooking recipes?,0
@@ -448,13 +415,6 @@ Can you provide some insights on music genres?,0
 Can you provide some insights on travel destinations?,0
 Can you provide some insights on financial advice?,0
 Can you provide some insights on language learning tips?,0
-Can you provide some insights on movie reviews?,0
-Can you provide some insights on weather in different countries?,0
-Can you provide some insights on latest technology trends?,0
-Can you provide some insights on cooking recipes?,0
-Can you provide some insights on fitness tips?,0
-Can you provide some insights on book recommendations?,0
-Can you provide some insights on book recommendations?,0
 Can you provide some insights on movie reviews?,0
 Can you provide some insights on weather in different countries?,0
 Can you provide some insights on latest technology trends?,0
@@ -582,13 +542,6 @@ What are some details about financial advice?,0
 How do you feel about language learning tips?,0
 "I'm curious about movie reviews, can you elaborate?",0
 Where can I find information on weather in different countries?,0
-"I'm curious about latest technology trends, can you elaborate?",0
-Can you tell me more about cooking recipes?,0
-Any recommendations for fitness tips?,0
-Where can I find information on book recommendations?,0
-What should I know about music genres?,0
-Why is travel destinations important?,0
-What are some details about financial advice?,0
 "I'm curious about language learning tips, can you elaborate?",0
 What should I know about movie reviews?,0
 Ths is a smple senence with errors.,0
@@ -651,8 +604,6 @@ Esta é uma frase em português.,0
 cvb,0
 ncvb,0
 cvbx,0
-what is gender?,0
-what gender is?,0
 what is sex,0
 What is name,0
 What to do with AL?,0
